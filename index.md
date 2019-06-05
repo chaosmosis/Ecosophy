@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/chaosmosis/Ecosophy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Vous trouverez sur ce site les informations dont nous disposons actuellement concernant les dispositions monétaires du pays dans le Pays.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ce projet ne cherche en aucun à perdurer dans le temps.
 
 ### Markdown
 
