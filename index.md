@@ -1,4 +1,5 @@
-## Bienvenu sur le site du BRICO des atteintes à la foi publique
+# le site du BRICO 
+##                                des atteintes à la foi publique
 
 Vous trouverez sur ce site les informations dont nous disposons actuellement concernant les atteintes à la foi publique au sein du Pays dans le Pays.
 
