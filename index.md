@@ -16,14 +16,7 @@ Bienvenu sur le site du BRICO des atteintes à la foi publique
 Vous trouverez sur ce site les informations dont nous disposons actuellement concernant les atteintes à la foi publique au sein du Pays dans le Pays.
 
 Ce projet ne cherche en aucun à perdurer dans le temps.
-Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-Syntax highlighted code block
-
-# Header 1
-## Header 2
 ### Header 3
 
 - Bulleted
@@ -34,7 +27,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://github.com/chaosmosis/ecosophy/blob/master/Bitcoin.png)
 
 For more details see GitHub Flavored Markdown.
 Jekyll Themes
