@@ -1,5 +1,4 @@
-### Le site du BRICO
-##                                des atteintes à la foi publique
+### le site du BRICO des atteintes à la foi publique
 
 
 
@@ -11,7 +10,7 @@ Ce projet ne cherche en aucun à perdurer dans le temps.
 
 le projet "RefugeeCoin" vise à démontrer par le fait que l'on peut respecter a minima le contrat social fondamental : les êtres vivant ont droit à des vies dignes.
 
-                                           ![Image](https://github.com/chaosmosis/ecosophy/blob/master/Bitcoin.png)
+                                           ![Image](/Bitcoin.png)
 
 
 
