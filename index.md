@@ -1,6 +1,8 @@
 # le site du BRICO 
 ##                                des atteintes à la foi publique
 
+
+
 Vous trouverez sur ce site les informations dont nous disposons actuellement concernant les atteintes à la foi publique au sein du Pays dans le Pays.
 
 Ce projet ne cherche en aucun à perdurer dans le temps.
@@ -14,21 +16,20 @@ le projet "RefugeeCoin" vise à démontrer par le fait que l'on peut respecter a
 
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](https://github.com/chaosmosis/ecosophy/blob/master/Bitcoin.png)
+xxxx, xxxxx,
+   A tous, présents et à venir, Salut.
+   Vu le xxxx sur le fonctionnement de l'xxxx, l'xxxxx, § xx ;
+   Vu l'xxxxxx de la xxxxx ;
+   Vu la xxx du 31 juillet 2017 portant des dispositions financières et fiscales diverses et portant des mesures en matière de contrats de concession, l'xxxx ;
+   Vu la décision de la xxxxxx du 8 décembre 2017 relative à l'approbation du volume de l'émission de pièces en 2018 ;
+   Vu l'avis de l'xxxxxxx, donné le 2 mai 2018 ;
+   Vu l'accord de la xxxxx, donné le 16 mai 2018;
+   Vu les xxxx sur le xxxxxx, coordonnées le 12 janvier 1973, l'article 3, § 1er, remplacé par la loi du 4 juillet 1989 et modifié par la loi du 4 août 1996 ;
+   Vu l'urgence ;
+   Considérant que ces pièces doivent être émises selon un schéma d'émission strict ;
+   Sur la proposition du Ministre des Finances,
+   Nous avons arrêté et arrêtons :
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
