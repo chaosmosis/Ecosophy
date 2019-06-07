@@ -1,16 +1,4 @@
-PHILIPPE, Roi des Belges,
-   A tous, présents et à venir, Salut.
-   Vu le traité sur le fonctionnement de l'Union européenne, l'article 128, § 2 ;
-   Vu l'article 112 de la Constitution ;
-   Vu la loi du 31 juillet 2017 portant des dispositions financières et fiscales diverses et portant des mesures en matière de contrats de concession, l'article 4 ;
-   Vu la décision de la Banque centrale européenne du 8 décembre 2017 relative à l'approbation du volume de l'émission de pièces en 2018 ;
-   Vu l'avis de l'Inspection des Finances, donné le 2 mai 2018 ;
-   Vu l'accord de la Ministre du Budget, donné le 16 mai 2018;
-   Vu les lois sur le Conseil d'Etat, coordonnées le 12 janvier 1973, l'article 3, § 1er, remplacé par la loi du 4 juillet 1989 et modifié par la loi du 4 août 1996 ;
-   Vu l'urgence ;
-   Considérant que ces pièces doivent être émises selon un schéma d'émission strict ;
-   Sur la proposition du Ministre des Finances,
-   Nous avons arrêté et arrêtons :# le site du BRICO 
+### Le site du BRICO
 ##                                des atteintes à la foi publique
 
 
@@ -21,7 +9,7 @@ Ce projet ne cherche en aucun à perdurer dans le temps.
 
 ### Nos objectifs
 
-le projet "RefugeeCoin" vise à démontrer par le fait que l'on peut respecter a minima le contrat social fondamental : les êtres vivant ont droit à une vie digne.
+le projet "RefugeeCoin" vise à démontrer par le fait que l'on peut respecter a minima le contrat social fondamental : les êtres vivant ont droit à des vies dignes.
 
                                            ![Image](https://github.com/chaosmosis/ecosophy/blob/master/Bitcoin.png)
 
