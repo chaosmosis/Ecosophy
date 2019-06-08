@@ -1,3 +1,8 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: home
+---
 ### le site du BRICO des atteintes à la foi publique
 
 
@@ -10,7 +15,7 @@ Ce projet ne cherche en aucun à perdurer dans le temps.
 
 le projet "RefugeeCoin" vise à démontrer par le fait que l'on peut respecter a minima le contrat social fondamental : les êtres vivant ont droit à des vies dignes.
 
-                                           ![Image](/Bitcoin.png)
+                                      
 
 
 
@@ -30,13 +35,3 @@ xxxx, xxxxx,
    Sur la proposition du xxxx,
    Nous avons arrêté et arrêtons :
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Situation
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chaosmosis/Ecosophy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
