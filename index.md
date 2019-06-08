@@ -3,21 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-### le site du BRICO des atteintes à la foi publique
-
-
-
-Vous trouverez sur ce site les informations dont nous disposons actuellement concernant les atteintes à la foi publique au sein du Pays dans le Pays.
-
-Ce projet ne cherche en aucun à perdurer dans le temps.
-
-### Nos objectifs
-
-le projet "RefugeeCoin" vise à démontrer par le fait que l'on peut respecter a minima le contrat social fondamental : les êtres vivant ont droit à des vies dignes.
-
-                                      
-
-
+                            
 
 ```markdown
 
@@ -35,3 +21,5 @@ xxxx, xxxxx,
    Sur la proposition du xxxx,
    Nous avons arrêté et arrêtons :
 ```
+
+![louis](/assets/louis.jpg)
