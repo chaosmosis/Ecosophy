@@ -22,4 +22,4 @@ xxxx, xxxxx,
    Nous avons arrêté et arrêtons :
 ```
 
-![prison](/assets/prison.png)
+![rfc](/assets/john.jpg)
