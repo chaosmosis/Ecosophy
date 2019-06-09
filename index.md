@@ -23,3 +23,18 @@ xxxx, xxxxx,
 ```
 
 ![rfc](/assets/john.jpg)
+
+
+"
+### pas à pas 
+
+Nous cherchons ici à rendre disponible aux curieuses et curieux les étapes que nous avons opéré lors de notre BRICO sur les atteintes à la foi publique.
+
+Les Posts sur le site sont ordonné en respect à la chronologie des événements. 
+
+L'objectif de ce site est double :
+
+1. Fournir une documentation de nos réalisations aux internautes presents et à venir. 
+2. Donner la possibilitée à d'autres noyaux d'actions directs de s'inspirer de nôtre propagande par les actes. 
+ 
+
