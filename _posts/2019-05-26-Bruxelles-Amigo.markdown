@@ -5,7 +5,7 @@ date:   2019-05-26 21:57:40 +0200
 categorie: GareDuNord
 ---
 
-![image](/assets/prison.png)
+![prison](/assets/prison.png)
 
 
 {% highlight ruby %}
