@@ -14,7 +14,7 @@ Je t'explique, dans mon rève, je sortais du cours d'économie. Je venais d'appr
 
 reprenons l'example  classique du choix cornéliens auquelles sont confrontés ceux et celles qui sont conseillés par les économistes : produire des *canons* ou produire du *beurre*. 
 
-![image](https://slideplayer.fr/slide/5430455/17/images/7/Co%C3%BBt+de+renonciation+d%E2%80%99une+tonne+suppl%C3%A9mentaire+de+beurre.jpg) 
+![image](https://slideplayer.fr/slide/5430455/17/images/7/Co%C3%BBt+de+renonciation+d%E2%80%99une+tonne+suppl%C3%A9mentaire+de+beurre.jpg | width=90)
 
 Pour les économistes, si l'on considère l'ensemble des possibilité de production que peut atteindre une éocnomie donnée, par ceux-ci, il y a des choix plus rationnel que d'autres. 
 
