@@ -6,17 +6,26 @@ author: "Slavoy XYZETC"
 meta: "marx"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
-
 ## J'ai fait un rêve.
 
-C'était il n'y pas très lontemps. et dans mon songe, les écomistes se mettaient grève... je t'explique.
+C'était il n'y pas très lontemps. Et dans mon songe, les économistes se mettaient grève en mobilisant les principes de l'économie de Mankiw.
 
-Je sortais du cours d'économie. Je venais d'apprendre que pour les économistes nous étions des agents économiques. Et après son monologue sur le fait que ce paradigme se base sur une axiomatique qui décrit de manière très formelle la rationalité économique. (il faut avouer qu'on sentait chez le prof une sorte de hargne vis-à-vis d'une manière de pensée quelque peu abstraite de la réalité concrète comme ne cessait de le dire dans sa barbe mon voisin de table) 
+Je t'explique, dans mon rève, je sortais du cours d'économie. Je venais d'apprendre que pour les économistes nous étions des agents économiques. Ces agents économique agirait selon une axiomatique bien définie. Si les choix que ces unités institutionnelles étaient étudiés à l'aune de cette axiomatique, de cet appareil d'enregistrement théorique, l'économoyste seraient à même de dire si oui ou non, un choix est rationnel. 
 
-Bre, selon les économoistes "à la mankiw", nous sommes,en tant qu'agenté économique rationnelle sensé opérer des choix. La science économique néoclassique, à ce qu'en j'en ai compris, porpose quant à elle une amnière d'appréhendé la réalsté économqiue qui repose sur deux élément essentielle. 
+reprenons l'example  classique du choix cornéliens auquelles sont confrontés ceux et celles qui sont conseillés par les économistes : produire des *canons* ou produire du *beurre*. 
 
-D'abord, une analyse positive de la réalité économique et ensuite, mais c'était moin clair dans osn exposé cette partie là, une version perspective sur la réalité économique. 
+![image](https://slideplayer.fr/slide/5430455/17/images/7/Co%C3%BBt+de+renonciation+d%E2%80%99une+tonne+suppl%C3%A9mentaire+de+beurre.jpg) 
+
+Pour les économistes, si l'on considère l'ensemble des possibilité de production que peut atteindre une éocnomie donnée, par ceux-ci, il y a des choix plus rationnel que d'autres. 
+
+En effet, pourrquoi ne pas profiter  d'une augmnetation de la production de cannon si le faisant, je ne suis pas obligé de produire une moinndre quantité de Beurre ? Du point de vudd 'un grand général, la raison est évidente. Imaginez vous en pleine guerre, et avec des gens en train de flaner au lieu de travailler... On voit bien qu'il y a des choix de production qui seront préféré à d'autres, mais que cela dépend du point de vue que l'on prend. 
+
+l'économiste  se distingue des agents économiques rationnels qu'ils et elles étudient au sens où les économistes ont la possibilité d'adopter une position de surplomb, qui les met, en quelque sorte, dans une position ominitiente vis des autres autres entités dont ils s'occupent de modéliser les intéreactions, soit les comportements. Comportement, préférences, qu'ils supposent être, essentielleembt, contraint  de l'extérieur. 
+
+
+Bref, selon les économoistes "à la Mankiw", nous sommes, en tant qu'agenté économique rationnel sensés opérer des choix. La science économique néo-classique, à ce qu'en j'en ai compris, prorpose quant à elle une manière d'appréhendé la réalité économqiue qui repose sur deux éléments essentiels. 
+
+D'abord, une analyse positive de la réalité économique et ensuite, mais c'était moin clair dans son exposé cette partie là, une version perspective sur la réalité économique. 
 
 Bref,*in fine*, nous sommes sensés opérés des choix en prenant en consédération plusieurs états du monde possible. Les adminsitrations publiques opèrent des choix  lorsqu'ils décident de lever tel impôts plutot qu'un autre. les ménages,  les gens comme vous et moi, oprent aussi des choix. Vont-il laissé une héritage ou non ? quelles st la forme matérielle la plus adéquate pour léguer à mes enfants ? 
 
@@ -27,7 +36,7 @@ Le prof avait passé son temps à redire ce qu'il dit chaque année.
 
 Autrement dit, ils sont preneurs et preneuses de prix nous avait-t-il dit avec un sourire en coin. 
 
-L'hypothèse ne me semblait pas absurde. Moi aussi, quand je bosse  en noir au restaurant, je n'ai pas beaucoup le choix sur mon salaire. 
+L'hypothèse ne me semblait pas absurde. Moi aussi, quand je bosse en noir au restaurant, je n'ai pas beaucoup le choix sur mon salaire. 
 
 Ce que le professeur apelle " le salaire de subsistance", je crois juste que je l'aurais appelé le salaire maximum que je peux espérer avoir si je ferme bien ma gueule quand le responsable me met la main au cul...
 
@@ -154,6 +163,7 @@ In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla e
 
 ![image](https://s.brsimg.com/static-000/cache/i/content/images/d/1/0/d10af0924fdaa457a4baac4c6853502e-800x532.jpg) 
 
+https://slideplayer.fr/slide/5430455/17/images/7/Co%C3%BBt+de+renonciation+d%E2%80%99une+tonne+suppl%C3%A9mentaire+de+beurre.jpg
 Lors des allocutions de la présidence de la Banque Centrale Européenne, une chose frappe au premiers coup d'oeil : l'absence de drapeaux. 
 
 
