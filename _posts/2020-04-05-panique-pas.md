@@ -100,7 +100,7 @@ In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla e
 
 #### nourrissant les rêves les plus doux 
 
-... you can [get the PDF](/assets/john.jpg) directly.
+... you can ![image](https://s.brsimg.com/static-000/cache/i/content/images/d/1/0/d10af0924fdaa457a4baac4c6853502e-800x532.jpg) directly.
 In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
 
 ### Ne paniquons pas !
