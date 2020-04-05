@@ -12,6 +12,8 @@ C'était il n'y pas très lontemps. Et dans mon songe, les économistes se metta
 
 Je t'explique, dans mon rève, je sortais du cours d'économie. Je venais d'apprendre que pour les économistes nous étions des agents économiques. Ces agents économique agirait selon une axiomatique bien définie. Si les choix que ces unités institutionnelles étaient étudiés à l'aune de cette axiomatique, de cet appareil d'enregistrement théorique, l'économoyste seraient à même de dire si oui ou non, un choix est rationnel. 
 
+### Je pensais comme un économiste 
+
 Reprenons l'example classique du choix cornéliens auquel sont confrontés ceux et celles qui sont conseillés par les économistes : produire des *canons* ou produire du *beurre* étant donné une technolgie de production donnée. Si on se souvient de la notion *frontière des posssibilité de production*, on peut facilement comprendre le cas suivant tiré d'un autre site internet : 
 
 <div style="text-align: center"><img src="https://slideplayer.fr/slide/5430455/17/images/7/Co%C3%BBt+de+renonciation+d%E2%80%99une+tonne+suppl%C3%A9mentaire+de+beurre.jpg" alt="drawing" width="300"/></div>
@@ -29,6 +31,8 @@ Bref, selon les économoistes "à la Mankiw", nous sommes, en tant qu'agent éco
 D'abord, une analyse positive de la réalité économique et ensuite, anayse normative de cette même réalité économique. Dans la première, l'adage veut que l'on s'attelle essentiellement à dire *ce qui est* alors que lors de la seconde analyse, l'analyse normative, l'économiste a échaffaudée une théorie, dite du Bien-être qui permet aux économistes de peser les joies et les peines des différente unités instutionnelles qui composent un marché.
 
 *In fine*, nous sommes sensés opérer des choix en prenant en consédération plusieurs états possibles du monde. La souveraine opère un choix lorsqu'elle décide de lever tel impôts plutôt qu'un autre, lorsqu'elle décident d'acheter des machines pour satisfaire sa mission de service à la collectivité, etc... De même, dans les ménages eux aussi choissent. Avec d'autres échelles de valeurs, mais in fine, ils et elles choissent.
+
+### Qui se met à distinguer "L'Offre" de "La Demande"
 
 Les gens comme vous et moi, oprent aussi des choix. Vont-il laissé une héritage ou non ? quelles st la forme matérielle la plus adéquate pour léguer à mes enfants ? 
 
@@ -49,7 +53,11 @@ Au delà de ce prix minimum, il semblerait que je sois comme l'ensemble des él�
 
 Sur *le marché du travail*, cela consiste à imaginer que la quantité de travail que je vais décidé d'offrir sur ce marché dépend positivement du salaire que je peux espérer toucher pour une heure de travail en plus.  Les économistes disent que l'offre de travail est plus ou moins sensible aux variations du salaire. 
 
-Et l'économiste qui veut se simplifier la vie postule généralement la loi de l'offre, autrement dit, ils et elles postulent une élasticité prix de l'offre de temps de travail non nul et positive.`
+Et l'économiste qui veut se simplifier la vie postule généralement la loi de l'offre, autrement dit, ils et elles postulent une élasticité prix de l'offre de temps de travail non nul et positive.
+
+
+
+### J'avais la sensibilité d'une entreprise
 
 
 mettre sur le marché du travail va dépendre de  nombreux déterminants. Ma force de travail, comme toute marchandise, comme tout bien au sens des économistses et un bien rival qui est est appropriable. ce faisant je distingue le temps de travail que je mets à disposition des mes employeurs d'autres type de biens. En effet, en disant que la ma marchandis, ma force de travail  est un bien dont la consommation rivale, je dis en réalités que les produits que je réaliserais en tant qu'ouvrier ou employé au sein d'une unité isnitutionnele quelconque  appartient uniquement à celui ou celle à qui je l'ai vendu. 
@@ -82,17 +90,16 @@ Christine Lagarde en 2019 emboîte le pas quasi parfaitement:
 
 > cette évaluation ressort également globalement des projections macroéconomiques de décembre 2019 établies par les services de l eurosystème pour la zone euro qui tablent sur une hausse annuelle de l ipch de 1 2 en 2019 1
 
-## un virus
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
 
-### qui voyageait
+### Qui opère sur un Marché Concurrentiel
 
 Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.
 
 Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
 
-### de chaines d'approvisionnement
+### et qui vend son temps de cerveau disponible au plus offrant
 
 Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
 
