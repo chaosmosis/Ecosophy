@@ -8,9 +8,15 @@ meta: "marx"
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
 
-# Le Policy Mix à l'heure du Covid-19
+## J'ai fait un rêve...
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kVd7zUgs7Hk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Nous étions au DK, à Saint-Gilles. Une commune Bruxelloise où l'on peut manger dans d'excellents restaurants grecs pour des prix raisonables. Il n'y avait personne sur cette place et pourtant un jeune homme, une soiré de l'été 2019 s'est levé sur l'estrade. Il avait à peine quinze ans. 
+
+Il n'avait peur de rien. 
+
+Dans ma tête revenait les paroles de l'ancien testatament auquel Jean-Claude Trichet, le second président de la Banque Centrale Européenne. Il avait eu ces mots  :
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hxijRRUQJuk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <img src="{{ site.baseurl }}/assets/exo3bb.png" alt="Example catplot">
 
