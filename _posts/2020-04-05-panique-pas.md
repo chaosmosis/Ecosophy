@@ -10,11 +10,22 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eg
 
 ## J'ai fait un rêve.
 
-C'était il n'y pas très lontemps. Je sortais du cours d'économie. Je venais d'apprendre que pour les économistes nous étions des agents économiques. Nous étions sensé opéré des choix en prenant en consédération plusieur état du monde. Le prof avait passé son temps à redire ce qu'il dit chaque année. 
+C'était il n'y pas très lontemps. Je sortais du cours d'économie. Je venais d'apprendre que pour les économistes nous étions des agents économiques. Et après son monologue sur le fait que ce paradigme se base sur une axiomatique qui décrit de manière très formelle la rationalité économique. (il faut avouer qu'on sentait chez le prof une sorte de hargne vis-à-vis d'une manière de pensée quelque peu abstraite de la réalité concrète comme ne cessait de le dire dans sa barbe mon voisin de table) 
 
-> Selon le paradigme néo-classique, les agents économiques sont "price-take". 
+Bre, selon les économoistes "à la mankiw", nous sommes,en tant qu'agenté économique rationnelle sensé opérer des choix. La science économique néoclassique, à ce qu'en j'en ai compris, porpose quant à elle une amnière d'appréhendé la réalsté économqiue qui repose sur deux élément essentielle. 
 
-Autrement dit, ils sont preneurs et preneuses de prix nous avait-t-il dit avec un sourire en coin. L'hypothèse ne me semblait pas absurde. Moi aussi, quand je bosse  en noir au restaurant, je n'ai pas beaucoup le choix sur mon salaire. 
+D'abord, une analyse positive de la réalité économique et ensuite, mais c'était moin clair dans osn exposé cette partie là, une version perspective sur la réalité économique. 
+
+Bref,*in fine*, nous sommes sensés opérés des choix en prenant en consédération plusieurs états du monde possible. Les adminsitrations publiques opèrent des choix  lorsqu'ils décident de lever tel impôts plutot qu'un autre. les ménages,  les gens comme vous et moi, oprent aussi des choix. Vont-il laissé une héritage ou non ? quelles st la forme matérielle la plus adéquate pour léguer à mes enfants ? 
+
+
+Le prof avait passé son temps à redire ce qu'il dit chaque année. 
+
+> Selon le paradigme néo-classique, les agents économiques sont "price-taker". 
+
+Autrement dit, ils sont preneurs et preneuses de prix nous avait-t-il dit avec un sourire en coin. 
+
+L'hypothèse ne me semblait pas absurde. Moi aussi, quand je bosse  en noir au restaurant, je n'ai pas beaucoup le choix sur mon salaire. 
 
 Ce que le professeur apelle " le salaire de subsistance", je crois juste que je l'aurais appelé le salaire maximum que je peux espérer avoir si je ferme bien ma gueule quand le responsable me met la main au cul...
 
