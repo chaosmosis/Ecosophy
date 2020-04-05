@@ -12,9 +12,9 @@ C'était il n'y pas très lontemps. Et dans mon songe, les économistes se metta
 
 Je t'explique, dans mon rève, je sortais du cours d'économie. Je venais d'apprendre que pour les économistes nous étions des agents économiques. Ces agents économique agirait selon une axiomatique bien définie. Si les choix que ces unités institutionnelles étaient étudiés à l'aune de cette axiomatique, de cet appareil d'enregistrement théorique, l'économoyste seraient à même de dire si oui ou non, un choix est rationnel. 
 
-reprenons l'example  classique du choix cornéliens auquelles sont confrontés ceux et celles qui sont conseillés par les économistes : produire des *canons* ou produire du *beurre*. 
+Reprenons l'example classique du choix cornéliens auquel sont confrontés ceux et celles qui sont conseillés par les économistes : produire des *canons* ou produire du *beurre* étant donné une technolgie de production donnée. Si on se souvient de la notion *frontière des posssibilité de production*, on peut facilement comprendre le cas suivant tiré d'un autre site internet : 
 
-<img src="https://slideplayer.fr/slide/5430455/17/images/7/Co%C3%BBt+de+renonciation+d%E2%80%99une+tonne+suppl%C3%A9mentaire+de+beurre.jpg" alt="drawing" width="200"/>
+<div style="text-align: right"><img src="https://slideplayer.fr/slide/5430455/17/images/7/Co%C3%BBt+de+renonciation+d%E2%80%99une+tonne+suppl%C3%A9mentaire+de+beurre.jpg" alt="drawing" width="300"/>
 
 Pour les économistes, si l'on considère l'ensemble des possibilité de production que peut atteindre une éocnomie donnée, par ceux-ci, il y a des choix plus rationnel que d'autres. 
 
