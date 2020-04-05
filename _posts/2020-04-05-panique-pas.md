@@ -100,8 +100,8 @@ In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla e
 
 #### nourrissant les rêves les plus doux 
 
+![My helpful screenshot](/assets/john.jpg)
 
-![rfc](/assets/john.jpg)
 In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
 
 ### Ne paniquons pas !
