@@ -18,7 +18,9 @@ Reprenons l'example classique du choix cornéliens auquel sont confrontés ceux 
 
 Pour les économistes, si l'on considère l'ensemble des possibilité de production que peut atteindre une éocnomie donnée, par ceux-ci, il y a des choix plus rationnel que d'autres. 
 
-En effet, pourrquoi ne pas profiter  d'une augmnetation de la production de cannon si le faisant, je ne suis pas obligé de produire une moinndre quantité de Beurre ? Du point de vudd 'un grand général, la raison est évidente. Imaginez vous en pleine guerre, et avec des gens en train de flaner au lieu de travailler... On voit bien qu'il y a des choix de production qui seront préféré à d'autres, mais que cela dépend du point de vue que l'on prend. 
+En effet, pourrquoi ne pas profiter  d'une augmnetation de la production de canon si le faisant, je ne suis pas obligé de produire une moindre quantité de Beurre ? 
+
+Imaginez vous sur un champs de bataille et la raison devient évidente. Imaginez vous en pleine guerre, et avec des gens en train de flaner au lieu de travailler... On voit bien qu'il y a des choix de production qui seront préféré à d'autres, mais que cela dépend du point de vue que l'on prend. 
 
 l'économiste  se distingue des agents économiques rationnels qu'ils et elles étudient au sens où les économistes ont la possibilité d'adopter une position de surplomb, qui les met, en quelque sorte, dans une position ominitiente vis des autres autres entités dont ils s'occupent de modéliser les intéreactions, soit les comportements. Comportement, préférences, qu'ils supposent être, essentiellement, contraint  de l'extérieur. 
 
