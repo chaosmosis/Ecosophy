@@ -73,26 +73,26 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eg
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. 
 
+Mais dans le courant de l'année 2019, alors que dont on s'incline devant les succès de la politique monétaire menée depuis 2014 on rappelle néanmoins que pour les "effets bénéfiques" se face réellement jour, il faut aussi des réformes :
 
-
-```html
-<html>
-  <head>
-  </head>
-  <body>
-    <p>Hello, World!</p>
-  </body>
-</html>
-```
+> afin que les effets bénéfiques de nos mesures de politique monétaire puissent se faire sentir pleinement d autres pans de la politique économique doivent apporter une contribution plus décisive au rehaussement du potentiel de croissance à plus long terme et à la réduction des vulnérabilités
 
 
 In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
 
-#### Découvrant les corrélations les plus folles 
+#### On continue à travailler : "whatever it cost" 
 
 In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
+Christien lagarde, en Janvier et Mars 2020, et en décembre 2019 
 
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
+> nous entendons poursuivre les réinvestissements en totalité des remboursements au titre du principal des titres arrivant à échéance acquis dans le cadre de l app pendant une période prolongée après la date à laquelle nous commencerons à relever les taux d intérêt directeurs de la bce 
+
+
+In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. ELle reprenait le flambeaux d'un Mario qui de Juin 2018 à Octobre 2018 a martelé :
+
+> ce soutien monétaire continu est apporté par les achats nets supplémentaires d actifs décidés lors de notre réunion de politique monétaire d octobre par le volume considérable de titres acquis et les réinvestissements à venir ainsi que par nos indications sur la trajectoire future des taux d intérêt directeurs forward guidance
+
+![rfc](/assets/john.jpg)
 
 #### nourrissant les rêves les plus doux 
 
