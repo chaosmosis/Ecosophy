@@ -28,7 +28,12 @@ Branches  & Stocks initiaux $i$ & Stocks finals $i$  \\
  \hline
 \end{tabular}
 $$
+
+
 Dans ma tête revenait les paroles de l'ancien testatament auquel Jean-Claude Trichet, le second président de la Banque Centrale Européenne. Il avait eu ces mots  :
+
+$$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hxijRRUQJuk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
