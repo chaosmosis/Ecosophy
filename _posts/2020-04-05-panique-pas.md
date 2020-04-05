@@ -14,19 +14,19 @@ Je t'explique, dans mon rève, je sortais du cours d'économie. Je venais d'appr
 
 Reprenons l'example classique du choix cornéliens auquel sont confrontés ceux et celles qui sont conseillés par les économistes : produire des *canons* ou produire du *beurre* étant donné une technolgie de production donnée. Si on se souvient de la notion *frontière des posssibilité de production*, on peut facilement comprendre le cas suivant tiré d'un autre site internet : 
 
-<div style="text-align: right"><img src="https://slideplayer.fr/slide/5430455/17/images/7/Co%C3%BBt+de+renonciation+d%E2%80%99une+tonne+suppl%C3%A9mentaire+de+beurre.jpg" alt="drawing" width="300"/></div>
+<div style="text-align: center"><img src="https://slideplayer.fr/slide/5430455/17/images/7/Co%C3%BBt+de+renonciation+d%E2%80%99une+tonne+suppl%C3%A9mentaire+de+beurre.jpg" alt="drawing" width="300"/></div>
 
-Pour les économistes, si l'on considère l'ensemble des possibilité de production que peut atteindre une éocnomie donnée, par ceux-ci, il y a des choix plus rationnel que d'autres. 
+Pour les économistes, si l'on considère l'ensemble des possibilités de production que peut atteindre une économie donnée, il y existe des choix plus rationnels que d'autres. 
 
-En effet, pourrquoi ne pas profiter  d'une augmnetation de la production de canon si le faisant, je ne suis pas obligé de produire une moindre quantité de Beurre ? 
+En effet, pourrquoi ne pas profiter d'une augmnetation de la production de canon si, en la produisant faisant, je ne renonce pas à  produire une moindre quantité de Beurre étant donné les facteurs de productions à ma diposition ? 
 
-Imaginez vous sur un champs de bataille et la raison devient évidente. Imaginez vous en pleine guerre, et avec des gens en train de flaner au lieu de travailler... On voit bien qu'il y a des choix de production qui seront préféré à d'autres, mais que cela dépend du point de vue que l'on prend. 
+Imaginez vous sur un champs de bataille et la raison devient évidente. Imaginez vous en pleine guerre, et avec des gens en train de flaner au lieu de travailler... On voit bien qu'il y a des choix de production qui seront préférés à d'autres, mais que pour jauger de l'efficacité ou non d'une mesure, il faut raisonner "à priori"/
 
-l'économiste  se distingue des agents économiques rationnels qu'ils et elles étudient au sens où les économistes ont la possibilité d'adopter une position de surplomb, qui les met, en quelque sorte, dans une position ominitiente vis des autres autres entités dont ils s'occupent de modéliser les intéreactions, soit les comportements. Comportement, préférences, qu'ils supposent être, essentiellement, contraint  de l'extérieur. 
+L'économiste  se distingue des agents économiques rationnels qu'ils étudient au sens où les économistes ont la possibilité d'adopter une position de surplomb, qui les met, en quelque sorte, dans une position ominitiente vis des autres autres entités dont ils s'occupent de modéliser les intéreactions, soit les comportements. 
 
-Bref, selon les économoistes "à la Mankiw", nous sommes, en tant qu'agenté économique rationnel sensés opérer des choix. La science économique néo-classique, à ce qu'en j'en ai compris, prorpose quant à elle une manière d'appréhendé la réalité économqiue qui repose sur deux éléments essentiels. 
+Bref, selon les économoistes "à la Mankiw", nous sommes, en tant qu'agent économique rationnel sensés opérer des choix. La science économique néo-classique propose une manière d'appréhender la réalité économqiue qui repose sur deux éléments essentiels. 
 
-D'abord, une analyse positive de la réalité économique et ensuite, mais c'était moin clair dans son exposé cette partie là, une version perspective sur la réalité économique. 
+D'abord, une analyse positive de la réalité économique et ensuite, anayse normative de cette même réalité économique. Dans la première, l'adage veut que l'on s'attelle essentiellement à dire *ce qui est* alors que lors de la seconde analyse, l'analyse normative, l'économiste a échaffaudée une théorie, dite du Bien-être qui permet aux économistes de peser les joies et les peines des différente unités instutionnelles qui composent un marché.
 
 Bref,*in fine*, nous sommes sensés opérés des choix en prenant en consédération plusieurs états du monde possible. Les adminsitrations publiques opèrent des choix  lorsqu'ils décident de lever tel impôts plutot qu'un autre. les ménages,  les gens comme vous et moi, oprent aussi des choix. Vont-il laissé une héritage ou non ? quelles st la forme matérielle la plus adéquate pour léguer à mes enfants ? 
 
