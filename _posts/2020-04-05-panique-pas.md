@@ -100,8 +100,7 @@ In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla e
 
 #### nourrissant les rêves les plus doux 
 
-{% include figure image_path="/assets/john.jpg" alt="this is a placeholder image" caption="This is a figure caption." %}
-
+... you can [get the PDF](/assets/john.jpg) directly.
 In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
 
 ### Ne paniquons pas !
