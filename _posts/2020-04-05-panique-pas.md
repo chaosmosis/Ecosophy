@@ -10,7 +10,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eg
 
 ## J'ai fait un rêve.
 
-C'était il n'y pas très lontemps. Je sortais du cours d'économie. Je venais d'apprendre que pour les économistes nous étions des agents économiques. Et après son monologue sur le fait que ce paradigme se base sur une axiomatique qui décrit de manière très formelle la rationalité économique. (il faut avouer qu'on sentait chez le prof une sorte de hargne vis-à-vis d'une manière de pensée quelque peu abstraite de la réalité concrète comme ne cessait de le dire dans sa barbe mon voisin de table) 
+C'était il n'y pas très lontemps. et dans mon songe, les écomistes se mettaient grève... je t'explique.
+
+Je sortais du cours d'économie. Je venais d'apprendre que pour les économistes nous étions des agents économiques. Et après son monologue sur le fait que ce paradigme se base sur une axiomatique qui décrit de manière très formelle la rationalité économique. (il faut avouer qu'on sentait chez le prof une sorte de hargne vis-à-vis d'une manière de pensée quelque peu abstraite de la réalité concrète comme ne cessait de le dire dans sa barbe mon voisin de table) 
 
 Bre, selon les économoistes "à la mankiw", nous sommes,en tant qu'agenté économique rationnelle sensé opérer des choix. La science économique néoclassique, à ce qu'en j'en ai compris, porpose quant à elle une amnière d'appréhendé la réalsté économqiue qui repose sur deux élément essentielle. 
 
@@ -29,7 +31,18 @@ L'hypothèse ne me semblait pas absurde. Moi aussi, quand je bosse  en noir au r
 
 Ce que le professeur apelle " le salaire de subsistance", je crois juste que je l'aurais appelé le salaire maximum que je peux espérer avoir si je ferme bien ma gueule quand le responsable me met la main au cul...
 
-Bref, disons donc que nous appellerons pour la suite de ce texte, ce "salaire de réservation", ci-après dénoté par $$w_t$$, le prix minum auquel je suis réduit lorsque je suis forcé  de rester calme quand face aux mains baladeuses de ma patrone.
+Bref, disons donc que nous appellerons pour la suite de ce texte, ce "salaire de réservation", ci-après dénoté par $$w_t$$, le prix minum auquel je suis réduit d'accepter de vendre ma force de travail sur *le marché du travail*. 
+
+Au delà de ce prix minimum, il semblerait que je sois comme l'ensemble des éléments de la multitude que le prof représente dans ces schémas, autrement dit, comme l'indique le huitième principe de l'économie,  je réagis aux incitants. 
+
+Sur *le marché du travail*, cela consiste à imaginer que la quantité de travail que je vais décidé d'offrir sur ce marché dépend positivement du salaire que je peux espérer toucher pour une heure de travail en plus.  Les économistes disent que l'offre de travail est plus ou moins sensible aux variations du salaire. 
+
+Et l'économiste qui veut se simplifier la vie postule généralement la loi de l'offre, autrement dit, ils et elles postulent une élasticité prix de l'offre de temps de travail non nul et positive.`
+
+
+mettre sur le marché du travail va dépendre de  nombreux déterminants. Ma force de travail, comme toute marchandise, comme tout bien au sens des économistses et un bien rival qui est est appropriable. ce faisant je distingue le temps de travail que je mets à disposition des mes employeurs d'autres type de biens. En effet, en disant que la ma marchandis, ma force de travail  est un bien dont la consommation rivale, je dis en réalités que les produits que je réaliserais en tant qu'ouvrier ou employé au sein d'une unité isnitutionnele quelconque  appartient uniquement à celui ou celle à qui je l'ai vendu. 
+
+je me suis aliéné, par un contrat,le résultat de mon travail. 
 
 
 Il n'avait peur de rien. $$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
