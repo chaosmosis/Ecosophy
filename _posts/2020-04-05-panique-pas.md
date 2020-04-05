@@ -10,9 +10,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eg
 
 ## Il était une fois
 
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.
+Dés Juin 2015, le ton est donné par Mario :
 
-Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+> ce scénario ressort également globalement des projections macroéconomiques de juin 2015 établies par les services de l eurosystème pour la zone euro qui tablent sur une hausse annuelle de l ipch de 0 3 en 2015
+
+Christine Lagarde en 2019 emboîte le pas quasi parfaitement:
+
+> cette évaluation ressort également globalement des projections macroéconomiques de décembre 2019 établies par les services de l eurosystème pour la zone euro qui tablent sur une hausse annuelle de l ipch de 1 2 en 2019 1
 
 ## un virus
 
@@ -92,10 +96,12 @@ In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla e
 
 > ce soutien monétaire continu est apporté par les achats nets supplémentaires d actifs décidés lors de notre réunion de politique monétaire d octobre par le volume considérable de titres acquis et les réinvestissements à venir ainsi que par nos indications sur la trajectoire future des taux d intérêt directeurs forward guidance
 
-![rfc](/assets/john.jpg)
+
 
 #### nourrissant les rêves les plus doux 
 
+
+![rfc](/assets/john.jpg)
 In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
 
 ### Ne paniquons pas !
