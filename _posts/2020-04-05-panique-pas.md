@@ -8,9 +8,18 @@ meta: "marx"
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
 
-## J'ai fait un rêve...
+## J'ai fait un rêve.
 
-Nous étions au DK, à Saint-Gilles. Une commune Bruxelloise où l'on peut manger dans d'excellents restaurants grecs pour des prix raisonables. Il n'y avait personne sur cette place et pourtant un jeune homme, une soiré de l'été 2019 s'est levé sur l'estrade. Il avait à peine quinze ans. 
+C'était il n'y pas très lontemps. Je sortais du cours d'économie. Je venais d'apprendre que pour les économistes nous étions des agents économiques. Nous étions sensé opéré des choix en prenant en consédération plusieur état du monde. Le prof avait passé son temps à redire ce qu'il dit chaque année. 
+
+> Selon le paradigme néo-classique, les agents économiques sont "price-take". 
+
+Autrement dit, ils sont preneurs et preneuses de prix nous avait-t-il dit avec un sourire en coin. L'hypothèse ne me semblait pas absurde. Moi aussi, quand je bosse  en noir au restaurant, je n'ai pas beaucoup le choix sur mon salaire. 
+
+Ce que le professeur apelle " le salaire de subsistance", je crois juste que je l'aurais appelé le salaire maximum que je peux espérer avoir si je ferme bien ma gueule quand le responsable me met la main au cul...
+
+Bref, disons donc que nous appellerons pour la suite de ce texte, ce "salaire de réservation", ci-après dénoté par $$w_t$$, le prix minum auquel je suis réduit lorsque je suis forcé  de rester calme quand face aux mains baladeuses de ma patrone.
+
 
 Il n'avait peur de rien. $$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
 
