@@ -15,9 +15,8 @@ Nous étions au DK, à Saint-Gilles. Une commune Bruxelloise où l'on peut mange
 Il n'avait peur de rien. $$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
 
 
-$$ c_{f:i} = c_{f:i-1} + pl(c_{f})_{i-1}$  & $c_{f:i+1} = c_{f:i} + pl(c_{f})_{i}\\
- \hline
- $$
+$$ c_{f:i} = c_{f:i-1} + pl(c_{f})_{i-1}$$
+et $$c_{f:i+1} = c_{f:i} + pl(c_{f})_{i}$$
 
 
 Dans ma tête revenait les paroles de l'ancien testatament auquel Jean-Claude Trichet, le second président de la Banque Centrale Européenne. Il avait eu ces mots  :
