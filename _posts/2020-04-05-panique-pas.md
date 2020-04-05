@@ -8,9 +8,9 @@ meta: "marx"
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
 
-## Il était une fois
+# Le Policy Mix à l'heure du Covid-19
 
-{% include youtube.html id=AJCJTO5Ocmg %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kVd7zUgs7Hk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <img src="{{ site.baseurl }}/assets/exo3bb.png" alt="Example catplot">
 
