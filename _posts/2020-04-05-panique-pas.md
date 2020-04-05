@@ -12,6 +12,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eg
 
 {% include youtube.html id=dQw4w9WgXcQ %}
 
+![GitHub Logo](/assets/john.jpg)
+
 Dés Juin 2015, le ton est donné par Mario :
 
 > ce scénario ressort également globalement des projections macroéconomiques de juin 2015 établies par les services de l eurosystème pour la zone euro qui tablent sur une hausse annuelle de l ipch de 0 3 en 2015
