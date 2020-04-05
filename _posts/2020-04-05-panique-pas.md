@@ -12,7 +12,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eg
 
 {% include youtube.html id=AJCJTO5Ocmg %}
 
-<img src="{{ site.baseurl }}/assets/exo3bb.eps" alt="Example catplot">
+<img src="{{ site.baseurl }}/assets/exo3bb.pdf" alt="Example catplot">
 
 
 Dés Juin 2015, le ton est donné par Mario :
