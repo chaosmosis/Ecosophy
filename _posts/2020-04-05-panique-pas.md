@@ -14,6 +14,20 @@ Nous étions au DK, à Saint-Gilles. Une commune Bruxelloise où l'on peut mange
 
 Il n'avait peur de rien. $$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
 
+
+$$
+\begin{tabular}{ccc}
+ \hline\hline
+Branches  & Stocks initiaux $i$ & Stocks finals $i$  \\
+ \hline
+	0 	& $c_{f:i} = c_{f:i-1} + pl(c_{f})_{i-1}$  & $c_{f:i+1} = c_{f:i} + pl(c_{f})_{i}$\\
+
+ 1  & $c_{c:i} = c_{c:i-1} + pl(c_{c})_{i-1}$  & $c_{c:i+1} = c_{c:i} + pl(c_{c})_{i}$\\
+ 
+ 2  & $v_{i} + pl(r)_{i-1} = (v_{i-1} + pl(v)_{i-1} )+ pl(r)_{i-1}$  & $v_{i+1} + pl(r)_{i} = (v_{i} + pl(v)_{i} )+ pl(r)_{i}$\\
+ \hline
+\end{tabular}
+$$
 Dans ma tête revenait les paroles de l'ancien testatament auquel Jean-Claude Trichet, le second président de la Banque Centrale Européenne. Il avait eu ces mots  :
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hxijRRUQJuk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
