@@ -14,14 +14,13 @@ Je t'explique, dans mon rève, je sortais du cours d'économie. Je venais d'appr
 
 Reprenons l'example classique du choix cornéliens auquel sont confrontés ceux et celles qui sont conseillés par les économistes : produire des *canons* ou produire du *beurre* étant donné une technolgie de production donnée. Si on se souvient de la notion *frontière des posssibilité de production*, on peut facilement comprendre le cas suivant tiré d'un autre site internet : 
 
-<div style="text-align: right"><img src="https://slideplayer.fr/slide/5430455/17/images/7/Co%C3%BBt+de+renonciation+d%E2%80%99une+tonne+suppl%C3%A9mentaire+de+beurre.jpg" alt="drawing" width="300"/>
+<div style="text-align: right"><img src="https://slideplayer.fr/slide/5430455/17/images/7/Co%C3%BBt+de+renonciation+d%E2%80%99une+tonne+suppl%C3%A9mentaire+de+beurre.jpg" alt="drawing" width="300"/></div>
 
 Pour les économistes, si l'on considère l'ensemble des possibilité de production que peut atteindre une éocnomie donnée, par ceux-ci, il y a des choix plus rationnel que d'autres. 
 
 En effet, pourrquoi ne pas profiter  d'une augmnetation de la production de cannon si le faisant, je ne suis pas obligé de produire une moinndre quantité de Beurre ? Du point de vudd 'un grand général, la raison est évidente. Imaginez vous en pleine guerre, et avec des gens en train de flaner au lieu de travailler... On voit bien qu'il y a des choix de production qui seront préféré à d'autres, mais que cela dépend du point de vue que l'on prend. 
 
-l'économiste  se distingue des agents économiques rationnels qu'ils et elles étudient au sens où les économistes ont la possibilité d'adopter une position de surplomb, qui les met, en quelque sorte, dans une position ominitiente vis des autres autres entités dont ils s'occupent de modéliser les intéreactions, soit les comportements. Comportement, préférences, qu'ils supposent être, essentielleembt, contraint  de l'extérieur. 
-
+l'économiste  se distingue des agents économiques rationnels qu'ils et elles étudient au sens où les économistes ont la possibilité d'adopter une position de surplomb, qui les met, en quelque sorte, dans une position ominitiente vis des autres autres entités dont ils s'occupent de modéliser les intéreactions, soit les comportements. Comportement, préférences, qu'ils supposent être, essentiellement, contraint  de l'extérieur. 
 
 Bref, selon les économoistes "à la Mankiw", nous sommes, en tant qu'agenté économique rationnel sensés opérer des choix. La science économique néo-classique, à ce qu'en j'en ai compris, prorpose quant à elle une manière d'appréhendé la réalité économqiue qui repose sur deux éléments essentiels. 
 
