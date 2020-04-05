@@ -28,7 +28,9 @@ Bref, selon les économoistes "à la Mankiw", nous sommes, en tant qu'agent éco
 
 D'abord, une analyse positive de la réalité économique et ensuite, anayse normative de cette même réalité économique. Dans la première, l'adage veut que l'on s'attelle essentiellement à dire *ce qui est* alors que lors de la seconde analyse, l'analyse normative, l'économiste a échaffaudée une théorie, dite du Bien-être qui permet aux économistes de peser les joies et les peines des différente unités instutionnelles qui composent un marché.
 
-Bref,*in fine*, nous sommes sensés opérés des choix en prenant en consédération plusieurs états du monde possible. Les adminsitrations publiques opèrent des choix  lorsqu'ils décident de lever tel impôts plutot qu'un autre. les ménages,  les gens comme vous et moi, oprent aussi des choix. Vont-il laissé une héritage ou non ? quelles st la forme matérielle la plus adéquate pour léguer à mes enfants ? 
+*In fine*, nous sommes sensés opérer des choix en prenant en consédération plusieurs états possibles du monde. La souveraine opère un choix lorsqu'elle décide de lever tel impôts plutôt qu'un autre, lorsqu'elle décident d'acheter des machines pour satisfaire sa mission de service à la collectivité, etc... De même, dans les ménages eux aussi choissent. Avec d'autres échelles de valeurs, mais in fine, ils et elles choissent.
+
+Les gens comme vous et moi, oprent aussi des choix. Vont-il laissé une héritage ou non ? quelles st la forme matérielle la plus adéquate pour léguer à mes enfants ? 
 
 
 Le prof avait passé son temps à redire ce qu'il dit chaque année. 
