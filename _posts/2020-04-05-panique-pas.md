@@ -10,9 +10,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eg
 
 ## Il était une fois
 
-{% include youtube.html id=dQw4w9WgXcQ %}
+{% include youtube.html id=AJCJTO5Ocmg %}
 
-![GitHub Logo](/assets/john.jpg)
+<img src="{{ site.baseurl }}/assets/john.jpg" alt="Example catplot">
+
 
 Dés Juin 2015, le ton est donné par Mario :
 
