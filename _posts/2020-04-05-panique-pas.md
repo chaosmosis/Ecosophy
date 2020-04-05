@@ -12,7 +12,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eg
 
 Nous étions au DK, à Saint-Gilles. Une commune Bruxelloise où l'on peut manger dans d'excellents restaurants grecs pour des prix raisonables. Il n'y avait personne sur cette place et pourtant un jeune homme, une soiré de l'été 2019 s'est levé sur l'estrade. Il avait à peine quinze ans. 
 
-Il n'avait peur de rien. 
+Il n'avait peur de rien. $$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
 
 Dans ma tête revenait les paroles de l'ancien testatament auquel Jean-Claude Trichet, le second président de la Banque Centrale Européenne. Il avait eu ces mots  :
 
