@@ -32,6 +32,19 @@ Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum e
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt.
 
+> en résumé un recoupement des résultats de l analyse économique avec les signaux provenant de l analyse monétaire confirme qu un degré élevé de soutien monétaire demeure nécessaire pour assurer la poursuite de la convergence durable de l inflation vers des niveaux inférieurs à mais proches de 2 à moyen terme
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Mario Draghi, Juillet 2018 :
+
+> en résumé un recoupement des résultats de l analyse économique avec les signaux provenant de l analyse monétaire confirme qu un degré élevé de soutien monétaire demeure nécessaire pour assurer la poursuite de la convergence durable de l inflation vers des niveaux inférieurs à mais proches de 2 à moyen terme
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Christine Lagarde, Janvier 2020 :
+
+
+> en résumé un recoupement des résultats de l analyse économique avec les signaux provenant de l analyse monétaire confirme qu un degré élevé de soutien monétaire demeure nécessaire pour assurer la poursuite de la convergence durable de l inflation vers des niveaux inférieurs à mais proches de 2 à moyen terme
+
+
 ### à chaines d'approvisionnement
 
 Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum.
