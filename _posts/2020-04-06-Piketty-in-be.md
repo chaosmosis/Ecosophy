@@ -46,11 +46,11 @@ aa<-subset(a,  finpos == "ASS" )
 be<-subset(aa,  geo == "BE" )
 ```
 
-###Chercher les données sur le revenu disponible en Belgique 
+###Chercher les données sur le revenu disponible
 
 
 ```{r}
-b <- get_eurostat("   ", time_format = "num", type = "label", lang = "fr")
+b <- get_eurostat("nasa_10_nf_tr", time_format = "num", type = "label", lang = "fr")
 ```
 #### "Households; non-profit institutions serving households"
 
@@ -92,6 +92,7 @@ Autrement son patrimoine financier va être affecté tant via l'achat de cet act
 
 Allons chercher le compte du patrimoine financier de la Belgique. Nous choisirons le coompte consolidé du patrimoine financier belge de l'ensemble de l'économie, autrement dit, le compte du partimoine où chaque secteur est pris comme un tout qui consitue une économie nation. Les dettes entre les agents économiques d'un même secteur et partant d'un même pays, ne sont pas apphréhendable quantitativement.
 
+#### Le total des actifs
 
 ```{r}
 total<-subset(a, geo == "Belgium")
@@ -107,44 +108,53 @@ total_as<-subset(total, na_item == "Total financial assets/liabilities")
 total_as<-subset(total_as, unit == "Million euro")
 total_as<-spread(total_as,na_item,values)
 total_as_ts= ts(total_as[,7], start=c(1995,1))
+ts.plot(total_as_ts)
 ```
+<div style="text-align: center"><img src="/asset/ 	totalassetbe.jpg" alt="drawing" width="300"/></div>
 
 
+#### Les dettes des secteurs institutionnels en Belgique
 
-#############  DETTES
+
+```{r}
 dette<-subset(a, geo == "Belgium")
 
 dette<-subset(dette, co_nco == "Consolidated")
 dette<-subset(dette, finpos == "Liabilities")
 dette_mn<-subset(dette, sector == "Total economy")
-
 dette_mn<-subset(dette_mn, na_item == "Debt securities")
 dette_mn<-subset(dette_mn, unit == "Million euro")
 dette_mn<-spread(dette_mn,na_item,values)
+dette_mn_ts= ts(dette_mn[,7], start=c(1995,1))
+ts.plot(dette_mn_ts)
+```
+<div style="text-align: center"><img src="/asset/totaldebtsecuritiesbe.jpg" alt="drawing" width="300"/></div>
 
-dette_mn_ts= ts(dette_mn[,6], start=c(1995,1))
+#### Le revenu disponible au prix courants en Belgique
 
 
-
-#############  RD
-b <- get_eurostat("nasa_10_nf_tr", time_format = "num", type = "label", lang = "fr")
+```{r}
 data2<-subset(b , geo == "Belgium")
 data2<-subset(data2, direct == "Paid" )
 data2<-subset(data2, sector == "Total economy")
 data2<-subset(data2, unit == "Current prices, million euro")
-
-
 RD<-subset(data2, na_item  == "Disposable income, gross" )     
 RD<-spread(RD,na_item,values)
-
 RD_ts= ts(RD[,6], start=c(1995,1))
+ts.plot(RD_ts)
+```
+<div style="text-align: center"><img src="https://slideplayer.fr/slide/5430455/17/images/7/Co%C3%BBt+de+renonciation+d%E2%80%99une+tonne+suppl%C3%A9mentaire+de+beurre.jpg" alt="drawing" width="300"/></div>
 
+#### Le Ratio de Piketty en Belgique 
+#### l'évolution du capital privé 
 
-####### CAPITAL PRIVEE
-
+```{r}
 net_be=total_as_ts - dette_mn_ts
 ratio_be= (net_be/RD_ts)
 ts.plot(ratio_be)
+```
+<div style="text-align: center"><img src="https://slideplayer.fr/slide/5430455/17/images/7/Co%C3%BBt+de+renonciation+d%E2%80%99une+tonne+suppl%C3%A9mentaire+de+beurre.jpg" alt="drawing" width="300"/></div>
+
 <b id="f1">1</b> On notera notamment qu'en Belgique, l'institut des comptes nationaux travaille désormais mais dans la main avec la Banque Nationale de Belgique à cet égard [↩](#a1)
 
 <b id="f2">2</b> C'est dans cette catégorie que les afficionados du Bitcoin de la première heure inscrire leurs dom minium sur des Bitcoin. 
