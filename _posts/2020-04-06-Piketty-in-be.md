@@ -155,7 +155,7 @@ ratio_be= (net_be/RD_ts)
 ts.plot(ratio_be)
 ```
 
-<div style="text-align: center"><img src="{{ site.baseurl }}/assets/ratio_be.jpg" alt="Revenu"></div>
+<div style="text-align: center"><img src="{{ site.baseurl }}/assets/ratio_be.jpg" alt="Ratio"></div>
 
 
 <b id="f1">1</b> On notera notamment qu'en Belgique, l'institut des comptes nationaux travaille désormais mais dans la main avec la Banque Nationale de Belgique à cet égard [↩](#a1)
