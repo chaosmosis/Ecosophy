@@ -88,7 +88,7 @@ $$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hxijRRUQJuk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<img src="{{ site.baseurl }}/assets/exo3bb.png" alt="Example catplot">
+
 
 
 Dés Juin 2015, le ton est donné par Mario :
@@ -101,6 +101,8 @@ Christine Lagarde en 2019 emboîte le pas quasi parfaitement:
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+
+<img src="{{ site.baseurl }}/assets/exo3bb.png" alt="Example catplot">
 
 ### Qui opère sur un Marché Concurrentiel
 
