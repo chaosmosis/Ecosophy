@@ -6,17 +6,17 @@ author: "John Mévergnies"
 meta: "marx"
 ---
 
-Lorsque l'on s'engage dans un travail de "thèse", on est souvent étonné des chemins par lesquelles nous passons.  En Belgique, le statut professionnel des assistant-chercheurs comme moi est relativement bien établit et les avantages qu'il procure ne sont pas négligeable. Si on excepte la grande incertitude quant la capacité pour les doctorants et les doctorats de trouver un emploie ensuite. 
+Si nous nous intéressons un instant aux flux et stocks financiers d'un état-nation comme le Royaume de Belgique, le site d'Eurostat est une mine d'or d'information.  
 
-Devant cette incertitude présenté en long et en large, ce travail de thèse, se présente ici comme le choix délibéré d'une recherche inscrite dans les temps politiques, climatiques et humains contemporains. Ceci dit, cette thèses 'inscrit dans un mouvement qui s"i'écrit dans la durée et dont la fin est par contre certaine: la résistance à aux dominations, sous quelques formes qu'elles soient. 
+Au sein de l'eurosystème, la commission européenne est résponsable  de la coordination des états-nations dans la collecte des données. <sup id="a1">[1](#f1)</sup>
 
-Si nous nous intéressons un instant aux flux et stocks financiers d'une état-nation comme le Royaume de Belgique, le site d'Eurostat est une mine d'or d'information, en ce que l'europe encadre l'action des états-nations dans la collecte des données. <sup id="a1">[1](#f1)</sup>
+On peut retrouver plusieurs bases de données constituées à partir du règlement européen *SEC2010*. 
 
-On peut retrouver plusieurs bases de données constituées à partir du règlement européen *SEC2010*. Elles "découpent"  en deux grandes opérations l'ensembles des activités économiques : il y a les opérations financières et les opérations non financières du point de vue du comptable européen. 
+Suivant à cet égarde les "règles internationales", ce réglèment décompose en deux grandes opérations l'ensemble des activités économiques : il y a les opérations financières et les opérations non financières.
 
-Attardons-nous un instant sur les "Comptes de patrimoine financier", dont l'acronyme n'est autre que *nasa_10_f_bs*. Il se présente selon deux volets  : les avoirs et les engagements. 
+Attardons-nous un instant sur les "Comptes de Patrimoine Financier", dont l'acronyme n'est autre que *nasa_10_f_bs*. Il se présente selon deux volets  : les avoirs et les engagements. 
 
-Comme le veux la coutume on interprète le premier de ces volets comme l'ensemble des opération financière qui constate un *dominium* dans le chef de l'acteur considéré sur quelque chose, concernant le deuxième volet, il nous informe sur la manière dont ce droit réel, démembré ou non, a été acquit.
+Comme le veux la coutume on interprète le premier de ces deux volets comme l'ensemble des opérations financières qui constatent un *dominium* dans le chef de l'acteur considéré. Concernant le deuxième volet, il nous informe sur la manière dont ce droit réel, démembré ou non, a été acquit.
 
 On y retrouve un ensemble de  catégorie qui sont chacune subdivisée en plusieurs parties. L'ensemble représente le "Total financier des avoirs/des engagements". 
 On retourne une catégorie historique dans la première subdivision  : l'or monétaire et les droits de tirage spéciaux, qui ne sont autre que les avoirs en monnaies du fond monétaire internationlale.<sup id="a2">[2](#f2)</sup>
@@ -57,5 +57,6 @@ Christine Lagarde en 2019 emboîte le pas quasi parfaitement:
 ## un virus
 
 <b id="f1">1</b> On notera notamment qu'en Belgique, l'institut des comptes nationaux travaille désormais mais dans la main avec la Banque Nationale de Belgique à cet égard [↩](#a1)
+
 <b id="f2">2</b> C'est dans cette catégorie que les afficionados du Bitcoin de la première heure inscrire leurs dom minium sur des Bitcoin. 
  [↩](#a2)
