@@ -33,12 +33,13 @@ D'abord, une analyse positive de la réalité économique et ensuite, anayse nor
 
 *In fine*, nous sommes sensés opérer des choix en prenant en consédération plusieurs états possibles du monde. La souveraine opère un choix lorsqu'elle décide de lever tel impôts plutôt qu'un autre, lorsqu'elle décident d'acheter des machines pour satisfaire sa mission de service à la collectivité, etc... De même, dans les ménages eux aussi choissent. Avec d'autres échelles de valeurs, mais in fine, ils et elles choissent.
 
-<div style="text-align: center">
-  Typologie des biens | Consommation Rivale  | Consommation Non-Rivale              
---------------------- | ---------------------  --------------------- 
-Excluabilité Possible | Bien Privé           | Bien Public    
-Excluabilité Inpossible| Ressource Collective  | Bien Commun 
-</div>
+Typologie des biens      | Consommation Rivale   | Consommation Non-Rivale| 
+------------------------ | ----------------------| -----------------------| 
+Excluabilité Possible    |  Bien Privé           | Bien Public            | 
+Excluabilité Inpossible  | Ressource Collective  | Bien Commun            |
+
+
+
 
 ### Qui se met à distinguer "L'Offre" de "La Demande"
 
