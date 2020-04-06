@@ -110,7 +110,7 @@ total_as<-spread(total_as,na_item,values)
 total_as_ts= ts(total_as[,7], start=c(1995,1))
 ts.plot(total_as_ts)
 ```
-<div style="text-align: center"><img src="/asset/ 	totalassetbe.jpg" alt="drawing" width="300"/></div>
+<div style="text-align: center"><img src="/assets/totalassetbe.jpg" alt="drawing" /></div>
 
 
 #### Les dettes des secteurs institutionnels en Belgique
@@ -128,7 +128,8 @@ dette_mn<-spread(dette_mn,na_item,values)
 dette_mn_ts= ts(dette_mn[,7], start=c(1995,1))
 ts.plot(dette_mn_ts)
 ```
-<div style="text-align: center"><img src="/asset/totaldebtsecuritiesbe.jpg" alt="drawing" width="300"/></div>
+<div style="text-align: center">
+![image](/assets/totaldebtsecuritiesbe.jpg)</div>
 
 #### Le revenu disponible au prix courants en Belgique
 
@@ -143,7 +144,8 @@ RD<-spread(RD,na_item,values)
 RD_ts= ts(RD[,6], start=c(1995,1))
 ts.plot(RD_ts)
 ```
-<div style="text-align: center"><img src="https://slideplayer.fr/slide/5430455/17/images/7/Co%C3%BBt+de+renonciation+d%E2%80%99une+tonne+suppl%C3%A9mentaire+de+beurre.jpg" alt="drawing" width="300"/></div>
+<div style="text-align: center">
+![image](/assets/revenudispobru.jpg)</div>
 
 #### Le Ratio de Piketty en Belgique 
 #### l'évolution du capital privé 
@@ -153,7 +155,9 @@ net_be=total_as_ts - dette_mn_ts
 ratio_be= (net_be/RD_ts)
 ts.plot(ratio_be)
 ```
-<div style="text-align: center"><img src="https://slideplayer.fr/slide/5430455/17/images/7/Co%C3%BBt+de+renonciation+d%E2%80%99une+tonne+suppl%C3%A9mentaire+de+beurre.jpg" alt="drawing" width="300"/></div>
+<div style="text-align: center">
+![image](/assets/ratio_be.jpg)</div>
+
 
 <b id="f1">1</b> On notera notamment qu'en Belgique, l'institut des comptes nationaux travaille désormais mais dans la main avec la Banque Nationale de Belgique à cet égard [↩](#a1)
 
