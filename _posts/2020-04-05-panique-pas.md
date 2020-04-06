@@ -10,7 +10,9 @@ meta: "marx"
 
 C'était il n'y pas très lontemps. Et dans mon songe, les économistes se mettaient grève en mobilisant les principes de l'économie de Mankiw.
 
-Je t'explique, dans mon rève, je sortais du cours d'économie. Je venais d'apprendre que pour les économistes nous étions des agents économiques. Ces agents économique agirait selon une axiomatique bien définie. Si les choix que ces unités institutionnelles étaient étudiés à l'aune de cette axiomatique, de cet appareil d'enregistrement théorique, l'économoyste seraient à même de dire si oui ou non, un choix est rationnel. 
+Je t'explique, dans mon rève, je sortais du cours d'économie. Je venais d'apprendre que pour les économistes nous étions des agents économiques. 
+
+Ces agents économique agiraient selon une axiomatique bien définie. Si les choix que ces unités institutionnelles étaient étudiés à l'aune de cette axiomatique, de cet appareil d'enregistrement théorique, l'économiste serait en position de dire si oui ou non, un choix est rationnel étant donné une situation donnée. 
 
 ### Je pensais comme un économiste 
 
@@ -18,9 +20,8 @@ Reprenons l'example classique du choix cornéliens auquel sont confrontés ceux 
 
 <div style="text-align: center"><img src="https://slideplayer.fr/slide/5430455/17/images/7/Co%C3%BBt+de+renonciation+d%E2%80%99une+tonne+suppl%C3%A9mentaire+de+beurre.jpg" alt="drawing" width="300"/></div>
 
-Pour les économistes, si l'on considère l'ensemble des possibilités de production que peut atteindre une économie donnée, il y existe des choix plus rationnels que d'autres. 
-
-En effet, pourrquoi ne pas profiter d'une augmnetation de la production de canon si, en la produisant faisant, je ne renonce pas à  produire une moindre quantité de Beurre étant donné les facteurs de productions à ma diposition ? 
+Pour les économistes, si l'on considère l'ensemble des possibilités de production que peut atteindre une économie donnée, il y existe des choix plus rationnels que d'autres.
+pourrquoi ne pas profiter d'une augmnetation de la production de canon si, en la produisant faisant, je ne renonce pas à  produire une moindre quantité de Beurre étant donné les facteurs de productions à ma diposition ? 
 
 Imaginez vous sur un champs de bataille et la raison devient évidente. Imaginez vous en pleine guerre, et avec des gens en train de flaner au lieu de travailler... On voit bien qu'il y a des choix de production qui seront préférés à d'autres, mais que pour jauger de l'efficacité ou non d'une mesure, il faut raisonner "à priori"/
 
@@ -31,6 +32,13 @@ Bref, selon les économoistes "à la Mankiw", nous sommes, en tant qu'agent éco
 D'abord, une analyse positive de la réalité économique et ensuite, anayse normative de cette même réalité économique. Dans la première, l'adage veut que l'on s'attelle essentiellement à dire *ce qui est* alors que lors de la seconde analyse, l'analyse normative, l'économiste a échaffaudée une théorie, dite du Bien-être qui permet aux économistes de peser les joies et les peines des différente unités instutionnelles qui composent un marché.
 
 *In fine*, nous sommes sensés opérer des choix en prenant en consédération plusieurs états possibles du monde. La souveraine opère un choix lorsqu'elle décide de lever tel impôts plutôt qu'un autre, lorsqu'elle décident d'acheter des machines pour satisfaire sa mission de service à la collectivité, etc... De même, dans les ménages eux aussi choissent. Avec d'autres échelles de valeurs, mais in fine, ils et elles choissent.
+
+<div style="text-align: center">
+  Typologie des biens | Consommation Rivale  | Consommation Non-Rivale              
+--------------------- | ---------------------  --------------------- 
+Excluabilité Possible | Bien Privé           | Bien Public    
+Excluabilité Inpossible| Ressource Collective  | Bien Commun 
+</div>
 
 ### Qui se met à distinguer "L'Offre" de "La Demande"
 
