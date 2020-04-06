@@ -131,6 +131,8 @@ ts.plot(dette_mn_ts)
 <div style="text-align: center">
 ![image](/assets/totaldebtsecuritiesbe.jpg)</div>
 
+<div style="text-align: center"><img src="/assets/totaldebtsecuritiesbe.jpg" alt="Dettes" /></div>
+
 #### Le revenu disponible au prix courants en Belgique
 
 
@@ -146,6 +148,7 @@ ts.plot(RD_ts)
 ```
 <div style="text-align: center">
 ![image](/assets/revenudispobru.jpg)</div>
+<div style="text-align: center"><img src="/assets/revenudispobru.jpg" alt="Revenu" /></div>
 
 #### Le Ratio de Piketty en Belgique 
 #### l'évolution du capital privé 
@@ -158,6 +161,7 @@ ts.plot(ratio_be)
 <div style="text-align: center">
 ![image](/assets/ratio_be.jpg)</div>
 
+<div style="text-align: center"><img src="/assets/ratio_be.jpg" alt="Ratio" /></div>
 
 <b id="f1">1</b> On notera notamment qu'en Belgique, l'institut des comptes nationaux travaille désormais mais dans la main avec la Banque Nationale de Belgique à cet égard [↩](#a1)
 
