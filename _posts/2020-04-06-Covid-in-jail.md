@@ -63,7 +63,23 @@ data=data[order(data[,2],decreasing=T), ]
 p<-ggplot(data=data, aes(x=tot, y=name)) +  geom_bar(stat="identity")
 p
 ```
-
-
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/histo_prison.jpg" alt="systeme"></div>
+
+```{r} 
+dev.new(width=6.5,height=4.5)
+par(cex.lab=1.5,cex.axis=1.3,mar=c(5,5,2,4))
+m <- matrix(c(1,1,2,1,1,2),nrow=3)
+layout(m)
+hist(data[,2],freq=FALSE,xlim=1.5*range(data[,2]),xlab="",ylab="fréquence",
+  axes=FALSE,main="",col="grey95")
+abline(h=0)
+rug(data[,2])
+axis(2)
+axis(4)
+lines(density(data[,2]),col="red")
+boxplot(data[,2],horizontal=TRUE,ylim=1.5*range(data[,2]),
+  axes=FALSE,xlab="Nombre de détenus")
+axis(1)```
+
+<div style="text-align: center"><img src="{{ site.baseurl }}/assets/boxplot.jpg" alt="densité"></div>
 
