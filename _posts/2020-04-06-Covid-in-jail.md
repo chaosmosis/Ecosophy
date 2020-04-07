@@ -14,7 +14,7 @@ Supposons qu'il existe un nombre déterminé de prisons (e.g $$ I \in \mathbf{R}
 
 Supposons que chaque prison $$i$$ a une "capacité théorique", ci-après dénotée $$ \xi_i $$. Nommons le nombre total de détenus au sein du système carcéral belge par $$ N $$ et la capacité totale de détention du système carcérale par $$ \Xi $$. 
 
-Enfin, désignons par $$g_i$$ le nombre de salarié travaillant au sein de la prison $$i$$ et par $$G$$ le nombre total de salarié oeuvrant à la reproduction des tâches journalières auquelles sont confronté les membres du système carcérale fédéral.
+Enfin, désignons par $$g_i$$ le nombre de salariés travaillant au sein de la prison $$i$$ et par $$G$$ le nombre total de salariés oeuvrant à la reproduction des tâches journalières auquelles sont confronté les membres du système carcérale fédéral.
 
 En l'espèce, nous dirons donc qu'au sein des $$I$$ prisons fédérales du pays, il y a
 
@@ -51,7 +51,7 @@ Au sein des 38 espaces fédéraux réservés à la détention des personnes phys
 
 ## La question de la présence
 
-Le $$n_i$$ varie énorménent de prison en prison. La prison qui comptabilise le moins de détenu est la maison de transion d'Enghien. Celle qui dénombre le plus grand nombre de détenus est la prison de Lantin. En moyenne, il y a 166 détenus par prison alors que la moitié des détenus sont regroupés dans des prisons avec plus de 147 détenus. 
+Le $$n_i$$ varie énorménent de prison en prison. La prison qui comptabilise le moins de détenus est la maison de transion d'Enghien. Celle qui dénombre le plus grand nombre de détenus est la prison de Lantin. En moyenne, il y a 166 détenus par prison alors que la moitié des détenus sont regroupés dans des prisons avec plus de 147 détenus. 
 
 ```{r} 
 tot=as.data.frame(prison[,2]+prison[,3]+prison[,4])
@@ -89,7 +89,7 @@ axis(1)
 ### les statuts 
 
 
-Au courant de l'existence de valeurs possiblement "exhubérante", il est intéressant d'observer de plus près la distribution des effectifs d'un certain type de détenus. 
+Au courant de l'existence de valeurs possiblement "exhubérantes", il est intéressant d'observer de plus près la distribution des effectifs d'un certain type de détenus. 
 
 Les tableaux statistiques distribués par le ministère public témoignent de son attachement aux différences et nous permettent d'appréhender huit types de détenus. En effet, via ces documents on comprend que 
 
@@ -104,13 +104,19 @@ Sans égard pour la question du genre, on remarque qu'il existe deux grosses cat
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/repart.jpg" alt="statuts"></div>
 
 
-- Si on s'attelle uniquement à l'étude des déténus dit "interné", on remarque qu'il sont placés dans dix établissements   différents et selon une distibution beaucoup moins uniforme que ce que nous avons pu observer pour les détenus en général. Paifve semble détenir uniquement des détenus de ce type alors que les internés représentent 25 % des effectfis totaux de detenus au sein de cette prison historique.
+- Si on s'attelle uniquement à l'étude des déténus dit "internés", on remarque qu'il sont placés dans dix établissements   différents et selon une distibution beaucoup moins uniforme que ce que nous avons pu observer pour les détenus en général. Paifve semble détenir uniquement des détenus de ce type alors que les internés représentent 25 % des effectfis totaux de detenus au sein de cette prison historique.
 
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/Intbarplot.jpeg" alt="barplot"></div>
 
 - Notons aussi qu'un *test de student* sur les moyennes des pénitenciers au Nord et au sud de Bruxelles ne révèle aucune différences significatives. Autrement dit, après une brève analyse statistique, on ne peut pas affirmer, par exemple, que les internés sont, en moyenne, dans le sud du Royaume, plus regroupés ensemble que dans le reste du royaume de Belgique.
 
+
+- Si on s'attelle uniquement à l'étude des déténus dit "Prévenus", on remarque qu'il sont présents dans la quasi totalités des pénitenciers, sauf quatre : Ruiselede, Paifve, les Maisons de Transitions.
+
+La distribution des prévenus au sein des prisons n'en est pas moins uniforme au sein du système carcéral. On remarque en particulier que la propotion imoortantes des prévenus prises en charge par quatre pétbitencier du Pays : Saint-Gilles, Lantin et Anvers.
+
+<div style="text-align: center"><img src="{{ site.baseurl }}/assets/prevenus.jpg" alt="prevenu"></div>
 
 
 
