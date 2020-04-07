@@ -8,13 +8,11 @@ meta: "marx"
 
 Une email et quelques pièces jointes. Le problème de la définition des variables. 
 
-## Les Prisons
+## Notations pour les Prisons
 
-Au sein d'une prison, il existe des détenus. Disons qu'il existe $$ n_i $$ détenus au sein de la prison $$i$$.
+Supposons qu'il existe un nombre déterminé de prisons (e.g $$ I in \R{+}_{0} $$ sur un terrtoire donné. Désignons par $i$, l'une des $I$ prisons de ce territoire et par $$ n_i $$, le nombre de détenus au sein de la prison $$i$$.
 
-Chaque prison $$i$$ a une "capacité théorique", ci-après dénotée $$ \xi_i $$. La capacité de chaque prison est invariable. 
-
-Par conséquent, nommons le nombre total de détenus au sein du système carcéral belge ci-après par $$ N $$ et le capacité totale de détention du système carcérale, par $$ \Xi $$. 
+Chaque prison $$i$$ a une "capacité théorique", ci-après dénotée $$ \xi_i $$. Nommons le nombre total de détenus au sein du système carcéral belge ci-après par $$ N $$ et le capacité totale de détention du système carcérale, par $$ \Xi $$. 
 
 En l'espèce, nous supposons donc qu'au sein des $$i$$ prisons fédérales du pays,  il y a
 
