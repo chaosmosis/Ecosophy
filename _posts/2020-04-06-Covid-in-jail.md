@@ -114,7 +114,9 @@ Sans égard pour la question du genre, on remarque qu'il existe deux grosses cat
 
 #### les prévenus 
 
-- Si on s'attelle uniquement à l'étude des déténus dit "Prévenus", on remarque qu'il sont présents dans la quasi totalités des pénitenciers. Cependant, la distribution des prévenus au sein des prisons n'en est pas pour autant plus uniforme au sein du système carcéral. On remarque en particulier que la majorité des des prévenus sont détenus à Lantin, Saitn Gilles ou Merklpass. 
+- Si on s'attelle uniquement à l'étude des déténus dit "Prévenus", on remarque qu'il sont présents dans la quasi totalités des pénitenciers. Cependant, la distribution des prévenus au sein des prisons n'en est pas pour autant plus uniforme au sein du système carcéral. On remarque en particulier que la majorité des des prévenus sont détenus à Lantin, Saint-Gilles ou Merklpass. 
+
+<div style="text-align: center"><img src="{{ site.baseurl }}/assets/prevenus_distribution.jpg" alt="distribution des prevenus"></div>
 
 - Notons en outre que seulement 7 pénitenciers sur les 38  considérés - Hoogstraten, Leuven Centraal, Maison de transition Malines, Ruiselede, Maison de transition d'Enghien, Paifve, et St. Hubert - n détient aucun prévenus.
 
@@ -122,6 +124,11 @@ Sans égard pour la question du genre, on remarque qu'il existe deux grosses cat
 
 
 #### les comdamnés
+
+- Si on s'attelle uniquement à l'étude des déténus dit "Comdamné", on remarque qu'il sont présents dans la quasi totalités des pénitenciers. Comparativement aux autres statuts de détenus, la distribution des comdamné au sein des prisons admet une distribution plus uniforme au sein du système carcéral . On remarque en particulier que la majorité des des prévenus sont détenus à Lantin, Saint-Gilles ou Merklpass. 
+
+<div style="text-align: center"><img src="{{ site.baseurl }}/assets/comdamne_distribution.jpg" alt="distribution des comdamnés"></div>
+
 
 
 
