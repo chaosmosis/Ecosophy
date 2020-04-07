@@ -139,7 +139,6 @@ Sans égard pour la question du genre, on remarque qu'il existe deux grosses cat
 
 #### les comdamnés
 
-<div style="text-align: center"><img src="{{ site.baseurl }}/assets/présence_distribution.jpg" alt="Pourcetage des comdamnés dans chaque prison"></div>
 
 - Remarquons derechef que les détenus dit comdamnés sont présents dans toutes les prisons sauf à Paifve. Ainsi, si on s'attelle uniquement à l'étude de ceux-ci, comparativement aux autres statuts de détenus, la distribution des comdamné au sein des prisons admet une distribution plus uniforme au sein du système carcéral. 
 
