@@ -102,24 +102,33 @@ axis(1)
 
 ### Descrition des types de détenus 
 
+> "Aucune personne ne peut être administrée ou retenu dans une prison en qualité de détenu sans une ordonnance d'incarcération valable, conformément au droit interne"
 
-Au courant de l'existence de valeurs possiblement "exhubérantes", il est intéressant d'observer de plus près la distribution des effectifs d'un certain type de détenus. 
+N'est pas détenu qui veut. Cet extrait de la Recommandation Européenne sur les Règles Pénitentiaires est clair, il faut l'aval d'une autorité publique pour être qualifié de détenu. 
 
-Les tableaux statistiques distribués par le ministère public témoignent de son attachement aux différences et nous permettent d'appréhender huit types de détenus. En effet, via ces documents on comprend que 
+Or, en Belgique, comme le veut l'article  12 de la Constitution, 3ème alinéa :
 
-1. Le détenu est soit de genre Masculin, soit de genre Féminin. 
+> "Nul ne peut être arrêté qu'en vertu de l'ordonnance motivée du juge"
+
+Ainsi,  en l'espèce, comme le souligne les auteurs du Guide, *"Une décision judiciaire(ordonnance de mise en détention préventive, jugement, etc.) est toujours nécessaire"* pour être considéré comme un détenu.
+
+Les tableaux statistiques distribués par le ministère public témoignent des différents statuts attribué à ces détenus. A lire ceux que nous nous sommes procurés ils traduisent un  attachement certains aux différences de statuts. 
+
+Au regard de ces seuls classements, il semble exister dans le chefs des autorités responsables des statsitques relatives aux détenus qu'il existe au moins huit types de détenus différents possibles. En effet, via ces documents on comprend que 
+
+1. Le détenu est soit de genre Masculin ou de genre Féminin. 
 2. Le détenu est ou prévenu ou condamné. 
 3. et enfin, le détenu est interné ou non. `
 
-Ainsi, selon la typologie du ministère public il existe au moins huit manières différentes d'appréhender les détenus.
+Ainsi, selon la typologie du ministère public il existe bien huit manières différentes d'appréhender les détenus.
 
-Sans égard pour la question du genre, on remarque qu'il existe deux grosses catégories de déténus : les prévénus et les codamnés.
+Sans égard pour la question du genre, nous avons représenté les parts respectives des différents types de détenus au sein des prisons. Comme on peut l'observer, la grande majorité des détenus sont soit prévénus, soit condamnés. 
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/repart.jpg" alt="statuts"></div>
 
 #### les internés
 
-- Si on s'attelle uniquement à l'étude des déténus dit "internés", on remarque qu'il sont placés dans dix établissements   différents et selon une distibution beaucoup moins uniforme que ce que nous avons pu observer pour les détenus en général. Paifve semble détenir uniquement des détenus de ce type alors que les internés représentent 25 % des effectfis totaux de detenus au sein de la prison historique de Merklpass
+- Si on s'attelle uniquement à l'étude des déténus dit "internés", on remarque qu'il sont placés dans dix établissements   différents et selon une distibution beaucoup moins uniforme que ce que nous avons pu observer pour les détenus en général. Paifve semble détenir uniquement des détenus de ce type alors que les internés représentent 25 % des effectfis totaux de detenus au sein de la prison historique de Merklpass.
 
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/Intbarplot.jpeg" alt="barplot"></div>
