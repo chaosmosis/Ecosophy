@@ -54,7 +54,11 @@ Les tableaux statistiques distribués par le ministère public témoignent de so
 2. Le détenu est ou prévenu ou condamné. 
 3. et enfin, le détenu est interné ou non. 
 
-Ainsi, on comprend qu'il existe, selon la typologie du ministère public, au moins huit types de détenus différents au sein du système carcéral fédéral.
+Ainsi, selon la typologie du ministère public il existe au moins huit manières différentes d'appréhender les détenus.
+
+## La question de la présence
+
+$$n_i$$ varie énormenet de prison en prison. La prison qui comtabilise le moins de détenu est la maison de transion d'enghien. celle qui dénombre le plus grand nombre de détenus est la prison de Lantin. En moyenne, il y a 166 détenus par prisons alors que plus de la moitiers des détenus sont regroupés dans des prisons avec plus de 147 détenus. 
 
 ```{r} 
 tot=as.data.frame(prison[,2]+prison[,3]+prison[,4])
@@ -63,9 +67,14 @@ data=data[order(data[,2],decreasing=T), ]
 p<-ggplot(data=data, aes(x=tot, y=name)) +  geom_bar(stat="identity")
 p
 ```
+
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/histo_prison.jpg" alt="systeme"></div>
 
-```{r} 
+Le graphique suivant nous permet d'observer que la distibution des effectifs de détenus au sein des prisons. Une grande hétérogénité apparait. Remarquons notamment que plus de la moitié des détenus sont regroupés dans des prisons détenant un nombre de détenus inférieur au nombre moyen de détenus par prison.
+
+
+```{r}
+
 dev.new(width=6.5,height=4.5)
 par(cex.lab=1.5,cex.axis=1.3,mar=c(5,5,2,4))
 m <- matrix(c(1,1,2,1,1,2),nrow=3)
