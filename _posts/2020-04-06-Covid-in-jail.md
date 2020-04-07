@@ -133,8 +133,8 @@ Sans égard pour la question du genre, on remarque qu'il existe deux grosses cat
 
 - Notons en outre que si on s'intéresse au nombre de detenus vis à vis des autres par prison, dexu remarques sont à faire dans un premier temps.  Premièrement, il existe deux pénitenciers seulement qui n'acceuillent que des détenus comdamnés : les deux maisons de transition de Maligne et Enghien. Deuxièmement, au premier coup d'oeil, on remarquera trois types de pénitenciers en matière de détentions de comdamnés: 
 
-1. Les pénitenciers s'occupant uniquement des comdamnés
-2. Les pétitenciers avec plus 50 % des détenuscomdamnés
+1. Les pénitenciers s'occupant uniquement des comdamnés.
+2. Les pétitenciers avec plus 50 % des détenus comdamnés.
 3. Les pénitenciers avec moins de 25 % de détenus comdannés.
 
 
