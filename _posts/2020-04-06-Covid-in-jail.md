@@ -24,6 +24,11 @@ En l'espèce, nous dirons donc qu'au sein des $$I$$ prisons fédérales du pays,
 
 - $$ G = \sum_{I} g_{i} $$ intervenants salariés.
 
+De cette manière on peut défininir une séries d'indicateurs qui nous permettront de réaliser une brève analyse statistiques des tableaux de données qui servent à la gestion et au controle des prisons. Notons notamment que la moyenne de détenu dans une des $$I$$ prisons peut être défini de la manière suivante :
+ 
+- $$ \overbar{N} = \frac{ \sum_{I} n_{i} }{ I }$$ 
+
+
 
 ## Construire les données 
 
@@ -144,6 +149,8 @@ Sans égard pour la question du genre, on remarque qu'il existe deux grosses cat
 
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/distr_con.jpg alt="Histogramme des pourcentages de Comdamnés dans la population d'une Prison"></div>
+
+
 
 
 
