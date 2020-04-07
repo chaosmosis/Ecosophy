@@ -51,7 +51,7 @@ Au sein des 38 espaces fédéraux réservés à la détention des personnes phys
 
 ## La question de la présence
 
-Le $$n_i$$ varie énormenet de prison en prison. La prison qui comptabilise le moins de détenu estla maison de transion d'Enghien. Celle qui dénombre le plus grand nombre de détenus est la prison de Lantin. En moyenne, il y a 166 détenus par prison alors que la moitié des détenus sont regroupés dans des prisons avec plus de 147 détenus. 
+Le $$n_i$$ varie énorménent de prison en prison. La prison qui comptabilise le moins de détenu est la maison de transion d'Enghien. Celle qui dénombre le plus grand nombre de détenus est la prison de Lantin. En moyenne, il y a 166 détenus par prison alors que la moitié des détenus sont regroupés dans des prisons avec plus de 147 détenus. 
 
 ```{r} 
 tot=as.data.frame(prison[,2]+prison[,3]+prison[,4])
@@ -99,12 +99,12 @@ Les tableaux statistiques distribués par le ministère public témoignent de so
 
 Ainsi, selon la typologie du ministère public il existe au moins huit manières différentes d'appréhender les détenus.
 
-Sans égard pour la question du genre, on remarque qu'il existe deux grosses catégories déténus : les prévénus et les codamnés.
+Sans égard pour la question du genre, on remarque qu'il existe deux grosses catégories de déténus : les prévénus et les codamnés.
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/repart.jpg" alt="statuts"></div>
 
 
-- Si on s'attelle uniquement à l'étude des déténus dit "interné", on remarque qu'il sont placés dans dix établissements   différents et selon une distibution beaucoup moins uniforme que ce que nous avons pu observer pour les détenus en général. Paifve semble détenir uniquement de détenus de ce type alors que Merkplass en détient 25 % de ses effectfis totaux.
+- Si on s'attelle uniquement à l'étude des déténus dit "interné", on remarque qu'il sont placés dans dix établissements   différents et selon une distibution beaucoup moins uniforme que ce que nous avons pu observer pour les détenus en général. Paifve semble détenir uniquement des détenus de ce type alors que les internés représentent 25 % des effectfis totaux de detenus au sein de cette prison historique.
 
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/Intbarplot.jpeg" alt="barplot"></div>
