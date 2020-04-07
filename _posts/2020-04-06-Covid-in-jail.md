@@ -93,3 +93,11 @@ axis(1)
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/boxplot.jpeg" alt="densité"></div>
 
+Au courant de l'existence de valeurs possiblement "exhubérante", il est intéressant d'observer de plus près la distribution des effectifs d'un certain type de détenus. 
+
+Si on s'attelle uniquement àl'étude des des dtéenus dit "interné", on remarque qu'il sont placés dans dix établissements différents et selon une distibution beaucoup moins uniforme que ce que nous avons pu observer pour les détenus en général. Paifve semble détenir uniquement de détenus de ce type alors que Merkplass en détient 25 de ses effectfis totaux.
+
+
+<div style="text-align: center"><img src="{{ site.baseurl }}/assets/Intbarplot.jpeg" alt="barplot"></div>
+
+
