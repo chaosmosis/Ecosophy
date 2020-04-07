@@ -140,6 +140,10 @@ Sans égard pour la question du genre, on remarque qu'il existe deux grosses cat
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/distribution_jail.jpg" alt="Pourcentage de Comdamnés par Prison"></div>
 
+- Si on s'attarde un moment sur les différents moments statistiques de la variable précédente, à savoir le poucentage de détenus de type comdamné pour chaque prison un fait marquant est à souligner, comparativement à la situation des détenus internés notamment. En effet, comme on peut le voir plus de la moitié des prison détient plus 55% détenus comdamné entre leurs murs. En moyenne,  la taux de détenus comdamnés parmis la population des détenus d'une prison est de 66% alors que 25% des prisons acceuillent en leurs murs une population essentiellement composée de détenus comdamnés, soit plus de neuf détenus sur dix (*i.e.* le 3ème quartile : 93%).
+
+
+<div style="text-align: center"><img src="{{ site.baseurl }}/assets/distr_con.jpg alt="Histogramme des pourcentages de Comdamnés dans la population d'une Prison"></div>
 
 
 
