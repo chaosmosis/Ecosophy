@@ -51,7 +51,7 @@ Au sein des 38 espaces fédéraux réservés à la détention des personnes phys
 
 ## La question de la présence
 
-Le $$n_i$$ varie énorménent de prison en prison. La prison qui comptabilise le moins de détenus est la maison de transion d'Enghien. Celle qui dénombre le plus grand nombre de détenus est la prison de Lantin. En moyenne, il y a 166 détenus par prison alors que la moitié des détenus sont regroupés dans des prisons avec plus de 147 détenus. 
+Le $$n_i$$ varie énorménent de prison en prison. La prison qui comptabilise le moins de détenus est la maison de transition d'Enghien. Celle qui dénombre le plus grand nombre de détenus est la prison de Lantin. En moyenne, il y a 166 détenus par prison alors que la moitié des détenus sont regroupés dans des prisons avec plus de 147 détenus. 
 
 ```{r} 
 tot=as.data.frame(prison[,2]+prison[,3]+prison[,4])
@@ -103,21 +103,25 @@ Sans égard pour la question du genre, on remarque qu'il existe deux grosses cat
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/repart.jpg" alt="statuts"></div>
 
+#### les internés
 
-- Si on s'attelle uniquement à l'étude des déténus dit "internés", on remarque qu'il sont placés dans dix établissements   différents et selon une distibution beaucoup moins uniforme que ce que nous avons pu observer pour les détenus en général. Paifve semble détenir uniquement des détenus de ce type alors que les internés représentent 25 % des effectfis totaux de detenus au sein de cette prison historique.
+- Si on s'attelle uniquement à l'étude des déténus dit "internés", on remarque qu'il sont placés dans dix établissements   différents et selon une distibution beaucoup moins uniforme que ce que nous avons pu observer pour les détenus en général. Paifve semble détenir uniquement des détenus de ce type alors que les internés représentent 25 % des effectfis totaux de detenus au sein de la prison historique de Merklpass
 
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/Intbarplot.jpeg" alt="barplot"></div>
 
 - Notons aussi qu'un *test de student* sur les moyennes des pénitenciers au Nord et au sud de Bruxelles ne révèle aucune différences significatives. Autrement dit, après une brève analyse statistique, on ne peut pas affirmer, par exemple, que les internés sont, en moyenne, dans le sud du Royaume, plus regroupés ensemble que dans le reste du royaume de Belgique.
 
+#### les prévenus 
 
-- Si on s'attelle uniquement à l'étude des déténus dit "Prévenus", on remarque qu'il sont présents dans la quasi totalités des pénitenciers, sauf quatre : Ruiselede, Paifve, les Maisons de Transitions.
+- Si on s'attelle uniquement à l'étude des déténus dit "Prévenus", on remarque qu'il sont présents dans la quasi totalités des pénitenciers. Cependant, la distribution des prévenus au sein des prisons n'en est pas pour autant plus uniforme au sein du système carcéral. On remarque en particulier que la majorité des des prévenus sont détenus à Lantin, Saitn Gilles ou Merklpass. 
 
-La distribution des prévenus au sein des prisons n'en est pas moins uniforme au sein du système carcéral. On remarque en particulier que la propotion imoortantes des prévenus prises en charge par quatre pétbitencier du Pays : Saint-Gilles, Lantin et Anvers.
+- Notons en outre que seulement 7 pénitenciers sur les 38  considérés - Hoogstraten, Leuven Centraal, Maison de transition Malines, Ruiselede, Maison de transition d'Enghien, Paifve, et St. Hubert - n détient aucun prévenus.
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/prevenus.jpg" alt="prevenu"></div>
 
+
+#### les comdamnés
 
 
 
