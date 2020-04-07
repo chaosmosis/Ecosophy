@@ -14,11 +14,16 @@ Supposons qu'il existe un nombre déterminé de prisons (e.g $$ I in \R{+}_{0}$$
 
 Chaque prison $$i$$ a une "capacité théorique", ci-après dénotée $$ \xi_i $$. Nommons le nombre total de détenus au sein du système carcéral belge par $$ N $$ et le capacité totale de détention du système carcérale par $$ \Xi $$. 
 
-En l'espèce, nous supposons donc qu'au sein des $$I$$ prisons fédérales du pays,  il y a
+Enfin, désignons par $$g_i$$ le nombre de salarié travaillant au sein de la prison $$i$$ et par $$G$$ le nombre total de salarié oeuvrant à la reproduction des tâches journalières auquel est confronté le système carcérale fédéral.
+
+En l'espèce, nous dirons donc qu'au sein des $$I$$ prisons fédérales du pays, il y a
 
 1. $$ N = \sum_{I} n_{i} $$ détenus pour
 
-2. $$ \Xi= \sum_{I} \xi_{i} $$ espaces de vie.
+2. $$ \Xi = \sum_{I} \xi_{i} $$ lits et 
+
+3. $$ G = \sum_{I} g_{i} $$ intervenants salariés.
+
 
 ## Construire les données 
 
