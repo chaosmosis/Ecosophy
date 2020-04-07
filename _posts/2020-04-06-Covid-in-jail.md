@@ -10,14 +10,19 @@ Une email et quelques pièces jointes. Le problème de la définition des variab
 
 ## Les Prisons
 
-Au sein d'une prison, il existe des détenus. Disons qu'il existe $$n_i$$ détenus au sein de la prison $$i$$.
+Au sein d'une prison, il existe des détenus. Disons qu'il existe $$ n_i $$ détenus au sein de la prison $$i$$.
 
-Chaque prison $$i$$ a une "capacité théorique", ci-après dénotée $$\xi_i$$. La capacité de chaque prison est invariable. 
+Chaque prison $$i$$ a une "capacité théorique", ci-après dénotée $$ \xi_i $$. La capacité de chaque prison est invariable. 
 
-Par conséquent, nommons respectivement ci-après par $$$N$$ et par $$\Xi$$, le nombre total de détenus au sein du système carcéral belge et le capacité totale de détention du système carcérale, soit, en l'espèce, au sein des $$i$$ prisons fédérales du pays.
+Par conséquent, nommons le nombre total de détenus au sein du système carcéral belge ci-après par $$ N $$ et le capacité totale de détention du système carcérale, par $$ \Xi $$. 
 
-$$\Xi= \sum^_{i}\xi_i}$$
-$$N= \sum^_{i}\n_i}$$
+En l'espèce, nous supposons donc qu'au sein des $$i$$ prisons fédérales du pays,  il y a
+
+$$\Xi= \sum^_{i}\xi_{i}$$
+
+Pour une capacité totale de 
+
+$$N= \sum^_{i}\n_{i}$$
 
 ## Construire les données 
 
@@ -28,7 +33,30 @@ $$N= \sum^_{i}\n_i}$$
 ```{r}
 
 prison <- read.csv("prison.csv", header = TRUE, sep = ";", dec =",")
+rownames(prison)=prison[,1]
+rownames(prison)
+
+[1] "Antwerpen"                    "Beveren"                      "Brugge"                       "Dendermonde"                  "Gent"                         "Hasselt_Nieuw"               
+ [7] "Hoogstraten"                  "Ieper"                        "Leuven_Centraal"              "Leuven_Hulp"                  "Malines_Maison_de_transition" "Mechelen"                    
+[13] "Merksplas"                    "Oudenaarde"                   "Ruiselede"                    "Tongeren_Nieuw"               "Turnhout"                     "Wortel"                      
+[19] "Andenne"                      "Arlon"                        "Dinant"                       "Enghien_Maison_de_transition" "Huy"                          "Ittre"                       
+[25] "Jamioulx"                     "Lantin"                       "Leuze-en-Hainaut"             "Marche-En-Famenne"            "Marneffe"                     "Mons"                        
+[31] "Namur"                        "Nivelles"                     "Paifve"                       "St._Hubert"                   "Tournai"                      "Berkendael"                  
+[37] "Forest"                       "St-Gilles"                   
 ```
+
+Au sein des 38 espaces fédéraux réservés à la détention des personnes physiques, le ministère public classe les détenus, notamment, via "leurs statuts légaux".
+
+Les tableaux statistiques distribués par le ministère public témoigne de cette attachement aux différences et traduisent essentiellement via deux genres de détenus et trois modes d'incarcérations différents huit types de détenus. 
+
+En effet, via les documents on comprend que 
+
+1. Le détenu est soit de genre Masculin, soit de genre féminin. 
+2. Le détenu est ou prévenu ou condamné. 
+3. et enfin, le détenu est interné ou non. 
+
+Ainsi, on comprend bien qu'il existe, selon la typologie du ministère public, au moins huit types de détenus différents au sein du système carcéral fédéral.
+
 
 check_access_to_data()
 
