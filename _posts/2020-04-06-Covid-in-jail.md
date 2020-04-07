@@ -91,5 +91,5 @@ boxplot(data[,2],horizontal=TRUE,ylim=1.5*range(data[,2]),
 axis(1)
 ```
 
-<div style="text-align: center"><img src="{{ site.baseurl }}/assets/boxplot.png" alt="densité"></div>
+<div style="text-align: center"><img src="{{ site.baseurl }}/assets/boxplot.jpeg" alt="densité"></div>
 
