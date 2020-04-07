@@ -95,9 +95,12 @@ axis(1)
 
 Au courant de l'existence de valeurs possiblement "exhubérante", il est intéressant d'observer de plus près la distribution des effectifs d'un certain type de détenus. 
 
-Si on s'attelle uniquement àl'étude des des dtéenus dit "interné", on remarque qu'il sont placés dans dix établissements différents et selon une distibution beaucoup moins uniforme que ce que nous avons pu observer pour les détenus en général. Paifve semble détenir uniquement de détenus de ce type alors que Merkplass en détient 25 de ses effectfis totaux.
+- Si on s'attelle uniquement à l'étude des déténus dit "interné", on remarque qu'il sont placés dans dix établissements   différents et selon une distibution beaucoup moins uniforme que ce que nous avons pu observer pour les détenus en général. Paifve semble détenir uniquement de détenus de ce type alors que Merkplass en détient 25 de ses effectfis totaux.
 
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/Intbarplot.jpeg" alt="barplot"></div>
+
+- Notons aussi qu'un *test de student* sur les moyennes des pénitenciers au Nord et au sud de Bruxelles ne révèle aucune différences significatives. Autrement dit, après une brève analyse statistique, on ne peut pas affirmer, par exemple, que les internés sont, en moyenne, dans le sud du Royaume, plus regroupés ensemble que dans le reste du royaume de Belgique.
+
 
 
