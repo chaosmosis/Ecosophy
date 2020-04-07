@@ -118,7 +118,7 @@ Sans égard pour la question du genre, on remarque qu'il existe deux grosses cat
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/prevenus_distribution.jpg" alt="distribution des prevenus"></div>
 
-- Notons en outre que seulement 7 pénitenciers sur les 38  considérés - Hoogstraten, Leuven Centraal, Maison de transition Malines, Ruiselede, Maison de transition d'Enghien, Paifve, et St. Hubert - n détient aucun prévenus.
+- Notons en outre que seulement 7 pénitenciers sur les 38  considérés - Hoogstraten, Leuven Centraal, Maison de transition Malines, Ruiselede, Maison de transition d'Enghien, Paifve, et St. Hubert - ne détiennent aucun prévenus.
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/prevenus.jpg" alt="prevenu"></div>
 
@@ -131,7 +131,7 @@ Sans égard pour la question du genre, on remarque qu'il existe deux grosses cat
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/comdamne_distribution.jpg" alt="distribution des comdamnés"></div>
 
-- Notons en outre que si on s'intéresse au nombre de detenus vis à vis des autres par prison, dexu remarques sont à faire dans un premier temps.  Premièrement, il existe deux pénitenciers seulement qui n'acceuillent que des détenus comdamnés : les deux maisons de transition de Maligne et Enghien. Deuxièmement, au premier coup d'oeil, on remarquera trois types de pénitenciers en matière de détentions de comdamnés: 
+- Notons en outre que si on s'intéresse au nombre de detenus vis-àvis des autres par prison, dexu remarques sont à faire dans un premier temps.  Premièrement, il existe deux pénitenciers seulement qui n'acceuillent que des détenus comdamnés : les deux maisons de transition de Maligne et Enghien. Deuxièmement, au premier coup d'oeil, on remarquera trois types de pénitenciers en matière de détentions de comdamnés: 
 
 1. Les pénitenciers s'occupant uniquement des comdamnés.
 2. Les pétitenciers avec plus 50 % des détenus comdamnés.
