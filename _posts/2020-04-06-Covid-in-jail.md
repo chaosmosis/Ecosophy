@@ -125,10 +125,16 @@ Sans égard pour la question du genre, on remarque qu'il existe deux grosses cat
 
 #### les comdamnés
 
-- Si on s'attelle uniquement à l'étude des déténus dit "Comdamné", on remarque qu'il sont présents dans la quasi totalités des pénitenciers. Comparativement aux autres statuts de détenus, la distribution des comdamné au sein des prisons admet une distribution plus uniforme au sein du système carcéral . On remarque en particulier que la majorité des des prévenus sont détenus à Lantin, Saint-Gilles ou Merklpass. 
+<div style="text-align: center"><img src="{{ site.baseurl }}/assets/présence_distribution.jpg" alt="Pourcetage des comdamnés dans chaque prison"></div>
+
+- Remarquons derechef que les détenus dit comdamnés sont présents dans toutes les prisons sauf à Paifve. Ainsi, si on s'attelle uniquement à l'étude de ceux-ci, comparativement aux autres statuts de détenus, la distribution des comdamné au sein des prisons admet une distribution plus uniforme au sein du système carcéral. 
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/comdamne_distribution.jpg" alt="distribution des comdamnés"></div>
 
+- Notons enfin qu'il existe néanmoins que le détenus sont généralement détenus avec d'autres types de détenus quoique les deux maisons de transition (Maligne et Enghien) s'occupent uniquement de comdamnés. Plus généralement, remarquera en particulier trois types de pénitenciers en matière de détentions des détenus: 
 
+1. Les pénitenciers s'occupant uniquement des comdamnés
+2. Les pétitenciers avec plus 50 % des détenuscomdamnés
+3. Les pénitenciers avec moins de 25 % de détenus comdannés.
 
 
