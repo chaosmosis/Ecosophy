@@ -79,7 +79,8 @@ axis(4)
 lines(density(data[,2]),col="red")
 boxplot(data[,2],horizontal=TRUE,ylim=1.5*range(data[,2]),
   axes=FALSE,xlab="Nombre de détenus")
-axis(1)```
+axis(1)
+```
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/boxplot.png" alt="densité"></div>
 
