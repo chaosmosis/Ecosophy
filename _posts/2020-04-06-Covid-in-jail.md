@@ -58,7 +58,7 @@ Ainsi, selon la typologie du ministère public il existe au moins huit manières
 
 ## La question de la présence
 
-$$n_i$$ varie énormenet de prison en prison. La prison qui comtabilise le moins de détenu est la maison de transion d'enghien. celle qui dénombre le plus grand nombre de détenus est la prison de Lantin. En moyenne, il y a 166 détenus par prisons alors que plus de la moitiers des détenus sont regroupés dans des prisons avec plus de 147 détenus. 
+Le $$n_i$$ varie énormenet de prison en prison. La prison qui comptabilise le moins de détenu estla maison de transion d'Enghien. Celle qui dénombre le plus grand nombre de détenus est la prison de Lantin. En moyenne, il y a 166 détenus par prison alors que la moitié des détenus sont regroupés dans des prisons avec plus de 147 détenus. 
 
 ```{r} 
 tot=as.data.frame(prison[,2]+prison[,3]+prison[,4])
@@ -70,7 +70,7 @@ p
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/histo_prison.jpg" alt="systeme"></div>
 
-Le graphique suivant nous permet d'observer que la distibution des effectifs de détenus au sein des prisons. Une grande hétérogénité apparait. Remarquons notamment que plus de la moitié des détenus sont regroupés dans des prisons détenant un nombre de détenus inférieur au nombre moyen de détenus par prison.
+Le graphique suivant nous permet d'observer la distibution des effectifs de détenus au sein des prisons. Une grande hétérogénité s'y fait voir. On constate notamment que plus de la moitié des détenus sont regroupés dans des prisons détenant un nombre de détenus inférieur au nombre moyen de détenus par prison.
 
 
 ```{r}
