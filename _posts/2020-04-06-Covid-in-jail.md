@@ -100,7 +100,7 @@ axis(1)
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/boxplot.jpeg" alt="densité"></div>
 
-#### les statuts 
+### Descrition des types de détenus 
 
 
 Au courant de l'existence de valeurs possiblement "exhubérantes", il est intéressant d'observer de plus près la distribution des effectifs d'un certain type de détenus. 
@@ -117,7 +117,7 @@ Sans égard pour la question du genre, on remarque qu'il existe deux grosses cat
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/repart.jpg" alt="statuts"></div>
 
-##### les internés
+#### les internés
 
 - Si on s'attelle uniquement à l'étude des déténus dit "internés", on remarque qu'il sont placés dans dix établissements   différents et selon une distibution beaucoup moins uniforme que ce que nous avons pu observer pour les détenus en général. Paifve semble détenir uniquement des détenus de ce type alors que les internés représentent 25 % des effectfis totaux de detenus au sein de la prison historique de Merklpass
 
@@ -126,7 +126,7 @@ Sans égard pour la question du genre, on remarque qu'il existe deux grosses cat
 
 - Notons aussi qu'un *test de student* sur les moyennes des pénitenciers au Nord et au sud de Bruxelles ne révèle aucune différences significatives. Autrement dit, après une brève analyse statistique, on ne peut pas affirmer, par exemple, que les internés sont, en moyenne, dans le sud du Royaume, plus regroupés ensemble que dans le reste du royaume de Belgique.
 
-##### les prévenus 
+#### les prévenus 
 
 - Si on s'attelle uniquement à l'étude des déténus dit "Prévenus", on remarque qu'il sont présents dans la quasi totalités des pénitenciers. Cependant, la distribution des prévenus au sein des prisons n'en est pas pour autant plus uniforme au sein du système carcéral. On remarque en particulier que la majorité des des prévenus sont détenus à Lantin, Saint-Gilles ou Merklpass. 
 
@@ -137,7 +137,7 @@ Sans égard pour la question du genre, on remarque qu'il existe deux grosses cat
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/prevenus.jpg" alt="prevenu"></div>
 
 
-##### les comdamnés
+#### les comdamnés
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/présence_distribution.jpg" alt="Pourcetage des comdamnés dans chaque prison"></div>
 
