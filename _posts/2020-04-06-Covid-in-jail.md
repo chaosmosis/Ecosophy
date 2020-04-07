@@ -16,11 +16,11 @@ Chaque prison $$i$$ a une "capacité théorique", ci-après dénotée $$ \xi_i $
 
 En l'espèce, nous supposons donc qu'au sein des $$i$$ prisons fédérales du pays,  il y a
 
-$$\Xi= \sum^_{i}\xi_{i}$$
+$$ \Xi= \sum_{i} \xi_{i} $$
 
 Pour une capacité totale de 
 
-$$N= \sum^_{i}\n_{i}$$
+$$ N= \sum_{i} n_{i} $$
 
 ## Construire les données 
 
