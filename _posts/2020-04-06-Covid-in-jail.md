@@ -48,13 +48,6 @@ rownames(prison)
 
 Au sein des 38 espaces fédéraux réservés à la détention des personnes physiques, le ministère public classe les détenus, notamment, via "leurs statuts légaux".
 
-Les tableaux statistiques distribués par le ministère public témoignent de son attachement aux différences et nous permettent d'appréhender huit types de détenus. En effet, via les documents on comprend que 
-
-1. Le détenu est soit de genre Masculin, soit de genre Féminin. 
-2. Le détenu est ou prévenu ou condamné. 
-3. et enfin, le détenu est interné ou non. 
-
-Ainsi, selon la typologie du ministère public il existe au moins huit manières différentes d'appréhender les détenus.
 
 ## La question de la présence
 
@@ -93,14 +86,32 @@ axis(1)
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/boxplot.jpeg" alt="densité"></div>
 
+### les statuts 
+
+
 Au courant de l'existence de valeurs possiblement "exhubérante", il est intéressant d'observer de plus près la distribution des effectifs d'un certain type de détenus. 
 
-- Si on s'attelle uniquement à l'étude des déténus dit "interné", on remarque qu'il sont placés dans dix établissements   différents et selon une distibution beaucoup moins uniforme que ce que nous avons pu observer pour les détenus en général. Paifve semble détenir uniquement de détenus de ce type alors que Merkplass en détient 25 de ses effectfis totaux.
+Les tableaux statistiques distribués par le ministère public témoignent de son attachement aux différences et nous permettent d'appréhender huit types de détenus. En effet, via ces documents on comprend que 
+
+1. Le détenu est soit de genre Masculin, soit de genre Féminin. 
+2. Le détenu est ou prévenu ou condamné. 
+3. et enfin, le détenu est interné ou non. `
+
+Ainsi, selon la typologie du ministère public il existe au moins huit manières différentes d'appréhender les détenus.
+
+Sans égard pour la question du genre, on remarque qu'il existe deux grosses catégories déténus : les prévénus et les codamnés.
+
+<div style="text-align: center"><img src="{{ site.baseurl }}/assets/repart.jpg" alt="statuts"></div>
+
+
+- Si on s'attelle uniquement à l'étude des déténus dit "interné", on remarque qu'il sont placés dans dix établissements   différents et selon une distibution beaucoup moins uniforme que ce que nous avons pu observer pour les détenus en général. Paifve semble détenir uniquement de détenus de ce type alors que Merkplass en détient 25 % de ses effectfis totaux.
 
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/Intbarplot.jpeg" alt="barplot"></div>
 
 - Notons aussi qu'un *test de student* sur les moyennes des pénitenciers au Nord et au sud de Bruxelles ne révèle aucune différences significatives. Autrement dit, après une brève analyse statistique, on ne peut pas affirmer, par exemple, que les internés sont, en moyenne, dans le sud du Royaume, plus regroupés ensemble que dans le reste du royaume de Belgique.
+
+
 
 
 
