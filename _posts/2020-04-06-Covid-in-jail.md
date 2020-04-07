@@ -24,17 +24,26 @@ En l'espèce, nous dirons donc qu'au sein des $$I$$ prisons fédérales du pays,
 
 - $$ G = \sum_{I} g_{i} $$ intervenants salariés.
 
-De cette manière on peut défininir une séries d'indicateurs qui nous permettront de réaliser une brève analyse statistiques des tableaux de données qui servent à la gestion et au controle des prisons. Notons notamment que la moyenne de détenu dans une des $$I$$ prisons peut être défini de la manière suivante :
+De cette manière on peut défininir une série d'indicateurs qui nous permettront de réaliser une brève analyse statistiques des tableaux de données qui servent à la gestion et au controle des prisons.
+
+Notons notamment que la moyenne de détenu dans une des $$I$$ prisons peut être définie de la manière suivante :
  
-- $$ \overline{N} = \frac{ \sum_{I} n_{i} }{ I }$$ 
+ <div style="text-align: center">
+ $$ \overline{N} = \frac{ \sum_{I} n_{i} }{ I }$$ 
+ </div>
+ 
+Ayant à l'esprit les notation précédentes, au cours de cette analuse nous désignerons par 
+ 
+ - $$d^{h}_{i}$$ le détenu de type $$h$$$ dépendant de $$i$$ 
+ - $$\pi^{h}_{i}=$$, le pourcentage de détenus de type $$h$$ au sein de $$i$$ dans la population des total des détenu de type $$h$$
+ - $$\pi^{h}_{i}=$$, le pourcentage de détenus de type $$h$$ au sein de $$i$$ dans la population des total des détenu de la prison $$i$$la part des détenus comdamnés au sein de la prison $$i$$
 
 
 
-## Construire les données 
 
+## Analyse descriptive des données 
 
-
-## La question de l'absence.
+### Les données
 
 ```{r}
 
@@ -54,7 +63,7 @@ rownames(prison)
 Au sein des 38 espaces fédéraux réservés à la détention des personnes physiques, le ministère public classe les détenus, notamment, via "leurs statuts légaux".
 
 
-## La question de la présence
+### Les détenus au sein des prisons
 
 Le $$n_i$$ varie énorménent de prison en prison. La prison qui comptabilise le moins de détenus est la maison de transition d'Enghien. Celle qui dénombre le plus grand nombre de détenus est la prison de Lantin. En moyenne, il y a 166 détenus par prison alors que la moitié des détenus sont regroupés dans des prisons avec plus de 147 détenus. 
 
@@ -91,7 +100,7 @@ axis(1)
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/boxplot.jpeg" alt="densité"></div>
 
-### les statuts 
+#### les statuts 
 
 
 Au courant de l'existence de valeurs possiblement "exhubérantes", il est intéressant d'observer de plus près la distribution des effectifs d'un certain type de détenus. 
@@ -108,7 +117,7 @@ Sans égard pour la question du genre, on remarque qu'il existe deux grosses cat
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/repart.jpg" alt="statuts"></div>
 
-#### les internés
+##### les internés
 
 - Si on s'attelle uniquement à l'étude des déténus dit "internés", on remarque qu'il sont placés dans dix établissements   différents et selon une distibution beaucoup moins uniforme que ce que nous avons pu observer pour les détenus en général. Paifve semble détenir uniquement des détenus de ce type alors que les internés représentent 25 % des effectfis totaux de detenus au sein de la prison historique de Merklpass
 
@@ -117,7 +126,7 @@ Sans égard pour la question du genre, on remarque qu'il existe deux grosses cat
 
 - Notons aussi qu'un *test de student* sur les moyennes des pénitenciers au Nord et au sud de Bruxelles ne révèle aucune différences significatives. Autrement dit, après une brève analyse statistique, on ne peut pas affirmer, par exemple, que les internés sont, en moyenne, dans le sud du Royaume, plus regroupés ensemble que dans le reste du royaume de Belgique.
 
-#### les prévenus 
+##### les prévenus 
 
 - Si on s'attelle uniquement à l'étude des déténus dit "Prévenus", on remarque qu'il sont présents dans la quasi totalités des pénitenciers. Cependant, la distribution des prévenus au sein des prisons n'en est pas pour autant plus uniforme au sein du système carcéral. On remarque en particulier que la majorité des des prévenus sont détenus à Lantin, Saint-Gilles ou Merklpass. 
 
@@ -128,7 +137,7 @@ Sans égard pour la question du genre, on remarque qu'il existe deux grosses cat
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/prevenus.jpg" alt="prevenu"></div>
 
 
-#### les comdamnés
+##### les comdamnés
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/présence_distribution.jpg" alt="Pourcetage des comdamnés dans chaque prison"></div>
 
@@ -140,7 +149,7 @@ Sans égard pour la question du genre, on remarque qu'il existe deux grosses cat
 
 1. Les pénitenciers s'occupant uniquement des comdamnés.
 2. Les pétitenciers avec plus 50 % des détenus comdamnés.
-3. Les pénitenciers avec moins de 25 % de détenus comdannés.
+3. Les pénitenciers avec moins de 25 % de détenus comdamnés.
 
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/distribution_jail.jpg" alt="Pourcentage de Comdamnés par Prison"></div>
