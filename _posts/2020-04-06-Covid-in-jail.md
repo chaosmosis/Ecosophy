@@ -10,17 +10,15 @@ Une email et quelques pièces jointes. Le problème de la définition des variab
 
 ## Notations pour les Prisons
 
-Supposons qu'il existe un nombre déterminé de prisons (e.g $$ I in \R{+}_{0} $$ sur un terrtoire donné. Désignons par $i$, l'une des $I$ prisons de ce territoire et par $$ n_i $$, le nombre de détenus au sein de la prison $$i$$.
+Supposons qu'il existe un nombre déterminé de prisons (e.g $$ I in \R{+}_{0}$$) sur un terrtoire donné. Désignons par $i$, l'une des $I$ prisons de ce territoire et par $$ n_i $$, le nombre de détenus au sein de la prison $$i$$.
 
-Chaque prison $$i$$ a une "capacité théorique", ci-après dénotée $$ \xi_i $$. Nommons le nombre total de détenus au sein du système carcéral belge ci-après par $$ N $$ et le capacité totale de détention du système carcérale, par $$ \Xi $$. 
+Chaque prison $$i$$ a une "capacité théorique", ci-après dénotée $$ \xi_i $$. Nommons le nombre total de détenus au sein du système carcéral belge par $$ N $$ et le capacité totale de détention du système carcérale par $$ \Xi $$. 
 
-En l'espèce, nous supposons donc qu'au sein des $$i$$ prisons fédérales du pays,  il y a
+En l'espèce, nous supposons donc qu'au sein des $$I$$ prisons fédérales du pays,  il y a
 
-$$ \Xi= \sum_{i} \xi_{i} $$
+1. $$ N = \sum_{I} n_{i} $$ détenus pour
 
-Pour une capacité totale de 
-
-$$ N= \sum_{i} n_{i} $$
+2. $$ \Xi= \sum_{I} \xi_{i} $$ espaces de vie.
 
 ## Construire les données 
 
