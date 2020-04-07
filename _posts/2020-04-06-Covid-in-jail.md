@@ -10,11 +10,11 @@ Une email et quelques pièces jointes. Le problème de la définition des variab
 
 ## Notations pour les Prisons
 
-Supposons qu'il existe un nombre déterminé de prisons (e.g $$ I \in \mathbf{R} $$) sur un terrtoire donné. Désignons par $i$, l'une des $I$ prisons de ce territoire et par $$ n_i $$, le nombre de détenus au sein de la prison $$i$$.
+Supposons qu'il existe un nombre déterminé de prisons (e.g $$ I \in \mathbf{R} $$) sur un terrtoire. Désignons par $i$ l'une des $I$ prisons de ce territoire et par $$ n_i $$, le nombre de détenus au sein de la prison $$i$$.
 
-Chaque prison $$i$$ a une "capacité théorique", ci-après dénotée $$ \xi_i $$. Nommons le nombre total de détenus au sein du système carcéral belge par $$ N $$ et le capacité totale de détention du système carcérale par $$ \Xi $$. 
+Supposons que chaque prison $$i$$ a une "capacité théorique", ci-après dénotée $$ \xi_i $$. Nommons le nombre total de détenus au sein du système carcéral belge par $$ N $$ et la capacité totale de détention du système carcérale par $$ \Xi $$. 
 
-Enfin, désignons par $$g_i$$ le nombre de salarié travaillant au sein de la prison $$i$$ et par $$G$$ le nombre total de salarié oeuvrant à la reproduction des tâches journalières auquel est confronté le système carcérale fédéral.
+Enfin, désignons par $$g_i$$ le nombre de salarié travaillant au sein de la prison $$i$$ et par $$G$$ le nombre total de salarié oeuvrant à la reproduction des tâches journalières auquelles sont confronté les membres du système carcérale fédéral.
 
 En l'espèce, nous dirons donc qu'au sein des $$I$$ prisons fédérales du pays, il y a
 
@@ -48,15 +48,13 @@ rownames(prison)
 
 Au sein des 38 espaces fédéraux réservés à la détention des personnes physiques, le ministère public classe les détenus, notamment, via "leurs statuts légaux".
 
-Les tableaux statistiques distribués par le ministère public témoigne de cette attachement aux différences et traduisent essentiellement via deux genres de détenus et trois modes d'incarcérations différents huit types de détenus. 
+Les tableaux statistiques distribués par le ministère public témoignent de son attachement aux différences et nous permettent d'appréhender huit types de détenus. En effet, via les documents on comprend que 
 
-En effet, via les documents on comprend que 
-
-1. Le détenu est soit de genre Masculin, soit de genre féminin. 
+1. Le détenu est soit de genre Masculin, soit de genre Féminin. 
 2. Le détenu est ou prévenu ou condamné. 
 3. et enfin, le détenu est interné ou non. 
 
-Ainsi, on comprend bien qu'il existe, selon la typologie du ministère public, au moins huit types de détenus différents au sein du système carcéral fédéral.
+Ainsi, on comprend qu'il existe, selon la typologie du ministère public, au moins huit types de détenus différents au sein du système carcéral fédéral.
 
 
 check_access_to_data()
