@@ -131,10 +131,15 @@ Sans égard pour la question du genre, on remarque qu'il existe deux grosses cat
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/comdamne_distribution.jpg" alt="distribution des comdamnés"></div>
 
-- Notons enfin qu'il existe néanmoins que le détenus sont généralement détenus avec d'autres types de détenus quoique les deux maisons de transition (Maligne et Enghien) s'occupent uniquement de comdamnés. Plus généralement, remarquera en particulier trois types de pénitenciers en matière de détentions des détenus: 
+- Notons enfin qu'il existe néanmoins que le détenus sont généralement détenus avec d'autres types de détenus quoique les deux maisons de transition (Maligne et Enghien) s'occupent uniquement de comdamnés. Plus généralement, au premier coup d'oeil, on remarquera en particulier trois types de pénitenciers en matière de détentions de détenus: 
 
 1. Les pénitenciers s'occupant uniquement des comdamnés
 2. Les pétitenciers avec plus 50 % des détenuscomdamnés
 3. Les pénitenciers avec moins de 25 % de détenus comdannés.
+
+
+<div style="text-align: center"><img src="{{ site.baseurl }}/assets/distribution_jail.jpg" alt="Pourcentage de Comdamnés par Prison"></div>
+
+
 
 
