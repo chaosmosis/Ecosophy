@@ -184,10 +184,21 @@ Ici encore, on peut remarquer que la part des détenus condamnés au sein des d�
 
 ### les personnnels en charge des détenus
 
+> "l'administration pénitentiaire est un service du SPF Justice depuis 1830. Elle est organisée d'une part en Direction générale des établissements pénitentiaires (DG EPI) et d'autre part en services extérieurs où figurent les 33 établissements pénitentiaires. La mission de son directeur s'inscrit dans le cadre général de l'excécution des peines, qui doit être compatible avec le respect des droits fondamentaux  des individus"<sup id="a1">[1](#f1)</sup> 
+
 #### le personnel au sein des établissements pénitenciaires
 
-> "l'administration pénitentiaire est un service du SPF Justice depuis 1830. Elle est organisée d'une part en Direction génrale des établissements pénitentiaires (DG EPI) et d'autre part en services extérieurs où figurent les 33 établissements pénitentiaires. La mission de son directeur s'inscrit dans le cadre géénral de l'excécution des peines, qui doit être compatible avec le respect des droits fondamentaux  des individus"<sup id="a1">[1](#f1)</sup> 
+Au sein des établissements pénitentiaires, l'organisation du travail offre à voir une structure très hierarchisée.
+
+> *"La direction d'un établissement comprend le directeur, et le cas échéant, le(s) sous-directeur(s); ils sont placés sous l'autorité hierarchiques du ministre de la Justice . Les membres de la direction dirigent l'établissement conformément aux principes modernes de gestion et aux principes de droits nationaux et internationaux, tant sur le plan individuel qu'aux niveau des équipes".*<sup id="a2">[1](#f2)</sup> 
+
+En face des postes de direction, le restant du personnel de surveillance au sein d'un établissement pénitenciaire est d'au moins quatre types selon les guide du Prisonnier : assistant pénitentiaire, chef surveillant, chefs de quartier, et agents pénitentiaires.
+
+> *"Chaque surveillant porte un uniforme qui diffère selon son grade."*<sup id="a3">[1](#f3)</sup> 
 
 
-<b id="f1">1</b> Le guide du Prisonnier en Belgique, sous la dir.  Marie-aude Beernaert, Philipppe Mary et Marc Nève, éditions Luc pire, 2016, p.29[↩](#a1)
+<b id="f1">1</b> Le guide du Prisonnier en Belgique, sous la dir. de Marie-aude Beernaert, Philipppe Mary et Marc Nève, éditions Luc Pire, 2016, p.29[↩](#a1)
 
+<b id="f2">1</b> Le guide du Prisonnier en Belgique, sous la dir.  Marie-aude Beernaert, Philipppe Mary et Marc Nève, éditions Luc Pire, 2016, p.30[↩](#a2)
+
+<b id="f3">1</b> Le guide du Prisonnier en Belgique, sous la dir.  Marie-aude Beernaert, Philipppe Mary et Marc Nève, éditions Luc Pire, 2016, p.31[↩](#a3)
