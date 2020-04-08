@@ -205,11 +205,11 @@ En face des postes de direction, le restant du personnel de surveillance au sein
 
 > *"Chaque surveillant porte un uniforme qui diffère selon son grade."*<sup id="a3">[3](#f3)</sup> 
 
-Si on s'en tient aux notation proposées ci-dessous, $$g_{i}$$ représente alors le nombre d'individus s'indentifiant à ces deux types du personnel au sein d'un des $$I$$ établissements pénitenciers.
+Si on s'en tient aux notations proposées ci-dessus, $$g_{i}$$ représente maintenant le nombre d'individus s'indentifiant à ces deux types de personnel au sein d'un des $$I$$ établissements pénitenciers.
 
 #### Le Comité de Concertation de base
 
-Le comité de concertation de base est probablement l'organe dont on a le plus entendu parler dans les médias et le plus décisif poir comprendre l'organisation du travail au sein d'un établissement pénitencier.
+Le comité de concertation de base est probablement l'organe dont on a le plus entendu parler dans les médias ces dernières années. Probablement car c'est aussi un organe clef dans la reproduction journalière de l'organisation du travail au sein des établissements pénitenciers.
 
 > *"Il s'agit d'un organe de concertation de la direction de la prison et les organisation syndicales. Ce comité est notamment chargé d'organiser et d'améliorer les conditions de travail du personnel pénitentiaire. Dans ce cadre, les décision qui y sont prises peuvent  avoir des conséquences sur le régime pénitentiaire et la vie en prison puisque le lieu de travail du personnel est le même que le lieu de vie des détenus."*<sup id="a4">[4](#f4)</sup> 
 
