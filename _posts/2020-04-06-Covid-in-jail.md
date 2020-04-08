@@ -190,9 +190,9 @@ Cette asymétrie est telle qu'on remarquera en outre qu'alors qu'en moyenne le p
 
 ### le personnel au sein des établissements pénitenciaires
 
-<div style="text-align: center"><img src="{{ site.baseurl }}/assets/sempe.jpg" alt="sempe" style="width:200px;" ></div>
+<div style="text-align: center"><img src="{{ site.baseurl }}/assets/sempe.jpg" alt="sempe" style="width:100px;" ></div>
 
-Au sein des établissements pénitentiaires, l'organisation du travail offre à voir une structure très hierarchisée.
+Au sein des établissements pénitentiaires, l'organisation du travail du personnel en charge des détenus offre à voir une structure très hierarchisée.
 
 > *"La direction d'un établissement comprend le directeur, et le cas échéant, le(s) sous-directeur(s); ils sont placés sous l'autorité hierarchiques du ministre de la Justice . Les membres de la direction dirigent l'établissement conformément aux principes modernes de gestion et aux principes de droits nationaux et internationaux, tant sur le plan individuel qu'aux niveau des équipes".*<sup id="a2">[2](#f2)</sup> 
 
