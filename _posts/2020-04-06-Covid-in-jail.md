@@ -219,7 +219,7 @@ Les valeurs que prennent ces nombres ne dépendent plus des Juges comme dans le 
 
 #### le distribution du personnel au sein des établissements pénitenciaires
 
-<div style="text-align: center"><img src="{{ site.baseurl }}/assets/person.jpg" alt="Distribution négociée des effectifs"></div>
+<div style="text-align: center"><img src="{{ site.baseurl }}/assets/perso.jpg" alt="Distribution négociée des effectifs"></div>
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/persop.jpg" alt="Distribution opérationnelle des effectifs"></div>
 
