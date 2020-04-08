@@ -223,12 +223,9 @@ Comme on pouvait s'en douter, les statistiques représentés dans le graphique c
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/perso.jpg" alt="Distribution négociée des effectifs"></div>
 
-Le graphique précédent se base sur les effectifs négociés dans le cadre du comité de concertation de base. Dans la réalité, les directeurs de établissements pénitentiaire et ceux et celles qui les assistent organisent le travail attenant aux détenu avec une main-d'oeuvre réduite.
+Le graphique précédent se base sur les effectifs négociés dans le cadre du comité de concertation de base. Dans la réalité, les directeurs de établissements pénitenciers et ceux et celles qui les assistent organisent le travail attenant aux détenus en comptant avec une main-d'oeuvre réduite.
 
 D'après les statistiques distribués par l'administration de ces établissements pénitenciers, seuls trois prisons avaient, au début du mois d'avril 2020, des effectifs opérationnels légérement supérieurs aux effectifs négociés avec les syndicats.
-
-
-<div style="text-align: center"><img src="{{ site.baseurl }}/assets/persop.jpg" alt="Distribution opérationnelle des effectifs"></div>
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/diff.jpg" alt="Différences"></div>
 
