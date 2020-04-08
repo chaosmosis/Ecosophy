@@ -162,25 +162,25 @@ Sans égard pour la question du genre, nous avons représenté les parts respect
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/prevenus.jpg" alt="prevenu"></div>
 
 
-#### les comdamnés
+#### les condamnés
 
-Remarquons derechef que les détenus dit comdamnés sont présents dans toutes les prisons sauf à Paifve. Ainsi, si on s'attelle uniquement à l'étude de ceux-ci, comparativement aux autres statuts de détenus, la distribution des comdamné au sein des prisons admet une distribution plus uniforme au sein du système carcéral. 
+Remarquons derechef que les détenus dit condamnés sont présents dans toutes les prisons sauf à Paifve. Ainsi, si on s'attelle uniquement à l'étude de ceux-ci, comparativement aux autres statuts de détenus, la distribution des condamnés au sein des prisons admet une distribution plus uniforme au sein du système carcéral que les autres distributions analysées jusqu'ici. 
 
-<div style="text-align: center"><img src="{{ site.baseurl }}/assets/comdamne_distribution.jpg" alt="distribution des comdamnés"></div>
+<div style="text-align: center"><img src="{{ site.baseurl }}/assets/comdamne_distribution.jpg" alt="distribution des condamnés"></div>
 
-Notons en outre que si on s'intéresse la part des détenus condamné par les detenus d'une prison, soit $$\pi^{h}_{i}= \frac{d^{h}_{i}}{n_i}$$, deux remarques sont à faire dans un premier temps.
+Notons en outre que si on s'intéresse à la part des détenus condamnés parmis les detenus d'une prison, soit $$\pi^{h}_{i}= \frac{d^{h}_{i}}{n_i}$$, deux faits statistiques emrgent rapidement.
 
-1. Premièrement, il existe deux pénitenciers seulement qui n'acceuillent que des détenus comdamnés : les deux maisons de transition de Maligne et Enghien. 
-2. Deuxièmement, au premier coup d'oeil, on remarquera trois types de pénitenciers en matière de détentions de comdamnés: 
+1. Premièrement, seulement 2 pénitenciers sur 38 n'acceuillent que des détenus condamnés : les deux maisons de transition de Maligne et Enghien. 
+2. Deuxièmement, au premier coup d'oeil, on remarquera trois types de pénitenciers en matière de détentions de condamnés: 
 
-- Les pénitenciers s'occupant uniquement de détenus comdamnés.
-- Les pétitenciers avec plus 50 % de détenus comdamnés.
-- Les pénitenciers avec moins de 25 % de détenus comdamnés.
+- Les pénitenciers s'occupant uniquement de détenus condamnés.
+- Les pétitenciers avec plus 50 % de détenus condamnés.
+- Les pénitenciers avec moins de 25 % de détenus condamnés.
 
 
-<div style="text-align: center"><img src="{{ site.baseurl }}/assets/distribution_jail.jpg" alt="Pourcentage de Comdamnés par Prison"></div>
+<div style="text-align: center"><img src="{{ site.baseurl }}/assets/distribution_jail.jpg" alt="Pourcentage de Condamnés par Prison"></div>
 
-Ici encore, on peut remarquer que la part des détenus codamnés au sein des détenus des 38 prison est asymétrique. Comme on peut le voir sur la graphique suivant, plus de la moitié des prisons détiennent plus de 55% de détenus comdamnés entre leurs murs. Notons en oute, qu'en moyenne, la taux de détenus comdamnés parmis la population des détenus d'une prison est de 66% alors que 25% des prisons acceuillent en leurs murs une population essentiellement composée de détenus comdamnés, soit plus de neuf détenus sur dix (*i.e.* le 3ème quartile : 93%). 
+Ici encore, on peut remarquer que la part des détenus condamnés au sein des détenus des 38 prison est asymétrique. Comme on peut le voir sur la graphique suivant, plus de la moitié des prisons détiennent plus de 55% de détenus comdamnés entre leurs murs. Notons en oute, qu'en moyenne, le pourcentage de détenus condamnés parmis la population des détenus d'une prison est de 66% alors que 25% des prisons acceuillent en leurs murs une population essentiellement composée de détenus comdamnés, soit une population plus de neuf détenus sur dix (*i.e.* le 3ème quartile : 93%). 
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/distr_con.jpg" alt="Histogramme des pourcentages de Comdamnés dans la population d'une Prison"></div>
 
