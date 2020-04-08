@@ -6,7 +6,7 @@ author: "John Nève"
 meta: "sante"
 ---
 
-# La situation dans les prisons belges lors d'une crise sanitaire.
+# La situation dans les prisons
 
 Une email et quelques pièces jointes. Le problème de la définition des variables. 
 
@@ -161,7 +161,6 @@ Sans égard pour la question du genre, nous avons représenté les parts respect
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/prevenus.jpg" alt="prevenu"></div>
 
-
 #### les condamnés
 
 Remarquons derechef que les détenus dit condamnés sont présents dans toutes les prisons, sauf à Paifve.  Si on s'attelle uniquement à l'étude de ceux-ci, comparativement aux autres statuts de détenus, la distribution  de la part des individus de typen $$h$$ au sein des prisons, soit la distribution statistique de $$\Pi^{h}_{i}= \frac{d^{h}_{i}}{N}$$, admet une distribution plus uniforme au sein du système carcéral que les autres distributions analysées jusqu'ici. 
@@ -219,6 +218,12 @@ Dans les documents fournis par le CCSP, les chiffres concernant  les effectifs d
 Les valeurs que prennent ces nombres ne dépendent plus des Juges comme dans le cas des détenus, mais directement de cette interface relativement informelle entre l'organe de controle du personnel et le personnel en tant que tel.
 
 #### le distribution du personnel au sein des établissements pénitenciaires
+
+<div style="text-align: center"><img src="{{ site.baseurl }}/assets/person.jpg" alt="Distribution négociée des effectifs"></div>
+
+<div style="text-align: center"><img src="{{ site.baseurl }}/assets/persop.jpg" alt="Distribution opérationnelle des effectifs"></div>
+
+<div style="text-align: center"><img src="{{ site.baseurl }}/assets/diff.jpg" alt="Différences"></div>
 
 
 <b id="f0">0</b> Le guide du Prisonnier en Belgique, sous la dir. de Marie-aude Beernaert, Philipppe Mary et Marc Nève, éditions Luc Pire, 2016, p.19[↩](#a0)
