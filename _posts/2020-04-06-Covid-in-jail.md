@@ -66,9 +66,9 @@ rownames(prison)
 
 
 
-### Analyse descriptive des données relatives aux nombre de détenus en Prison
+### Analyse descriptive des données relatives aux nombres des détenus en Prison
 
-En europe, le nombre de personnes détenues au sein d'un système carcérale devraient dépendre directement du travail opéré par le pouvoir judiciaire. N'est pas détenu qui veut.
+Au sein des pays membres du conseil de l'Europe, le nombre de personnes détenues au sein d'un système carcérale devraient dépendre directement du travail opéré par le pouvoir judiciaire. N'est pas détenu qui veut.
 
 > "Aucune personne ne peut être administrée ou retenu dans une prison en qualité de détenu sans une ordonnance d'incarcération valable, conformément au droit interne"
 
