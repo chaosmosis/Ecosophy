@@ -34,11 +34,11 @@ Notons notamment que la moyenne de détenu dans une des $$I$$ prisons peut être
  
 Ayant à l'esprit les notation précédentes, au cours de cette analuse nous désignerons par 
  
- - $$d^{h}_{i}$$, le détenu de type $$h$$$ dépendant de $$i$$
- - $$\Pi$$, le pourcentage de détenu de type $$h$$ dans le système carcérale.
- - $$\pi_{i} $$, le pourcentage des détenus détenus au sein de la prison $$i$$
- - $$\pi^{h}_{i}=$$, le pourcentage des détenus de type $$ h $$ détenus au sein de la prison $$i$$
+ - $$d^{h}_{i}$$, le nombre de détenus de type $$ h $$ dépendant de $$i$$
+ - $$\pi_{i} = \frac{n_i}{N}$$, le pourcentage des détenus détenus au sein de la prison $$i$$ 
+ - $$\pi^{h}_{i}= frac{d^{h}_{i}}{n_i}$$, le pourcentage des détenus de type $$ h $$ au sein des détenus de $$i$$
  - $$\Pi^{h}_{i}=$$, la part des détenus de type $$ h $$ parmis les détenus détenus au sein de $$i$$
+ - $$\Pi$$, le pourcentage de détenus de type $$h$$ dans le système carcérale.
  
 
 ## Les données
