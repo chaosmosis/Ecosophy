@@ -142,12 +142,12 @@ Sans égard pour la question du genre, nous avons représenté les parts respect
 
 #### les internés
 
-- Si on s'attelle uniquement à l'étude des déténus dit "internés", on remarque qu'il sont placés dans dix établissements   différents et selon une distibution beaucoup moins uniforme que ce que nous avons pu observer pour les détenus en général. Paifve semble détenir uniquement des détenus de ce type alors que les internés représentent 25 % des effectfis totaux de detenus au sein de la prison historique de Merklpass.
+- Si on s'attelle uniquement à l'étude des déténus dit "internés", on remarque qu'il sont placés dans dix établissements   différents et selon une distibution beaucoup moins uniforme que la distribution que nous avons pu observer pour les détenus en général. Paifve semble détenir uniquement des détenus internés alors que ces derniers représentent 25 % des effectfis des detenus au sein de la prison historique de Merklpass.
 
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/Intbarplot.jpeg" alt="barplot"></div>
 
-- Notons aussi qu'un *test de student* sur les moyennes des pénitenciers au Nord et au sud de Bruxelles ne révèle aucune différences significatives. Autrement dit, après une brève analyse statistique, on ne peut pas affirmer, par exemple, que les internés sont, en moyenne, dans le sud du Royaume, plus regroupés ensemble que dans le reste du royaume de Belgique.
+- Notons qu'un *test de student* sur les moyennes des pénitenciers au Nord et au sud de Bruxelles ne révèle aucune différences significatives. Autrement dit, après une brève analyse statistique, on ne peut pas affirmer, par exemple, que les internés sont, en moyenne, dans le sud du Royaume, plus regroupés ensemble que dans le reste du royaume de Belgique.
 
 #### les prévenus 
 
@@ -162,14 +162,14 @@ Sans égard pour la question du genre, nous avons représenté les parts respect
 
 #### les condamnés
 
-Remarquons derechef que les détenus dit condamnés sont présents dans toutes les prisons sauf à Paifve. Ainsi, si on s'attelle uniquement à l'étude de ceux-ci, comparativement aux autres statuts de détenus, $$\Pi^{h}_{i}= \frac{d^{h}_{i}}{N}$$, la distribution des condamnés au sein des prisons admet une distribution plus uniforme au sein du système carcéral que les autres distributions analysées jusqu'ici. 
+Remarquons derechef que les détenus dit condamnés sont présents dans toutes les prisons, sauf à Paifve.  Si on s'attelle uniquement à l'étude de ceux-ci, comparativement aux autres statuts de détenus, la distribution  de la part des individus de typen $$h$$ au sein des prisons, soit la distribution statistique de $$\Pi^{h}_{i}= \frac{d^{h}_{i}}{N}$$, admet une distribution plus uniforme au sein du système carcéral que les autres distributions analysées jusqu'ici. 
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/comdamne_distribution.jpg" alt="distribution des condamnés"></div>
 
-Notons en outre que si on s'intéresse à la part des détenus condamnés parmis les detenus d'une prison, soit $$\pi^{h}_{i}= \frac{d^{h}_{i}}{n_i}$$, deux faits statistiques emrgent rapidement.
+Notons en outre que si on s'intéresse à la part des détenus condamnés parmis les detenus d'une prison, soit $$\pi^{h}_{i}= \frac{d^{h}_{i}}{n_i}$$, deux faits statistiques émergent rapidement. 
 
 1. Premièrement, seulement 2 pénitenciers sur 38 n'acceuillent que des détenus condamnés : les deux maisons de transition de Maligne et Enghien. 
-2. Deuxièmement, au premier coup d'oeil, on remarquera trois types de pénitenciers en matière de détentions de condamnés: 
+2. Deuxièmement, on remarquera aussi trois types de pénitenciers en matière de détentions de condamnés: 
 
 - Les pénitenciers s'occupant uniquement de détenus condamnés.
 - Les pétitenciers avec plus 50 % de détenus condamnés.
@@ -178,13 +178,17 @@ Notons en outre que si on s'intéresse à la part des détenus condamnés parmis
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/distribution_jail.jpg" alt="Pourcentage de Condamnés par Prison"></div>
 
-Ici encore, on peut remarquer que la part des détenus condamnés au sein des détenus des 38 prisons est asymétrique. Comme on peut le voir sur la graphique suivant, plus de la moitié des prisons détiennent plus de 55% de détenus comdamnés entre leurs murs. 
+Ici encore, on peut remarquer que la  distribution des détenus condamnés au sein des détenus des 38 prisons est asymétrique. Comme on peut le voir sur la graphique suivant, plus de la moitié des prisons détiennent plus de 55% de détenus comdamnés entre leurs murs. 
 
-Cette asymétrie est telle qu'on remarquera en outre qu'alors qu'en moyenne le pourcentage de détenus condamnés parmis la population d'une prison est de plus ou moins 66%, 25% des prisons acceuillent en leurs murs une population essentiellement composée de détenus comdamnés, soit de plus de neuf détenus sur dix (*i.e.* le 3ème quartile : 93%). 
+Cette asymétrie est telle qu'on remarquera en outre qu'alors qu'en moyenne le pourcentage de détenus condamnés parmis la population d'une prison est de plus 66%, 25% des prisons acceuillent en leurs murs une population essentiellement composée de détenus comdamnés, soit de plus de neuf détenus sur dix (*i.e.* le 3ème quartile : 93%). 
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/distr_con.jpg" alt="Histogramme des pourcentages de Comdamnés dans la population d'une Prison"></div>
 
 ### Analyse descriptive des données relatives aux personnnels en charge des détenus
+
+Alors que la qualification de détenu dépend directement de l'action de la magistrature assise du pouvoir judiciaire, les personnels qui concourent à la concorde ou à la discorde au sein d'un établissement pénitentiaire sont l'oeuvres de nombreuses instances. 
+
+En Belgique, "l'administration pénitentiaire " a un rôle pivot dans l'organsiation des personnels en chage des détenus. 
 
 > "l'administration pénitentiaire est un service du SPF Justice depuis 1830. Elle est organisée d'une part en Direction générale des établissements pénitentiaires (DG EPI) et d'autre part en services extérieurs où figurent les 33 établissements pénitentiaires. La mission de son directeur s'inscrit dans le cadre général de l'excécution des peines, qui doit être compatible avec le respect des droits fondamentaux  des individus"<sup id="a1">[1](#f1)</sup> 
 
@@ -196,11 +200,11 @@ Au sein des établissements pénitentiaires, l'organisation du travail du person
 
 > *"La direction d'un établissement comprend le directeur, et le cas échéant, le(s) sous-directeur(s); ils sont placés sous l'autorité hierarchiques du ministre de la Justice . Les membres de la direction dirigent l'établissement conformément aux principes modernes de gestion et aux principes de droits nationaux et internationaux, tant sur le plan individuel qu'aux niveau des équipes".*<sup id="a2">[2](#f2)</sup> 
 
-En face des postes de direction, le restant du personnel de surveillance au sein d'un établissement pénitenciaire est d'au moins quatre types selon les guide du Prisonnier : assistant pénitentiaire, chef surveillant, chefs de quartier, et agents pénitentiaires.
+En face des postes de direction, le restant du personnel de surveillance au sein d'un établissement pénitenciaire est d'au moins quatre types selon le guide du Prisonnier : assistant pénitentiaire, chef surveillant, chefs de quartier, et agents pénitentiaires.
 
 > *"Chaque surveillant porte un uniforme qui diffère selon son grade."*<sup id="a3">[3](#f3)</sup> 
 
-Si on s'en tient aux notation proposées ci-dessous, $$g_{i}$$ représente alors le nombre d'individus s'indifiant à ces deux types de personnels au sein d'un des $$I$$ établissements pénitenciers.
+Si on s'en tient aux notation proposées ci-dessous, $$g_{i}$$ représente alors le nombre d'individus s'indentifiant à ces deux types du personnel au sein d'un des $$I$$ établissements pénitenciers.
 
 #### Le Comité de Concertation de base
 
@@ -208,7 +212,9 @@ Le comité de concertation de base est probablement l'organe dont on a le plus e
 
 > *"Il s'agit d'un organe de concertation de la direction de la prison et les organisation syndicales. Ce comité est notamment chargé d'organiser et d'améliorer les conditions de travail du personnel pénitentiaire. Dans ce cadre, les décision qui y sont prises peuvent  avoir des conséquences sur le régime pénitentiaire et la vie en prison puisque le lieu de travail du personnel est le même que le lieu de vie des détenus."*<sup id="a4">[4](#f4)</sup> 
 
-Dans les documents forunis par le ministère de la Justice au CCSP, les chiffres concernant  les effectifs de ces personnels sont les résultantes du protocole 464. Ils dépendent directement de cette interface entre l'organe de controle du personnel et le personnel en tant que tel.
+Dans les documents fournis par le CCSP, les chiffres concernant  les effectifs de ces personnels au sein des établissements pénitenciers sont les résultantes du protocole 464. 
+
+Les valeurs que prennent ces nombres ne dépendent plus des Juges comme dans le cas des détenus, mais directement de cette interface relativement informelle entre l'organe de controle du personnel et le personnel en tant que tel.
 
 #### le distribution du personnel au sein des établissements pénitenciaires
 
