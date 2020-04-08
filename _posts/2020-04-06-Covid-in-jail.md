@@ -178,7 +178,9 @@ Notons en outre que si on s'intéresse à la part des détenus condamnés parmis
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/distribution_jail.jpg" alt="Pourcentage de Condamnés par Prison"></div>
 
-Ici encore, on peut remarquer que la part des détenus condamnés au sein des détenus des 38 prison est asymétrique. Comme on peut le voir sur la graphique suivant, plus de la moitié des prisons détiennent plus de 55% de détenus comdamnés entre leurs murs. Notons en oute, qu'en moyenne, le pourcentage de détenus condamnés parmis la population des détenus d'une prison est de 66% alors que 25% des prisons acceuillent en leurs murs une population essentiellement composée de détenus comdamnés, soit une population plus de neuf détenus sur dix (*i.e.* le 3ème quartile : 93%). 
+Ici encore, on peut remarquer que la part des détenus condamnés au sein des détenus des 38 prisons est asymétrique. Comme on peut le voir sur la graphique suivant, plus de la moitié des prisons détiennent plus de 55% de détenus comdamnés entre leurs murs. 
+
+Cette asymétrie est telle qu'on remarquera en outre qu'alors qu'en moyenne le pourcentage de détenus condamnés parmis la population d'une prison est de plus ou moins 66%, 25% des prisons acceuillent en leurs murs une population essentiellement composée de détenus comdamnés, soit de plus de neuf détenus sur dix (*i.e.* le 3ème quartile : 93%). 
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/distr_con.jpg" alt="Histogramme des pourcentages de Comdamnés dans la population d'une Prison"></div>
 
@@ -187,6 +189,8 @@ Ici encore, on peut remarquer que la part des détenus condamnés au sein des d�
 > "l'administration pénitentiaire est un service du SPF Justice depuis 1830. Elle est organisée d'une part en Direction générale des établissements pénitentiaires (DG EPI) et d'autre part en services extérieurs où figurent les 33 établissements pénitentiaires. La mission de son directeur s'inscrit dans le cadre général de l'excécution des peines, qui doit être compatible avec le respect des droits fondamentaux  des individus"<sup id="a1">[1](#f1)</sup> 
 
 ### le personnel au sein des établissements pénitenciaires
+
+<div style="text-align: center"><img src="{{ site.baseurl }}/assets/sempe.jpg" alt="sempe"></div>
 
 Au sein des établissements pénitentiaires, l'organisation du travail offre à voir une structure très hierarchisée.
 
