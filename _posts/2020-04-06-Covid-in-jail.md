@@ -68,20 +68,22 @@ rownames(prison)
 
 ### Analyse descriptive des données relatives aux nombre de détenus en Prison
 
+En europe, le nombre de personnes détenues au sein d'un système carcérale devraient dépendre directement du travail opéré par le pouvoir judiciaire. N'est pas détenu qui veut.
+
 > "Aucune personne ne peut être administrée ou retenu dans une prison en qualité de détenu sans une ordonnance d'incarcération valable, conformément au droit interne"
 
-N'est pas détenu qui veut. Cet extrait de la Recommandation Européenne sur les Règles Pénitentiaires est clair, il faut l'aval d'une autorité publique pour être qualifié de détenu. 
+Cet extrait de la Recommandation Européenne sur les Règles Pénitentiaires est clair, il faut l'aval d'une autorité publique pour être qualifié de détenu en prison. 
 
-Or, en Belgique, comme le veut l'article  12 de la Constitution, 3ème alinéa :
+En Belgique, comme le veut l'article  12 de la Constitution, 3ème alinéa :
 
 > "Nul ne peut être arrêté qu'en vertu de l'ordonnance motivée du juge"
 
-Ainsi,  en l'espèce, comme le souligne les auteurs du Guide, *"Une décision judiciaire(ordonnance de mise en détention préventive, jugement, etc.) est toujours nécessaire"* pour être considéré comme un détenu en prison.
+Ainsi,  en l'espèce, comme le souligne les auteurs du Guide du Prisonnier, *"Une décision judiciaire(ordonnance de mise en détention préventive, jugement, etc.) est toujours nécessaire"* pour être considéré comme un détenu en prison.
 
 
 ### Les détenus au sein des prisons
 
-Le $$n_i$$ varie énorménent d'une prison à une autre. La prison qui comptabilise le moins de détenus est la maison de transition d'Enghien. Celle qui dénombre le plus grand nombre de détenus est la prison de Lantin. En moyenne, il y a 166 détenus par prison alors que la moitié des détenus sont regroupés dans des prisons avec plus de 147 détenus. 
+Le nombre de détenu dans une prison, ci-après $$n_i$$, varie énormément d'une prison à une autre. La prison qui comptabilise le moins de détenus est la maison de transition d'Enghien. Celle qui dénombre le plus grand nombre de détenus est la prison de Lantin. En moyenne, il y a 166 détenus par prison alors que la moitié des détenus sont regroupés dans des prisons avec plus de 147 détenus. 
 
 ```{r} 
 tot=as.data.frame(prison[,2]+prison[,3]+prison[,4])
@@ -93,7 +95,7 @@ p
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/histo_prison.jpg" alt="systeme"></div>
 
-Le graphique suivant nous permet d'observer la distibution des effectifs de détenus au sein des prisons. Une grande hétérogénité s'y fait voir. On constate notamment que plus de la moitié des détenus sont regroupés dans des prisons détenant un nombre de détenus inférieur au nombre moyen de détenus par prison.
+Le graphique suivant nous permet d'observer la distibution des effectifs de détenus au sein des prisons. Une grande hétérogénité apparait qui traduit probabelement une réalité immobilière concrète. Nous reviendrons sur ces interprétations plus tard. Pour l'instant, contentons nous de constate  que plus de la moitié des détenus sont regroupés dans des prisons détenant un nombre de détenus inférieur au nombre moyen de détenus par prison. La distibution des détenus au sein du système carcérale sera dite dysmétrique car une proportion majoritaire des détenus est détenus au sein des prisons ayant un nombre de détenus moyen inférieur au nombre moyen de détenus par prison.
 
 
 ```{r}
