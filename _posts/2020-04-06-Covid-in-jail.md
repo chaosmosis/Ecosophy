@@ -190,7 +190,7 @@ Cette asymétrie est telle qu'on remarquera en outre qu'alors qu'en moyenne le p
 
 ### le personnel au sein des établissements pénitenciaires
 
-<div style="text-align: center"><img src="{{ site.baseurl }}/assets/sempe.jpg" alt="sempe"></div>
+<div style="text-align: center"><img src="{{ site.baseurl }}/assets/sempe.jpg" alt="sempe" style="width:200px;" ></div>
 
 Au sein des établissements pénitentiaires, l'organisation du travail offre à voir une structure très hierarchisée.
 
