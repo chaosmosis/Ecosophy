@@ -41,9 +41,13 @@ Ayant à l'esprit les notation précédentes, au cours de cette analuse nous dé
  - $$\Pi^{h}_{i}=$$, la part des détenus de type $$ h $$ parmis les détenus détenus au sein de $$i$$
  
 
-## Analyse descriptive des données 
+## Les données
 
-### Les données
+Les données que nous allons mobilisées ici proviennent du Conseil Centrale de Surveillance des Prisons ci-après CCSP. Cet organe para-parlementaire bénéficie d'une relation directe avec les différentes autorités responsables du sort des détenus. A l'instar d'un organisme para-législatif, le CCSP a une double mission : il controle et organise la surveillance des Prisons au nom du Parlemen fédéral de Belgique. 
+
+Vous trouverez les donnée brute en cliquant sur le lien suivant.
+
+
 
 ```{r}
 
@@ -60,12 +64,24 @@ rownames(prison)
 [37] "Forest"                       "St-Gilles"                   
 ```
 
-Au sein des 38 espaces fédéraux réservés à la détention des personnes physiques, le ministère public classe les détenus, notamment, via "leurs statuts légaux".
+
+
+### Analyse descriptive des données relatives aux nombre de détenus en Prison
+
+> "Aucune personne ne peut être administrée ou retenu dans une prison en qualité de détenu sans une ordonnance d'incarcération valable, conformément au droit interne"
+
+N'est pas détenu qui veut. Cet extrait de la Recommandation Européenne sur les Règles Pénitentiaires est clair, il faut l'aval d'une autorité publique pour être qualifié de détenu. 
+
+Or, en Belgique, comme le veut l'article  12 de la Constitution, 3ème alinéa :
+
+> "Nul ne peut être arrêté qu'en vertu de l'ordonnance motivée du juge"
+
+Ainsi,  en l'espèce, comme le souligne les auteurs du Guide, *"Une décision judiciaire(ordonnance de mise en détention préventive, jugement, etc.) est toujours nécessaire"* pour être considéré comme un détenu en prison.
 
 
 ### Les détenus au sein des prisons
 
-Le $$n_i$$ varie énorménent de prison en prison. La prison qui comptabilise le moins de détenus est la maison de transition d'Enghien. Celle qui dénombre le plus grand nombre de détenus est la prison de Lantin. En moyenne, il y a 166 détenus par prison alors que la moitié des détenus sont regroupés dans des prisons avec plus de 147 détenus. 
+Le $$n_i$$ varie énorménent d'une prison à une autre. La prison qui comptabilise le moins de détenus est la maison de transition d'Enghien. Celle qui dénombre le plus grand nombre de détenus est la prison de Lantin. En moyenne, il y a 166 détenus par prison alors que la moitié des détenus sont regroupés dans des prisons avec plus de 147 détenus. 
 
 ```{r} 
 tot=as.data.frame(prison[,2]+prison[,3]+prison[,4])
@@ -100,17 +116,12 @@ axis(1)
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/boxplot.jpeg" alt="densité"></div>
 
+
+Au sein des 38 espaces fédéraux réservés à la détention des personnes physiques, le ministère public comptablise  un total de 9881 détenus enmurés. Nous reviendrons plus loins sur les personnes détenues hors les murs des établissemens pénitenciaires mais dépendant de ceux-ci.
+
 ### Descrition des types de détenus 
 
-> "Aucune personne ne peut être administrée ou retenu dans une prison en qualité de détenu sans une ordonnance d'incarcération valable, conformément au droit interne"
-
-N'est pas détenu qui veut. Cet extrait de la Recommandation Européenne sur les Règles Pénitentiaires est clair, il faut l'aval d'une autorité publique pour être qualifié de détenu. 
-
-Or, en Belgique, comme le veut l'article  12 de la Constitution, 3ème alinéa :
-
-> "Nul ne peut être arrêté qu'en vertu de l'ordonnance motivée du juge"
-
-Ainsi,  en l'espèce, comme le souligne les auteurs du Guide, *"Une décision judiciaire(ordonnance de mise en détention préventive, jugement, etc.) est toujours nécessaire"* pour être considéré comme un détenu.
+les détenus, notamment, via "leurs statuts légaux".
 
 Les tableaux statistiques distribués par le ministère public témoignent des différents statuts attribué à ces détenus. A lire ceux que nous nous sommes procurés ils traduisent un  attachement certains aux différences de statuts. 
 
@@ -166,6 +177,10 @@ Sans égard pour la question du genre, nous avons représenté les parts respect
 
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/distr_con.jpg" alt="Histogramme des pourcentages de Comdamnés dans la population d'une Prison"></div>
+
+### les personnnels en charge des détenus
+
+#### le personnel au sein des établissements pénitenciaires
 
 
 
