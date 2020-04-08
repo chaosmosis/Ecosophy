@@ -78,7 +78,7 @@ En Belgique, comme le veut l'article  12 de la Constitution, 3ème alinéa :
 
 > "Nul ne peut être arrêté qu'en vertu de l'ordonnance motivée du juge"
 
-Ainsi, comme le souligne les auteurs du Guide du Prisonnier, *"Une décision judiciaire(ordonnance de mise en détention préventive, jugement, etc.) est toujours nécessaire"* pour être considéré comme un détenu en prison.
+Ainsi, comme le souligne les auteurs du Guide du Prisonnier, *"Une décision judiciaire(ordonnance de mise en détention préventive, jugement, etc.) est toujours nécessaire"*<sup id="a0">[0](#f0)</sup>  pour être considéré comme un détenu en prison.
 
 
 ### Les détenus au sein des prisons
@@ -190,15 +190,16 @@ Ici encore, on peut remarquer que la part des détenus condamnés au sein des d�
 
 Au sein des établissements pénitentiaires, l'organisation du travail offre à voir une structure très hierarchisée.
 
-> *"La direction d'un établissement comprend le directeur, et le cas échéant, le(s) sous-directeur(s); ils sont placés sous l'autorité hierarchiques du ministre de la Justice . Les membres de la direction dirigent l'établissement conformément aux principes modernes de gestion et aux principes de droits nationaux et internationaux, tant sur le plan individuel qu'aux niveau des équipes".*<sup id="a2">[1](#f2)</sup> 
+> *"La direction d'un établissement comprend le directeur, et le cas échéant, le(s) sous-directeur(s); ils sont placés sous l'autorité hierarchiques du ministre de la Justice . Les membres de la direction dirigent l'établissement conformément aux principes modernes de gestion et aux principes de droits nationaux et internationaux, tant sur le plan individuel qu'aux niveau des équipes".*<sup id="a2">[2](#f2)</sup> 
 
 En face des postes de direction, le restant du personnel de surveillance au sein d'un établissement pénitenciaire est d'au moins quatre types selon les guide du Prisonnier : assistant pénitentiaire, chef surveillant, chefs de quartier, et agents pénitentiaires.
 
-> *"Chaque surveillant porte un uniforme qui diffère selon son grade."*<sup id="a3">[1](#f3)</sup> 
+> *"Chaque surveillant porte un uniforme qui diffère selon son grade."*<sup id="a3">[3](#f3)</sup> 
 
+<b id="f0">0</b> Le guide du Prisonnier en Belgique, sous la dir. de Marie-aude Beernaert, Philipppe Mary et Marc Nève, éditions Luc Pire, 2016, p.19[↩](#a0)
 
 <b id="f1">1</b> Le guide du Prisonnier en Belgique, sous la dir. de Marie-aude Beernaert, Philipppe Mary et Marc Nève, éditions Luc Pire, 2016, p.29[↩](#a1)
 
-<b id="f2">1</b> Le guide du Prisonnier en Belgique, sous la dir.  Marie-aude Beernaert, Philipppe Mary et Marc Nève, éditions Luc Pire, 2016, p.30[↩](#a2)
+<b id="f2">2</b> Le guide du Prisonnier en Belgique, sous la dir. de Marie-aude Beernaert, Philipppe Mary et Marc Nève, éditions Luc Pire, 2016, p.30[↩](#a2)
 
-<b id="f3">1</b> Le guide du Prisonnier en Belgique, sous la dir.  Marie-aude Beernaert, Philipppe Mary et Marc Nève, éditions Luc Pire, 2016, p.31[↩](#a3)
+<b id="f3">3</b> Le guide du Prisonnier en Belgique, sous la dir. de Marie-aude Beernaert, Philipppe Mary et Marc Nève, éditions Luc Pire, 2016, p.31[↩](#a3)
