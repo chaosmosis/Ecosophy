@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "L'absence, les surveillances électroniques, l'interruption de peine et le Virus : "
-categories: stat
+title: "Covid in jail "
+categories: prison
 author: "John Nève"
-meta: "marx"
+meta: "sante"
 ---
+
+# La situation dans les prisons belges lors d'une crise sanitaire.
 
 Une email et quelques pièces jointes. Le problème de la définition des variables. 
 
