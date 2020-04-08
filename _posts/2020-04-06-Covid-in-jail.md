@@ -36,16 +36,16 @@ Ayant à l'esprit les notation précédentes, au cours de cette analyse nous dé
  
  - $$d^{h}_{i}$$, le nombre de détenus de type $$ h $$ dépendant de $$ i $$
  - $$\pi_{i} = \frac{\sum_{H}d^{h}_{i}}{N} = \frac{n_i}{N}$$, le pourcentage des détenus détenus au sein de la prison $$i$$ 
- - $$\pi^{h}_{i}= frac{d^{h}_{i}}{n_i}$$, le pourcentage des détenus de type $$ h $$ au sein des détenus de $$i$$
- - $$\Pi^{h}_{i}= frac{d^{h}_{i}}{N}$$$$, la part des détenus de type $$ h $$ dans $$i$$
- - $$\Pi = frac{\sum_{I}d^{h}_{i}}{N}$$, le pourcentage de détenus de type $$h$$ dans le système carcérale.
+ - $$\pi^{h}_{i}= \frac{d^{h}_{i}}{n_i}$$, le pourcentage des détenus de type $$ h $$ au sein des détenus de $$i$$
+ - $$\Pi^{h}_{i}= \frac{d^{h}_{i}}{N}$$, la part des détenus de type $$ h $$ dans $$i$$
+ - $$\Pi = \frac{\sum_{I}d^{h}_{i}}{N}$$, le pourcentage de détenus de type $$h$$ dans le système carcéral.
  
 
 ## Les données
 
-Les données que nous allons mobilisées ici proviennent du Conseil Centrale de Surveillance des Prisons ci-après CCSP. Cet organe para-parlementaire bénéficie d'une relation directe avec les différentes autorités responsables du sort des détenus. A l'instar d'un organisme para-législatif, le CCSP a une double mission : il controle et organise la surveillance des Prisons au nom du Parlemen fédéral de Belgique. 
+Les données que nous allons mobilisées ici proviennent du Conseil Centrale de Surveillance des Prisons ci-après CCSP. Cet organe para-parlementaire bénéficie d'une relation directe avec les différentes autorités responsables du sort des détenus. A l'instar d'un organisme para-législatif, le CCSP a une double mission : il est censé contrôler et organiser la surveillance des Prisons au nom du Parlement fédéral de Belgique. 
 
-Vous trouverez les donnée brute en cliquant sur le lien suivant.
+Vous trouverez les données brutes en cliquant sur le lien suivant.
 
 
 
@@ -95,7 +95,11 @@ p
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/histo_prison.jpg" alt="systeme"></div>
 
-Le graphique suivant nous permet d'observer la distibution des effectifs de détenus au sein des prisons. Une grande hétérogénité apparait qui traduit probabelement une réalité immobilière concrète. Nous reviendrons sur ces interprétations plus tard. Pour l'instant, contentons nous de constate  que plus de la moitié des détenus sont regroupés dans des prisons détenant un nombre de détenus inférieur au nombre moyen de détenus par prison. La distibution des détenus au sein du système carcérale sera dite dysmétrique car une proportion majoritaire des détenus est détenus au sein des prisons ayant un nombre de détenus moyen inférieur au nombre moyen de détenus par prison.
+Le graphique suivant nous permet d'observer la distribution des effectifs de détenus au sein des prisons. Une grande hétérogénité apparait. Celle-ci traduit probablement une réalité immobilière concrète mais nous reviendrons sur ces interprétations plus tard. 
+
+Pour l'instant, contentons-nous de constater que plus de la moitié des détenus sont regroupés dans des prisons détenant un nombre de détenus inférieur au nombre moyen de détenus par prison. Dans pareils cas, on dit que la distibution des effectifs assymétrique. 
+
+En effet, dans le cas présent, la distribution des détenus au sein du système carcéral sera dite dysmétrique au sens où la majorité des détenus sont détenus au sein de prisons ayant des effectfis de détenus inférieurs au nombre moyen de détenus par prison.
 
 
 ```{r}
@@ -118,12 +122,11 @@ axis(1)
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/boxplot.jpeg" alt="densité"></div>
 
+Au sein des 38 espaces fédéraux réservés à la détention des personnes physiques, le SPF justice comptablise auourd'hui un total de 9881 détenus enmurés.
 
-Au sein des 38 espaces fédéraux réservés à la détention des personnes physiques, le ministère public comptablise  un total de 9881 détenus enmurés. Nous reviendrons plus loins sur les personnes détenues hors les murs des établissemens pénitenciaires mais dépendant de ceux-ci.
+Nous reviendrons plus loins sur les personnes détenues hors-les-murs des établissemens pénitenciaires mais dépendant de ceux-ci.
 
-### Descrition des types de détenus 
-
-les détenus, notamment, via "leurs statuts légaux".
+### Descrition des types de détenus au sein des pénitenciers
 
 Les tableaux statistiques distribués par le ministère public témoignent des différents statuts attribué à ces détenus. A lire ceux que nous nous sommes procurés ils traduisent un  attachement certains aux différences de statuts. 
 
