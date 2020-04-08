@@ -182,11 +182,11 @@ Ici encore, on peut remarquer que la part des détenus condamnés au sein des d�
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/distr_con.jpg" alt="Histogramme des pourcentages de Comdamnés dans la population d'une Prison"></div>
 
-### les personnnels en charge des détenus
+### Analyse descriptive des données relatives aux personnnels en charge des détenus
 
 > "l'administration pénitentiaire est un service du SPF Justice depuis 1830. Elle est organisée d'une part en Direction générale des établissements pénitentiaires (DG EPI) et d'autre part en services extérieurs où figurent les 33 établissements pénitentiaires. La mission de son directeur s'inscrit dans le cadre général de l'excécution des peines, qui doit être compatible avec le respect des droits fondamentaux  des individus"<sup id="a1">[1](#f1)</sup> 
 
-#### le personnel au sein des établissements pénitenciaires
+### le personnel au sein des établissements pénitenciaires
 
 Au sein des établissements pénitentiaires, l'organisation du travail offre à voir une structure très hierarchisée.
 
