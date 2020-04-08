@@ -36,11 +36,11 @@ Notons notamment que la moyenne de détenu dans une des $$I$$ prisons peut être
  
 Ayant à l'esprit les notation précédentes, au cours de cette analyse nous désignerons par 
  
- - $$d^{h}_{i}$$, le nombre de détenus de type $$ h $$ dépendant de $$ i $$
- - $$\pi_{i} = \frac{\sum_{H}d^{h}_{i}}{N} = \frac{n_i}{N}$$, le pourcentage des détenus détenus au sein de la prison $$i$$ 
- - $$\pi^{h}_{i}= \frac{d^{h}_{i}}{n_i}$$, le pourcentage des détenus de type $$ h $$ au sein des détenus de $$i$$
- - $$\Pi^{h}_{i}= \frac{d^{h}_{i}}{N}$$, la part des détenus de type $$ h $$ dans $$i$$
- - $$\Pi^{h} = \frac{\sum_{I}d^{h}_{i}}{N}$$, le pourcentage de détenus de type $$h$$ dans le système carcéral.
+ - $$n^{h}_{i}$$, le nombre de détenus de type $$ h $$ dépendant de $$ i $$
+ - $$\pi_{i} = \frac{\sum_{H}n^{h}_{i}}{N} = \frac{n_i}{N}$$, le pourcentage des détenus détenus au sein de la prison $$i$$ 
+ - $$\pi^{h}_{i}= \frac{n^{h}_{i}}{n_i}$$, le pourcentage des détenus de type $$ h $$ au sein des détenus de $$i$$
+ - $$\Pi^{h}_{i}= \frac{n^{h}_{i}}{N}$$, la part des détenus de type $$ h $$ dans $$i$$
+ - $$\Pi^{h} = \frac{\sum_{I}n^{h}_{i}}{N}$$, le pourcentage de détenus de type $$h$$ dans le système carcéral.
  
 
 ## Les données
@@ -80,7 +80,7 @@ En Belgique, comme le veut l'article  12 de la Constitution, 3ème alinéa :
 
 > "Nul ne peut être arrêté qu'en vertu de l'ordonnance motivée du juge"
 
-Ainsi, comme le souligne les auteurs du Guide du Prisonnier, *"Une décision judiciaire(ordonnance de mise en détention préventive, jugement, etc.) est toujours nécessaire"*<sup id="a0">[0](#f0)</sup>  pour être considéré comme un détenu en prison.
+Ainsi, comme on peut le lire dans le Guide du Prisonnier en Belgique, *"Une décision judiciaire(ordonnance de mise en détention préventive, jugement, etc.) est toujours nécessaire"*<sup id="a0">[0](#f0)</sup> pour être considéré comme un détenu en prison.
 
 
 ### Les détenus au sein des prisons
@@ -97,9 +97,9 @@ p
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/histo_prison.jpg" alt="systeme"></div>
 
-Le graphique suivant nous permet d'observer la distribution des effectifs de détenus au sein des prisons. Une grande hétérogénité apparait. Celle-ci traduit probablement une réalité immobilière concrète mais nous reviendrons sur ces interprétations plus tard. 
+Le graphique suivant nous permet d'observer la distribution des effectifs de détenus au sein des prisons. Une grande hétérogénité y apparait. Celle-ci traduit probablement une réalité immobilière concrète mais nous reviendrons sur cette interprétation plus tard. 
 
-Pour l'instant, contentons-nous de constater que plus de la moitié des détenus sont regroupés dans des prisons détenant un nombre de détenus inférieur au nombre moyen de détenus par prison. Dans pareils cas, on dit que la distibution des effectifs est assymétrique. Dans le cas présent traduit ce phénomène puisque la distribution des détenus au sein du système carcéral est asymétrique au sens où la majorité des détenus sont détenus au sein de prisons ayant des effectifs de détenus inférieurs au nombre moyen de détenus par prison.
+Pour l'instant, contentons-nous de constater que plus de la moitié des détenus sontregroupés dans des prisons détenant un nombre de détenus inférieur au nombre moyen de détenus par prison. Dans de pareilles situation, on dit que la distibution des effectifs est d'une variable est asymétrie. Le cas présent traduit ce phénomène puisque la distribution des détenus au sein du système carcéral est telle que la majorité des détenus sont détenus au sein de prisons ayant des effectifs de détenus inférieurs au nombre moyen de détenus par prison. Autrement dit, la majorité des détenus sont dans prisons où $$n__i$$ est supérieur à $$\overline{N}$$, soit supérieur au nombre moyens de détenus par prison.
 
 
 ```{r}
