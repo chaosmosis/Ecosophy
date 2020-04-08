@@ -219,7 +219,14 @@ Les valeurs que prennent ces nombres ne dépendent plus des Juges comme dans le 
 
 #### le distribution du personnel au sein des établissements pénitenciaires
 
+Comme on pouvait s'en douter, les statistiques représentés dans le graphique ci-dessous témoignent d'une distribution des effectifs par prison asymétrique. 
+
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/perso.jpg" alt="Distribution négociée des effectifs"></div>
+
+Le graphique précédent se base sur les effectifs négociés dans le cadre du comité de concertation de base. Dans la réalité, les directeurs de établissements pénitentiaire et ceux et celles qui les assistent organisent le travail attenant aux détenu avec une main-d'oeuvre réduite.
+
+D'après les statistiques distribués par l'administration de ces établissements pénitenciers, seuls trois prisons avaient, au début du mois d'avril 2020, des effectifs opérationnels légérement supérieurs aux effectifs négociés avec les syndicats.
+
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/persop.jpg" alt="Distribution opérationnelle des effectifs"></div>
 
