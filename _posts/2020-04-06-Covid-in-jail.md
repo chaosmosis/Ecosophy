@@ -128,23 +128,24 @@ Nous reviendrons plus loins sur les personnes détenues hors-les-murs des établ
 
 ### Descrition des types de détenus au sein des pénitenciers
 
-Les tableaux statistiques distribués par le ministère public témoignent des différents statuts attribué à ces détenus. A lire ceux que nous nous sommes procurés ils traduisent un  attachement certains aux différences de statuts. 
+Les tableaux statistiques distribués par le ministère public témoignent des différents statuts attribués à ces détenus. Quoique sommaire, ces documents traduisent sans conteste unn  attachement certains aux différences de statuts de la part des directeurs de prisons mais aussi une partie de la réalité des détenus.
 
-Au regard de ces seuls classements, il semble exister dans le chefs des autorités responsables des statsitques relatives aux détenus qu'il existe au moins huit types de détenus différents possibles. En effet, via ces documents on comprend que 
+Au regard de ces seuls classements, il semble exister dans le chefs des autorités responsables des statsitques relatives aux détenus au moins huit types de détenus possibles. En effet, via ces documents on comprend que 
 
-1. Le détenu est soit de genre Masculin ou de genre Féminin. 
-2. Le détenu est ou prévenu ou condamné. 
-3. et enfin, le détenu est interné ou non. `
+1. Alors qu'il sera ou détenu ou prévenu ou condamné ou encore mis à disposition du tribunal de l'application des peines.
+2. Le détenu sera soit de genre Masculin, soit de genre Féminin. 
 
-Ainsi, selon la typologie du ministère public il existe bien huit manières différentes d'appréhender les détenus.
+Ainsi, selon la typologie dont use l'administration pénitentiaire en général,  il existe bien potentiellement huit manières différentes d'appréhender les détenus au sein d'une prison.
 
-Sans égard pour la question du genre, nous avons représenté les parts respectives des différents types de détenus au sein des prisons. Comme on peut l'observer, la grande majorité des détenus sont soit prévénus, soit condamnés. 
+Sans égard pour l'instant relativement à la question du genre, nous avons représenté dans le graphique suivant les parts respectives des différents types de détenus au sein des prisons qui relèvent du champs de compétence du ministre de la Justice, $$\Pi^{h} = \frac{\sum_{I}n^{h}_{i}}{N}$$. 
+
+Comme on peut l'observer, au sein de ces prisons, au cours du mois d'avril 2020, la grande majorité des détenus sont soit prévénus, soit condamnés. 
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/repart.jpg" alt="statuts"></div>
 
 #### les internés
 
-- Si on s'attelle uniquement à l'étude des déténus dit "internés", on remarque qu'il sont placés dans dix établissements   différents et selon une distibution beaucoup moins uniforme que la distribution que nous avons pu observer pour les détenus en général. Paifve semble détenir uniquement des détenus internés alors que ces derniers représentent 25 % des effectfis des detenus au sein de la prison historique de Merklpass.
+- Si on s'attelle uniquement à une sommaire description des nombres décrivant les déténus dit "internés", on remarque que ces détenus sont placés dans dix établissements différents et selon une distibution beaucoup moins uniforme que la distribution que nous avons pu observer pour l'ensemble des détenus. Comme on peut s'y attendre, Paifve semble détenir uniquement des détenus internés. On remarque aussi  que les "internés sont présents à la fois dans des prison du "nord" et du "sud" mais pas à "bruxelles". Selon ce même classement statistique des interns au sein des établissements pénitenciers, notons aussi la part importante de ceux-ci, 25 % des effectfis des detenus, au sein de la prison historique de Merklpass.
 
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/Intbarplot.jpeg" alt="barplot"></div>
@@ -205,7 +206,13 @@ En face des postes de direction, le restant du personnel de surveillance au sein
 
 > *"Chaque surveillant porte un uniforme qui diffère selon son grade."*<sup id="a3">[3](#f3)</sup> 
 
-Si on s'en tient aux notations proposées ci-dessus, $$g_{i}$$ représente maintenant le nombre d'individus s'indentifiant à ces deux types de personnel au sein d'un des $$I$$ établissements pénitenciers.
+Si on s'en tient aux notations proposées ci-dessus, $$g_{i}$$ pourrait représenter maintenant le nombre d'individus s'indentifiant à ces deux types de personnel au sein d'un des $$I$$ établissements pénitenciers et nous pourrions définir dans la foulée le nombre moyen de peronnes salariée dépendant directement du minitre de la Justice via la Direction Générale de l'Administration Pénitenciaire comme :
+
+ 
+ <div style="text-align: center">
+ $$ \overline{G} = \frac{ \sum_{I} g_{i} }{ G }$$ 
+ </div>
+ 
 
 #### Le Comité de Concertation de base
 
