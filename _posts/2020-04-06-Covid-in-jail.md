@@ -78,7 +78,7 @@ En Belgique, comme le veut l'article  12 de la Constitution, 3ème alinéa :
 
 > "Nul ne peut être arrêté qu'en vertu de l'ordonnance motivée du juge"
 
-Ainsi,  en l'espèce, comme le souligne les auteurs du Guide du Prisonnier, *"Une décision judiciaire(ordonnance de mise en détention préventive, jugement, etc.) est toujours nécessaire"* pour être considéré comme un détenu en prison.
+Ainsi, comme le souligne les auteurs du Guide du Prisonnier, *"Une décision judiciaire(ordonnance de mise en détention préventive, jugement, etc.) est toujours nécessaire"* pour être considéré comme un détenu en prison.
 
 
 ### Les détenus au sein des prisons
@@ -97,9 +97,7 @@ p
 
 Le graphique suivant nous permet d'observer la distribution des effectifs de détenus au sein des prisons. Une grande hétérogénité apparait. Celle-ci traduit probablement une réalité immobilière concrète mais nous reviendrons sur ces interprétations plus tard. 
 
-Pour l'instant, contentons-nous de constater que plus de la moitié des détenus sont regroupés dans des prisons détenant un nombre de détenus inférieur au nombre moyen de détenus par prison. Dans pareils cas, on dit que la distibution des effectifs assymétrique. 
-
-En effet, dans le cas présent, la distribution des détenus au sein du système carcéral est asymétrique au sens où la majorité des détenus sont détenus au sein de prisons ayant des effectfis de détenus inférieurs au nombre moyen de détenus par prison.
+Pour l'instant, contentons-nous de constater que plus de la moitié des détenus sont regroupés dans des prisons détenant un nombre de détenus inférieur au nombre moyen de détenus par prison. Dans pareils cas, on dit que la distibution des effectifs est assymétrique. Dans le cas présent traduit ce phénomène puisque la distribution des détenus au sein du système carcéral est asymétrique au sens où la majorité des détenus sont détenus au sein de prisons ayant des effectifs de détenus inférieurs au nombre moyen de détenus par prison.
 
 
 ```{r}
@@ -164,7 +162,7 @@ Sans égard pour la question du genre, nous avons représenté les parts respect
 
 #### les condamnés
 
-Remarquons derechef que les détenus dit condamnés sont présents dans toutes les prisons sauf à Paifve. Ainsi, si on s'attelle uniquement à l'étude de ceux-ci, comparativement aux autres statuts de détenus, la distribution des condamnés au sein des prisons admet une distribution plus uniforme au sein du système carcéral que les autres distributions analysées jusqu'ici. 
+Remarquons derechef que les détenus dit condamnés sont présents dans toutes les prisons sauf à Paifve. Ainsi, si on s'attelle uniquement à l'étude de ceux-ci, comparativement aux autres statuts de détenus, $$\Pi^{h}_{i}= \frac{d^{h}_{i}}{N}$$, la distribution des condamnés au sein des prisons admet une distribution plus uniforme au sein du système carcéral que les autres distributions analysées jusqu'ici. 
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/comdamne_distribution.jpg" alt="distribution des condamnés"></div>
 
