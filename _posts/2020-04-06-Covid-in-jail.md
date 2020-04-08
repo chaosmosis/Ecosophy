@@ -99,7 +99,7 @@ Le graphique suivant nous permet d'observer la distribution des effectifs de dé
 
 Pour l'instant, contentons-nous de constater que plus de la moitié des détenus sont regroupés dans des prisons détenant un nombre de détenus inférieur au nombre moyen de détenus par prison. Dans pareils cas, on dit que la distibution des effectifs assymétrique. 
 
-En effet, dans le cas présent, la distribution des détenus au sein du système carcéral sera dite dysmétrique au sens où la majorité des détenus sont détenus au sein de prisons ayant des effectfis de détenus inférieurs au nombre moyen de détenus par prison.
+En effet, dans le cas présent, la distribution des détenus au sein du système carcéral est asymétrique au sens où la majorité des détenus sont détenus au sein de prisons ayant des effectfis de détenus inférieurs au nombre moyen de détenus par prison.
 
 
 ```{r}
@@ -164,22 +164,23 @@ Sans égard pour la question du genre, nous avons représenté les parts respect
 
 #### les comdamnés
 
-
-- Remarquons derechef que les détenus dit comdamnés sont présents dans toutes les prisons sauf à Paifve. Ainsi, si on s'attelle uniquement à l'étude de ceux-ci, comparativement aux autres statuts de détenus, la distribution des comdamné au sein des prisons admet une distribution plus uniforme au sein du système carcéral. 
+Remarquons derechef que les détenus dit comdamnés sont présents dans toutes les prisons sauf à Paifve. Ainsi, si on s'attelle uniquement à l'étude de ceux-ci, comparativement aux autres statuts de détenus, la distribution des comdamné au sein des prisons admet une distribution plus uniforme au sein du système carcéral. 
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/comdamne_distribution.jpg" alt="distribution des comdamnés"></div>
 
-- Notons en outre que si on s'intéresse au nombre de detenus vis-àvis des autres par prison, dexu remarques sont à faire dans un premier temps.  Premièrement, il existe deux pénitenciers seulement qui n'acceuillent que des détenus comdamnés : les deux maisons de transition de Maligne et Enghien. Deuxièmement, au premier coup d'oeil, on remarquera trois types de pénitenciers en matière de détentions de comdamnés: 
+Notons en outre que si on s'intéresse la part des détenus condamné par les detenus d'une prison, soit $$\pi^{h}_{i}= \frac{d^{h}_{i}}{n_i}$$, deux remarques sont à faire dans un premier temps.
 
-1. Les pénitenciers s'occupant uniquement des comdamnés.
-2. Les pétitenciers avec plus 50 % des détenus comdamnés.
-3. Les pénitenciers avec moins de 25 % de détenus comdamnés.
+1. Premièrement, il existe deux pénitenciers seulement qui n'acceuillent que des détenus comdamnés : les deux maisons de transition de Maligne et Enghien. 
+2. Deuxièmement, au premier coup d'oeil, on remarquera trois types de pénitenciers en matière de détentions de comdamnés: 
+
+- Les pénitenciers s'occupant uniquement de détenus comdamnés.
+- Les pétitenciers avec plus 50 % de détenus comdamnés.
+- Les pénitenciers avec moins de 25 % de détenus comdamnés.
 
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/distribution_jail.jpg" alt="Pourcentage de Comdamnés par Prison"></div>
 
-- Si on s'attarde un moment sur les différents moments statistiques de la variable précédente, à savoir le poucentage de détenus de type comdamné pour chaque prison, un fait marquant est à souligner comparativement à la situation des détenus internés. En effet, comme on peut le voir sur la graphique suivant, plus de la moitié des prisons détiennent plus de 55% de détenus comdamnés entre leurs murs. Notons en oute, qu'en moyenne, la taux de détenus comdamnés parmis la population des détenus d'une prison est de 66% alors que 25% des prisons acceuillent en leurs murs une population essentiellement composée de détenus comdamnés, soit plus de neuf détenus sur dix (*i.e.* le 3ème quartile : 93%).
-
+Ici encore, on peut remarquer que la part des détenus codamnés au sein des détenus des 38 prison est asymétrique. Comme on peut le voir sur la graphique suivant, plus de la moitié des prisons détiennent plus de 55% de détenus comdamnés entre leurs murs. Notons en oute, qu'en moyenne, la taux de détenus comdamnés parmis la population des détenus d'une prison est de 66% alors que 25% des prisons acceuillent en leurs murs une population essentiellement composée de détenus comdamnés, soit plus de neuf détenus sur dix (*i.e.* le 3ème quartile : 93%). 
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/distr_con.jpg" alt="Histogramme des pourcentages de Comdamnés dans la population d'une Prison"></div>
 
