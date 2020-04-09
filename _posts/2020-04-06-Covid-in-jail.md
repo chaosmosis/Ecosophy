@@ -12,8 +12,6 @@ Une email et quelques pièces jointes. Le problème de la définition des variab
 
 ## Notations pour les Prisons
 
-![s](essai.mp3)
-
 Supposons qu'il existe un nombre déterminé de prisons (e.g $$ I \in \mathbf{R} $$) sur un terrtoire. Désignons par $i$ l'une des $I$ prisons de ce territoire et par $$ n_i $$, le nombre de détenus au sein de la prison $$i$$.
 
 <audio src="{{ site.baseurl }}/assets/essai.mp3" controls loop> Unable to load song. </audio>
