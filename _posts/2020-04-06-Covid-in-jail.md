@@ -99,8 +99,7 @@ p
 
 Le graphique suivant nous permet d'observer la distribution des effectifs de détenus au sein des prisons. Une grande hétérogénité y apparait. Celle-ci traduit probablement une réalité immobilière concrète mais nous reviendrons sur cette interprétation plus tard. 
 
-Pour l'instant, contentons-nous de constater que plus de la moitié des détenus sontregroupés dans des prisons détenant un nombre de détenus inférieur au nombre moyen de détenus par prison. Dans de pareilles situation, on dit que la distibution des effectifs est d'une variable est asymétrie. Le cas présent traduit ce phénomène puisque la distribution des détenus au sein du système carcéral est telle que la majorité des détenus sont détenus au sein de prisons ayant des effectifs de détenus inférieurs au nombre moyen de détenus par prison. Autrement dit, la majorité des détenus sont dans prisons où $$n__i$$ est supérieur à $$\overline{N}$$, soit supérieur au nombre moyens de détenus par prison.
-
+Pour l'instant, contentons-nous de constater que plus de la moitié des détenus sontregroupés dans des prisons détenant un nombre de détenus inférieur au nombre moyen de détenus par prison. Dans de pareilles situation, on dit que la distibution des effectifs est d'une variable est asymétrie. Le cas présent traduit ce phénomène puisque la distribution des détenus au sein du système carcéral est telle que la majorité des détenus sont détenus au sein de prisons ayant des effectifs de détenus inférieurs au nombre moyen de détenus par prison. Autrement dit, $$n_i$$ est inférieur à $$\overline{N}$$.
 
 ```{r}
 
