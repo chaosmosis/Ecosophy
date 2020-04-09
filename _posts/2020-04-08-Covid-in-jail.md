@@ -20,6 +20,8 @@ Ecolo s'est notamment démarqué par une double une porposition ciblée pour les
 
 <div style="text-align: center"><audio src="{{ site.baseurl }}/assets/ecolofr.mp4" controls loop> ecolofr </audio></div>
 
+
+
 ## Notations pour les Prisons
 
 Supposons qu'il existe un nombre déterminé de prisons (e.g $$ I \in \mathbf{R} $$) sur un terrtoire. Désignons par $i$ l'une des $I$ prisons de ce territoire et par $$ n_i $$, le nombre de détenus au sein de la prison $$i$$.
@@ -258,3 +260,8 @@ Ainsi, d'après ces statistiques, seuls sept prisons avaient, au début du mois 
 <b id="f3">3</b> Le guide du Prisonnier en Belgique, sous la dir. de Marie-aude Beernaert, Philipppe Mary et Marc Nève, éditions Luc Pire, 2016, p.31[↩](#a3)
 
 <b id="f4">4</b> Le guide du Prisonnier en Belgique, sous la dir. de Marie-aude Beernaert, Philipppe Mary et Marc Nève, éditions Luc Pire, 2016, p.33[↩](#a4)
+
+
+<b id="f4">5</b> Ficher, I., Guillain, C., « Du difficile équilibre entre le respect des droits fondamentaux des détenus et le droit à l’action collective des agents pénitentiaires » in Droit de grève : actualités et questions choisies, Bruxelles, Éditions Larcier, 2015, p. 87-124[↩](#a5)
+
+
