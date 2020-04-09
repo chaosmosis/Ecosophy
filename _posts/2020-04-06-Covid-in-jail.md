@@ -10,22 +10,13 @@ meta: "sante"
 
 Une email et quelques pièces jointes. Le problème de la définition des variables. 
 
-
-<audio src="{{ site.baseurl }}/assets/essai.m4a" alt="densité"></audio>
-
-
 ## Notations pour les Prisons
 
-![s](essai.m4a)
+![s](essai.mp3)
 
 Supposons qu'il existe un nombre déterminé de prisons (e.g $$ I \in \mathbf{R} $$) sur un terrtoire. Désignons par $i$ l'une des $I$ prisons de ce territoire et par $$ n_i $$, le nombre de détenus au sein de la prison $$i$$.
 
-<audio controls="controls">
-  <source type="audio/mp3" src="essai.m4a"></source>
-  <p>Your browser does not support the audio element.</p>
-</audio>
-
-<audio src="/assets/essai.m4a" controls loop> Unable to load song. </audio>
+<audio src="/assets/essai.mp3" controls loop> Unable to load song. </audio>
 
 Supposons que chaque prison $$i$$ a une "capacité théorique", ci-après dénotée $$ \xi_i $$. Nommons le nombre total de détenus au sein du système carcéral belge par $$ N $$ et la capacité totale de détention du système carcérale par $$ \Xi $$. 
 
