@@ -230,9 +230,10 @@ Comme on pouvait s'en douter, les statistiques représentés dans le graphique c
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/perso.jpg" alt="Distribution négociée des effectifs"></div>
 
-Le graphique précédent se base sur les effectifs négociés dans le cadre du comité de concertation de base. Dans la réalité, les directeurs de établissements pénitenciers et ceux et celles qui les assistent organisent le travail attenant aux détenus en comptant avec une main-d'oeuvre réduite. Appellons cette main d'oeuvre réduite, les effectifs opérationnels.
+Le graphique précédent se base sur les effectifs négociés dans le cadre du comité de concertation de base. Dans réalité, les directeurs de établissements pénitenciers et ceux et celles qui les assistent organisent le travail attenant aux détenus en comptant avec une main-d'oeuvre réduite. Il semblerait que cette main d'oeuvre réduite, soient dénomées, dans les classements du ministère de la Justice, comme des  "effectifs opérationnels".
 
-D'après les statistiques distribués par l'administration de ces établissements pénitenciers, seuls trois prisons avaient, au début du mois d'avril 2020, des effectifs opérationnels légérement supérieurs aux effectifs négociés avec les syndicats.
+Ainsi, d'après ces statistiques, seuls sept prisons avaient, au début du mois d'avril 2020, des effectifs opérationnels légérement supérieurs aux effectifs négociés avec les syndicats. Avant d'aborder plus en détails les établissements pénitenciers avec un effectif opérationnel bien inférieur à l'effectif théorique, notons que la seule Prison de Berkendael satisfaisait, le 9 mars 2020,  aux effectfis résulants d'un Protocole 464.
+
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/diff.jpg" alt="Différences"></div>
 
