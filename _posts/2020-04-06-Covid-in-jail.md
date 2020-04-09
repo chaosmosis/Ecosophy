@@ -145,16 +145,16 @@ Comme on peut l'observer, au sein de ces prisons, au cours du mois d'avril 2020,
 
 #### les internés
 
-- Si on s'attelle uniquement à une sommaire description des nombres décrivant les déténus dit "internés", on remarque que ces détenus sont placés dans dix établissements différents et selon une distibution beaucoup moins uniforme que la distribution que nous avons pu observer pour l'ensemble des détenus. Comme on peut s'y attendre, Paifve semble détenir uniquement des détenus internés. On remarque aussi  que les "internés sont présents à la fois dans des prison du "nord" et du "sud" mais pas à "bruxelles". Selon ce même classement statistique des interns au sein des établissements pénitenciers, notons aussi la part importante de ceux-ci, 25 % des effectfis des detenus, au sein de la prison historique de Merklpass.
+Si on s'attelle uniquement à une sommaire description des nombres décrivant les déténus dit "internés", on remarque que ces détenus sont placés dans dix établissements différents et selon une distibution beaucoup moins uniforme que la distribution que nous avons pu observer pour l'ensemble des détenus. 
+
+Au vu de son statut particulier, comme on peut s'y attendre, Paifve détenait, au mois d'avril 2020, uniquement des détenus internés. Selon ce même classement, remarquons aussi la part importante des internés, $$\pi^{h}_{i}= \frac{n^{h}_{i}}{n_i}= 0,25$$, au sein de la prison de Merklpass. 
 
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/Intbarplot.jpeg" alt="barplot"></div>
 
-- Notons qu'un *test de student* sur les moyennes des pénitenciers au Nord et au sud de Bruxelles ne révèle aucune différences significatives. Autrement dit, après une brève analyse statistique, on ne peut pas affirmer, par exemple, que les internés sont, en moyenne, dans le sud du Royaume, plus regroupés ensemble que dans le reste du royaume de Belgique.
-
 #### les prévenus 
 
-- Si on s'attelle uniquement à l'étude des déténus dit "Prévenus", on remarque qu'il sont présents dans la quasi totalités des pénitenciers. Cependant, la distribution des prévenus au sein des prisons n'en est pas pour autant plus uniforme au sein du système carcéral. On remarque en particulier que la majorité des des prévenus sont détenus à Lantin, Saint-Gilles ou Merklpass. 
+Si on s'attelle  maintenant à décrire quelques statistiques description, on remarquera que les déténus dit "Prévenus" sont présents dans la quasi totalités des pénitenciers. Cependant, la distribution des prévenus au sein des prisons n'en est pas pour autant uniforme au sein du système carcéral. On remarque en particulier que la plupart des prévenus sont détenus à Lantin, Saint-Gilles, Bruges ou Merklpass. 
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/prevenus_distribution.jpg" alt="distribution des prevenus"></div>
 
