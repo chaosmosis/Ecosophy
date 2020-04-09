@@ -10,6 +10,8 @@ meta: "sante"
 
 Une email et quelques pièces jointes. Le problème de la définition des variables. 
 
+{% include open-embed.html %}
+
 ## Notations pour les Prisons
 
 Supposons qu'il existe un nombre déterminé de prisons (e.g $$ I \in \mathbf{R} $$) sur un terrtoire. Désignons par $i$ l'une des $I$ prisons de ce territoire et par $$ n_i $$, le nombre de détenus au sein de la prison $$i$$.
