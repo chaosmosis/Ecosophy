@@ -16,7 +16,16 @@ Une email et quelques pièces jointes. Le problème de la définition des variab
 
 ## Notations pour les Prisons
 
+![](essai.m4a)
+
 Supposons qu'il existe un nombre déterminé de prisons (e.g $$ I \in \mathbf{R} $$) sur un terrtoire. Désignons par $i$ l'une des $I$ prisons de ce territoire et par $$ n_i $$, le nombre de détenus au sein de la prison $$i$$.
+
+<audio controls="controls">
+  <source type="audio/mp3" src="filename.mp3"></source>
+  <source type="audio/ogg" src="filename.ogg"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
 
 Supposons que chaque prison $$i$$ a une "capacité théorique", ci-après dénotée $$ \xi_i $$. Nommons le nombre total de détenus au sein du système carcéral belge par $$ N $$ et la capacité totale de détention du système carcérale par $$ \Xi $$. 
 
