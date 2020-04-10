@@ -10,15 +10,21 @@ meta: "sante"
 
 ## Les données
 
-Les données sur les prisons sont rares à l'heure actuelle. Au vu du régime en place dans les prisons, les associations informelles et non -gouvernementales redeviennent les seuls sources d'informations de premières mains<sup id="a6">[6](#f6)</sup> pour dans la diffusion des informations relatives aux lieux de détentions et aux détenu.e.s au sein de ceux-là autres que celles de l'administration pénitentiaire.
 
-Il faut reconnaitre que le parlement n'est pas avare en matière de détails relativement aux prisons. Il semble d'ailleurs clairement que le travail des uns et des unes au quotidien ne soit, la aussi, que le reflet  du travail des autres. 
 
-Les données que nous allons mobiliser ici proviennent du Conseil Centrale de Surveillance des Prisons, ci-après CCSP. Le CCSP nous a informé qu'il possédait un ensemble de données qu'il serait intéressant d'étudier de plus près. Nous proposons dans les  lignes qui suivent de faire parler ces données, tant que faire se peu. 
+L'enjeu de ce petit texte est simplement de faire le point sur la situation en prison à l'heure du Corona Virus en moblisant le plus de données possibles à propos des prisons belges. 
 
-Pour ce faire je vous propose de procéder en trois temps. Dans un premier temps, il s'agira pour moi de s'entendre sur quelques défintions qui pourront nous servir dans un deuxième temps  et troisième temps de jauger de la "concentration" au sein des prisons sous la main mise du ministre de la Justice d'un part mais aussi d'autre part de la distrubution des personnels au sein du système carcérale à l'heure de la propagation du coronavirus en son sein. 
+Les données sur les prisons sont rares à l'heure actuelle. Au vu du régime en place dans les prisons, les associations informelles et non -gouvernementales redeviennent les seuls sources d'informations de premières mains - et différentes de celles provenant de l'administration pénitenciaire- relatives aux lieux de détentions et aux détenu.e.s au sein de ceux-là.<sup id="a6">[6](#f6)</sup>
 
-Enfin, dans un quatrième temps, il s'agira d'aborder la question de la capicité je terminerai par revenir sur 
+
+Afin de rendre l'objetif de ce texte atteignable, je vous propose de procéder par étapes. 
+
+Dans un premier temps, il s'agira de s'entendre sur quelques défintions. Celle-ci nous permettront, - dans un deuxième, troisième et quatrième temps - de jauger de la "concentration"  des "détenus" au sein des prisons sous la main mise du ministre de la Justice d'une part mais aussi d'autre part, d'évaluer la la distribution des personnels au sein du système carcérale.
+
+Dans un quatrième temps, nous userons des mêmes  notationsafin de de qualifier le probème  de "la capacité de production"  de chacune des prisons. Pour ce faire, nous prendrons la Prison de leuze à titre d'exemple. 
+ 
+En guise de conclusion, nous terminerons par interroger,  à l'aune des données que nous avons réussi à récolter et présenté aux temps précédens, "le plan judiciaire" à l'heure du corona virus" du Ministre de la Justice, Koen Geens.
+
 
 
 
