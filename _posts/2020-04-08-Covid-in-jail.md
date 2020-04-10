@@ -36,9 +36,9 @@ Ayant à l'esprit les notation précédentes, au cours de cette analyse nous dé
  
  - $$n^{h}_{i}$$, le nombre de détenus de type $$ h $$ détenu dans $$ i $$
  - $$\pi_{i} = \frac{\sum_{H}n^{h}_{i}}{N} = \frac{n_i}{N}$$, le part des détenus détenus dans $$i$$ parmis tous les détenus
- - $$\pi^{h}_{i}= \frac{n^{h}_{i}}{n_i}$$, le pourcentage de détenus de type $$ h $$ détenus parmis des détenus détenu dans $$i$$
- - $$\Pi^{h} = \frac{\sum_{I}n^{h}_{i}}{N}$$, le pourcentage de détenus de type $$h$$ détenus dans le système carcéral.
- - $$\Pi^{h}_{i}= \frac{n^{h}_{i}}{N}$$, la part des détenus de type $$ h $$ détenus parmis tous les détenus dans $$i$$ 
+ - $$\pi^{h}_{i}= \frac{n^{h}_{i}}{n_i}$$, le pourcentage de détenus de type $$ h $$ détenus parmis les détenus détenus dans $$i$$
+ - $$\Pi^{h} = \frac{\sum_{I}n^{h}_{i}}{N}$$, le pourcentage de détenus de type $$h$$ parmis tous les détenus.
+ - $$\Pi^{h}_{i}= \frac{n^{h}_{i}}{N}$$, la part des détenus de type $$ h $$ détenus dans $$i$$ parmis tous les détenus.
  
  
 
