@@ -10,17 +10,19 @@ meta: "sante"
 
 ## Introduction
 
-Vu l'urgence, l'enjeu de ce petit texte est de faire le point statistique sur la situation des conditions de vie des détenus dans les prisons belges à l'heure du Corona Virus.
+Vu l'urgence, l'enjeu de ce petit texte est de faire un point sur les statistiques concernant la situation des conditions de vie des détenus dans les prisons belges.
 
 Cela surprendra probablement certaines d'entre nous étant donné le régime en place dans les prisons à l'heure actuelle - surpopulation, suppressions des visites, défault d'approvisionnement de certaines cantines- mais les associations informelles et non -gouvernementales redeviennent quasi les seules sources d'informations de premières mains - et différentes de celles provenant de l'administration pénitenciaire- relatives aux lieux de détentions et aux détenu.e.s au sein de ceux-là.<sup id="a6">[6](#f6)</sup>
 
-Ici et maintenant, en moblisant les quelques données disponibles à l'heure où seuls les diplomates, les avocats et avocates des détenus sotn autorisé à entrer en contact avec les détenus, je vous propose de procéder de revenir sur les statsitiques transmises par l'administration financière qui ont le mérite d'êtren quoique peu nombreuses, déjà mise en nombres. 
+Toutefois, ici et maintenant, en moblisant les rares données rendues par l'administration pénitentiaire - à une heure où seuls les diplomates, les avocats et avocates des détenus sont autorisés à entrer en contact avec les détenus, je vous propose de procéder  à une brève analyse descriptive de ces statistiques qui ont le mérite d'être, quoique peu nombreuses, aussi une belle approximation de la manière dont l'administration du Royaume de Belgique appréhende les personnes dont elle a la tutelle/ qu'elle administre.
 
-Dans un premier temps, il s'agira donc de s'entendre sur quelques une des défintions qui nous serviront dans la suite de ce texte. Celle-ci nous permettront, - dans un deuxième, troisième et quatrième temps - de jauger de la "concentration"  des "détenus" au sein des prisons sous la main mise du ministre de la Justice d'une part,  mais aussi, d'autre part, d'évaluer la la distribution des personnels au sein du système carcérale.
+Dans un premier temps, il s'agira donc de s'entendre sur quelques une des défintions qui nous serviront dans la suite de ce texte. Celles-ci, moyennnes, médiane, pourcentages, etc.. nous permettront, - dans un deuxième, troisième et quatrième temps - de jauger de la "concentration"  des "détenus" au sein des prisons sous la main mise du ministre de la Justice d'une part,  mais aussi, d'autre part, d'évaluer la distribution des personnels au sein du système carcérale.
 
-Ceci fait, dans un quatrième temps, nous userons des mêmes notations afin de de qualifier la rencontre entre les deux entités phares de tout système carcérale - les détenus et les ceux et celles chargées de leurs administration- au sein du probème plus général qui est celui de "la capacité de production"  du système pénitenciaire belge. Nous illustrerons avec la Prison-le-leuze les problemes que semblent poser, au sein de celle-ci, la concentration de détenus et une distribution des personnelles hérité d'une politique pénitenciaire actuarielle et déjà moribonde. 
+Ceci fait, dans un quatrième temps, nous userons de ces mêmes notations afin de de qualifier la rencontre entre les deux entités phares de tout système carcérale - les détenus et les personnels chargées de leurs administration- au sein du probème plus général qui est celui de "la capacité de production" d'établissement pénitentiaire, à l'heure du Coronavirus.
+
+Nous illustrerons avec la Prison-le-leuze les problemes que semblent poser, au sein de celles-ci, une concentration de détenus et une distribution des personnelles hérités d'une politique pénitenciaire actuarielle et quoiqu'en disent les autorités en charge actuellement, structurellement inhumaine.
  
-Ainsi, en guise de conclusion, nous terminerons par interroger,  à l'aune des données que nous avons réussi à récolter et présentés aux temps précédents, "le plan judiciaire" à l'heure du corona virus" du Ministre de la Justice, Koen Geens et ses possibles points de cohérence.
+Ainsi, en guise de conclusion, nous terminerons par interroger,  à l'aune des données que nous avons réussi à récolter et présentés aux temps précédents, "le plan judiciaire" à l'heure du corona virus" du Ministre de la Justice, Koen Geens et ses possibles points de cohérence. 
 
 
 
