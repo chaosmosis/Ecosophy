@@ -8,6 +8,35 @@ meta: "sante"
 
 # La situation dans les prisons (du moins ce qu'on en sait!)
 
+## Les données
+
+Les données sur les prisons sont rares à l'heure actuelle. Au vu du régime en place dans les prisons, les associations informelles et non -gouvernementales redeviennent les seuls sources d'informations de premières mains<sup id="a6">[6](#f6)</sup> pour dans la diffusion des informations relatives aux lieux de détentions et aux détenu.e.s au sein de ceux-là autres que celles de l'administration pénitentiaire.
+
+Il faut reconnaitre que le parlement n'est pas avare en matière de détails relativement aux prisons. Il semble d'ailleurs clairement que le travail des uns et des unes au quotidien ne soit, la aussi, que le reflet  du travail des autres. 
+
+Les données que nous allons mobiliser ici proviennent du Conseil Centrale de Surveillance des Prisons, ci-après CCSP. Le CCSP nous a informé qu'il possédait un ensemble de données qu'il serait intéressant d'étudier de plus près. Nous proposons dans les  lignes qui suivent de faire parler ces données, tant que faire se peu. 
+
+Pour ce faire je vous propose de procéder en trois temps. Dans un premier temps, il s'agira pour moi de s'entendre sur quelques défintions qui pourront nous servir dans un deuxième temps  et troisième temps de jauger de la "concentration" au sein des prisons sous la main mise du ministre de la Justice d'un part mais aussi d'autre part de la distrubution des personnels au sein du système carcérale à l'heure de la propagation du coronavirus en son sein. 
+
+Enfin, dans un quatrième temps, il s'agira d'aborder la question de la capicité je terminerai par revenir sur 
+
+
+
+```{r}
+
+prison <- read.csv("prison.csv", header = TRUE, sep = ";", dec =",")
+rownames(prison)=prison[,1]
+rownames(prison)
+
+[1] "Antwerpen"                    "Beveren"                      "Brugge"                       "Dendermonde"                  "Gent"                         "Hasselt_Nieuw"               
+ [7] "Hoogstraten"                  "Ieper"                        "Leuven_Centraal"              "Leuven_Hulp"                  "Malines_Maison_de_transition" "Mechelen"                    
+[13] "Merksplas"                    "Oudenaarde"                   "Ruiselede"                    "Tongeren_Nieuw"               "Turnhout"                     "Wortel"                      
+[19] "Andenne"                      "Arlon"                        "Dinant"                       "Enghien_Maison_de_transition" "Huy"                          "Ittre"                       
+[25] "Jamioulx"                     "Lantin"                       "Leuze-en-Hainaut"             "Marche-En-Famenne"            "Marneffe"                     "Mons"                        
+[31] "Namur"                        "Nivelles"                     "Paifve"                       "St._Hubert"                   "Tournai"                      "Berkendael"                  
+[37] "Forest"                       "St-Gilles"                   
+```
+
 ## Notations pour les Prisons
 
 Supposons qu'il existe un nombre déterminé de prisons (e.g $$ I \in \mathbf{R} $$) sur un terrtoire. Désignons par $i$ l'une des $I$ prisons de ce territoire et par $$ n_i $$, le nombre de détenus au sein de la prison $$i$$.
@@ -41,31 +70,6 @@ Ayant à l'esprit les notation précédentes, au cours de cette analyse nous dé
  - $$\Pi^{h}_{i}= \frac{n^{h}_{i}}{N}$$, la part des détenus de type $$ h $$ détenus dans $$i$$ parmis tous les détenus.
  
  
-
-## Les données
-
-Les données que nous allons mobilisées ici proviennent du Conseil Centrale de Surveillance des Prisons ci-après CCSP. Cet organe para-parlementaire bénéficie d'une relation directe avec les différentes autorités responsables du sort des détenus. A l'instar d'un organisme para-législatif, le CCSP a une double mission : il est censé contrôler et organiser la surveillance des Prisons au nom du Parlement fédéral de Belgique. 
-
-Vous trouverez les données brutes en cliquant sur le lien suivant.
-
-
-
-```{r}
-
-prison <- read.csv("prison.csv", header = TRUE, sep = ";", dec =",")
-rownames(prison)=prison[,1]
-rownames(prison)
-
-[1] "Antwerpen"                    "Beveren"                      "Brugge"                       "Dendermonde"                  "Gent"                         "Hasselt_Nieuw"               
- [7] "Hoogstraten"                  "Ieper"                        "Leuven_Centraal"              "Leuven_Hulp"                  "Malines_Maison_de_transition" "Mechelen"                    
-[13] "Merksplas"                    "Oudenaarde"                   "Ruiselede"                    "Tongeren_Nieuw"               "Turnhout"                     "Wortel"                      
-[19] "Andenne"                      "Arlon"                        "Dinant"                       "Enghien_Maison_de_transition" "Huy"                          "Ittre"                       
-[25] "Jamioulx"                     "Lantin"                       "Leuze-en-Hainaut"             "Marche-En-Famenne"            "Marneffe"                     "Mons"                        
-[31] "Namur"                        "Nivelles"                     "Paifve"                       "St._Hubert"                   "Tournai"                      "Berkendael"                  
-[37] "Forest"                       "St-Gilles"                   
-```
-
-
 
 ### Analyse descriptive des données relatives aux nombres des détenus en Prison
 
@@ -250,5 +254,7 @@ Ainsi, d'après ces statistiques, seuls sept prisons avaient, au début du mois 
 
 
 <b id="f4">5</b> Ficher, I., Guillain, C., « Du difficile équilibre entre le respect des droits fondamentaux des détenus et le droit à l’action collective des agents pénitentiaires » in Droit de grève : actualités et questions choisies, Bruxelles, Éditions Larcier, 2015, p. 87-124[↩](#a5)
+
+<b id="f6">6</b> S'il y a bien une leçon du confinement instaurée en Belgique que l'on peut tirer maintenant , c'est bien le fait que la société civile a un rôle moteur dans la production de connaissances.[↩](#a6)
 
 
