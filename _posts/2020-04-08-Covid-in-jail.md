@@ -6,7 +6,7 @@ author: "John Nève"
 meta: "sante"
 ---
 
-# La situation dans les prison du Royaume de Belgique.
+# La situation dans les prisons du Royaume de Belgique.
 
 ## Introduction
 
