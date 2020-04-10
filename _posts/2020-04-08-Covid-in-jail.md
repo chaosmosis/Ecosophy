@@ -10,23 +10,10 @@ meta: "sante"
 
 Une email et quelques pièces jointes. Le problème de la définition des variables. 
 
-Le huit mars, quelques jours après qu'une émeute ait éclé dans une des 4 nouvelles prisons du système pénitenciaire, celle de Leuze, suite à un rationnement alimentaire défaillant -Les détenus avait refusé de rentrer en cellule après une pause pour contester l'aggravement de leurs conditions de détentions- alors que les statistiques péninetiaires révêlait un doublement des cas de Corona Virus parmis les détenus, les questions posé au minitre de la justice Koean Geens par les parlementaires ont été nombreuses.
-
-Parmis les parti Francophones, le parti Socialiste par l'intermédiaire de deux député a mis en avant le retard pris en amont de la condamnation et les problèmes que posent la détention à l'heure du corona virus. Le PTB et Ecolo mirent reprirent quant à eux le flambeaux des acteurs et actrices "de terrains". 
-
-Ecolo s'est notamment démarqué par une double une porposition ciblée pour les détenus, alors que l'ensembles de ces partis se réclamaient des ornaismes de controle nationaux et internationation de même que des organisation non gouvernmentales.
-
-<div style="text-align: center"><audio src="{{ site.baseurl }}/assets/defi.mp4" controls loop> Défi </audio></div>
-
-<div style="text-align: center"><audio src="{{ site.baseurl }}/assets/ecolofr.mp4" controls loop> ecolofr </audio></div>
-
-
 
 ## Notations pour les Prisons
 
 Supposons qu'il existe un nombre déterminé de prisons (e.g $$ I \in \mathbf{R} $$) sur un terrtoire. Désignons par $i$ l'une des $I$ prisons de ce territoire et par $$ n_i $$, le nombre de détenus au sein de la prison $$i$$.
-
-
 
 Supposons que chaque prison $$i$$ a une "capacité théorique", ci-après dénotée $$ \xi_i $$. Nommons le nombre total de détenus au sein du système carcéral belge par $$ N $$ et la capacité totale de détention du système carcérale par $$ \Xi $$. 
 
@@ -99,7 +86,9 @@ Ainsi, comme on peut le lire dans le Guide du Prisonnier en Belgique, *"Une déc
 
 ### Les détenus au sein des prisons
 
-Le nombre de détenu dans une prison, ci-après $$n_i$$, varie énormément d'une prison à une autre. La prison qui comptabilise le moins de détenus est la maison de transition d'Enghien. Celle qui dénombre le plus grand nombre de détenus est la prison de Lantin. En moyenne, il y a 166 détenus par prison alors que la moitié des détenus sont regroupés dans des prisons avec plus de 147 détenus. 
+Le nombre de détenu dans une prison, ci-après $$n_i$$, varie énormément d'une prison à une autre. Les raison de ces variation est l'objet d'une littérature abondante sur la population des prisons. Littérature d'autant plus abodnante en belgique, que depuis la première visite du comité européen pour la prévention de la Torture en belgique, ce pays n'a eu de cesse de se faire vilenpendé par les organismes internationaux et nationaux.
+
+La prison qui comptabilise le moins de détenus est la maison de transition d'Enghien. Celle qui dénombre le plus grand nombre de détenus est la prison de Lantin. En moyenne, il y a 166 détenus par prison alors que la moitié des détenus sont regroupés dans des prisons avec plus de 147 détenus. 
 
 ```{r} 
 tot=as.data.frame(prison[,2]+prison[,3]+prison[,4])
