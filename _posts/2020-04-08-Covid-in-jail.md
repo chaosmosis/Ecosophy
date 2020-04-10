@@ -6,24 +6,21 @@ author: "John Nève"
 meta: "sante"
 ---
 
-# La situation au sein de 38 prisons belges.
+# La situation dans les prison du Royaume de Belgique.
 
-## Les données
+## Introduction
 
+Vu l'urgence, l'enjeu de ce petit texte est de faire le point statistique sur la situation des conditions de vie des détenus dans les prisons belges à l'heure du Corona Virus.
 
+Cela surprendra probablement certaines d'entre nous étant donné le régime en place dans les prisons à l'heure actuelle - surpopulation, suppressions des visites, défault d'approvisionnement de certaines cantines- mais les associations informelles et non -gouvernementales redeviennent quasi les seules sources d'informations de premières mains - et différentes de celles provenant de l'administration pénitenciaire- relatives aux lieux de détentions et aux détenu.e.s au sein de ceux-là.<sup id="a6">[6](#f6)</sup>
 
-L'enjeu de ce petit texte est simplement de faire le point sur la situation en prison à l'heure du Corona Virus en moblisant le plus de données possibles à propos des prisons belges. 
+Ici et maintenant, en moblisant les quelques données disponibles à l'heure où seuls les diplomates, les avocats et avocates des détenus sotn autorisé à entrer en contact avec les détenus, je vous propose de procéder de revenir sur les statsitiques transmises par l'administration financière qui ont le mérite d'êtren quoique peu nombreuses, déjà mise en nombres. 
 
-Les données sur les prisons sont rares à l'heure actuelle. Au vu du régime en place dans les prisons, les associations informelles et non -gouvernementales redeviennent les seuls sources d'informations de premières mains - et différentes de celles provenant de l'administration pénitenciaire- relatives aux lieux de détentions et aux détenu.e.s au sein de ceux-là.<sup id="a6">[6](#f6)</sup>
+Dans un premier temps, il s'agira donc de s'entendre sur quelques une des défintions qui nous serviront dans la suite de ce texte. Celle-ci nous permettront, - dans un deuxième, troisième et quatrième temps - de jauger de la "concentration"  des "détenus" au sein des prisons sous la main mise du ministre de la Justice d'une part,  mais aussi, d'autre part, d'évaluer la la distribution des personnels au sein du système carcérale.
 
-
-Afin de rendre l'objetif de ce texte atteignable, je vous propose de procéder par étapes. 
-
-Dans un premier temps, il s'agira de s'entendre sur quelques défintions. Celle-ci nous permettront, - dans un deuxième, troisième et quatrième temps - de jauger de la "concentration"  des "détenus" au sein des prisons sous la main mise du ministre de la Justice d'une part mais aussi d'autre part, d'évaluer la la distribution des personnels au sein du système carcérale.
-
-Dans un quatrième temps, nous userons des mêmes  notationsafin de de qualifier le probème  de "la capacité de production"  de chacune des prisons. Pour ce faire, nous prendrons la Prison de leuze à titre d'exemple. 
+Ceci fait, dans un quatrième temps, nous userons des mêmes notations afin de de qualifier la rencontre entre les deux entités phares de tout système carcérale - les détenus et les ceux et celles chargées de leurs administration- au sein du probème plus général qui est celui de "la capacité de production"  du système pénitenciaire belge. Nous illustrerons avec la Prison-le-leuze les problemes que semblent poser, au sein de celle-ci, la concentration de détenus et une distribution des personnelles hérité d'une politique pénitenciaire actuarielle et déjà moribonde. 
  
-En guise de conclusion, nous terminerons par interroger,  à l'aune des données que nous avons réussi à récolter et présenté aux temps précédens, "le plan judiciaire" à l'heure du corona virus" du Ministre de la Justice, Koen Geens.
+Ainsi, en guise de conclusion, nous terminerons par interroger,  à l'aune des données que nous avons réussi à récolter et présentés aux temps précédents, "le plan judiciaire" à l'heure du corona virus" du Ministre de la Justice, Koen Geens et ses possibles points de cohérence.
 
 
 
