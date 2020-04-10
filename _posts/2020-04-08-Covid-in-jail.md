@@ -44,6 +44,50 @@ rownames(prison)
 
 ## Notations pour les Prisons
 
+Il existe très probablement \textit{un seuil} à partir duquel un bon père de famille décide de s'inscrire dans un devenir de bandit. Par bon père de famille j'entends, un légaliste, par Bandit, j'entends la figure du Bandit social d'Hobsbawn.
+
+C'est la question du moment d'une décision radicale qui vous passer d'une forme de vie à une autre, celle qui transforme votre être en tant qu'être.
+
+$$\begin{tabular}{|c|c|c|} u_1 & \Rightarrow & u_2 \\ \end{tabular} \end{center} $$
+
+Les outils de la théorie des jeux peuvent nous aider à décrire le processus, à tout le moins de discuter, par lequel un individu devient détenu. Pour ce faire, l'instar de ce qui se fait dans la théorie du choix rationnel lrosqu'il s'agit d'appréhender des agents économiques, il s'agira de prendre en compte l'état de joie, ou de félicité, que les agents ressentent dans différents contextes. 
+
+Ces outils nous permettent de penser l'acuqisition du titre de détenus dans termes, quoique provicateurs, qui n'en sont pas moins évocateurs de la manière dont la politique carcérale est menée aujourd'hui. 
+
+En effet, alors que la théorie du choix rationnele raisson en termes de choix entre des états de monde possibles, où l'ensemble des mondes possibles est donnée par ce qu'on appelle comunément le modélisateur, la manière dont les politiques appréhendent et ont appréhender les politqiues carcérale s'est, dans leurs majorité soldé par une vision du type de celle de l'école de chicago. 
+Selon cette vision, le crime et partant, le statut de détenu est, in fine, une affaire de choix. 
+
+Ainsi, il sera courant de faire l'hypothèse que ce qu'on appelle communément le joueur $$1$$ est en réalité un individu  exepté qu'il est tourmenter par le fait de devenir bandir ou de devenir un bon père de Famille. Pour cette théorie, * poussée dans ses limites*, acquérir le statut de détenu est le choix de vie, un choi rationnel, autrement dit, réflexif et complet. Si on le simplifie à l'extrême ce choix, cela revient à dire qu'un détenu a son arc deux stratégie possible un jour où l'autres : soit devenir Bandit, soit Travailler comme monsieur et madame tout-le-monde.
+
+Imaginons que le fait de choisir le devenir bandit ou le devenir légaliste est le fait d'un jeu en interaction stratégique avec ce que l'on pourrait appeler la société. 
+
+Par tourmenté j'entends qu'il a l'impression qu'il joue un jeu avec la société et où la société, elle même oscillent entre un devenir légaliste et un devenir bandit. 
+
+Ici, nous avons une situation décrite à la manière d'une interaction stratégique. Ils existe plusieurs jeux possibles.  On connait celui du dilemen du prisonnier, celui de la bataille des sexes, etc...
+
+On définit un jeu à l'aide de trois éléments : le nombre de joueur, le nombre et le type  de stratégie de chaque joueur et le paiement en terme de joie associé à chacun des états du monde pour chacun des joueurs (\textit{i.e.} : \texti{a,b} où \textit{a} et \textit{b} représente respectivement le paiement en terme de joie pour l'acteur tourmenté et la société lorsque ceux-ci ont en leurs for intérieur décidé de s'inscrire dans un devenir bandit.)
+
+Quand donc nous inscrivont nous dans un devenir Bandit ? quand donc,  les désirs des citoyens convergent-ils, élisent-ils, construisent-ils, rejoignent-t-il une situation de Banditisme Généralisé? La théorie des jeux nous dira qu'il est possible que cette situation découle d'un jeu stratégique entre la société et un individu donné.
+
+
+Nous allons donc imaginer que choisir un devenir bandit pour un individu donné est une décision qui se construit à l'instar d'un jeu entre un individu et la société qui l'héberge et l'habite. Etudier ce décisions de sécession à l'authorité des lois, au devenir bandits revient à se posser la question du pourquoi décidons nous parfois de devenir "hors-système"? Pourquoi décidons nous de frauder l'impôt ? Pourquoi décidons nous de nous ballader nus dans la rue un lundi matin ? pourquoi décidons nous de voler le grain des banques ?
+
+
+Imaginons que la structure des paiements de ce jeux soit celle propre à un \textit{dilemme du prisonnier} dans laquelle le devenir bandit est une stratégie dominante tant pour la société que pour l'individu. 
+
+On dira : le paiement de l'acteur associé à l'état  où tant la société que l'individu  agissent en bandit - état du monde que nous appellerons situation de  banditisme généralisé,  est un équilibre de Nash en stratégie pure pour deux raisons: L'individu préfère strictement le banditisme généralisé  à l'état du monde où il la société s'inscrit dans un devenir bandit et où, lui seul, décide d'être un légaliste. Autrement dit, nous faisons l'hypothèse avec la structure des paiements est telle que l'individu ne souhaite pas devenir le dindon de la farce. (*i.e.* : $$a>e$$). 
+
+De même, pour que cet équilibre de Nash soit un équilibre de de Nash stricte, nous dirons que $$ c>g$$. Autrement dit, avec ce jeu, nous faisons l'hypothèse que l'individu préfère une situation où il est bandit et la société légaliste à la situation où tant la société que lui même agissent en bon père de famille. Ici, en faisant, l'hypothèse que le jeu est un dilemme du prisonnier entre la société et un individu, où l'un et l'autre préfère s'inscrire dans un devenir bandit sans égard pour ce que fait son voisin (\textit{i.e}: $$a>e$$; $$c>g$$; $$b>d$$; $$f>h$$) , l’avènement d'une situation où tout le monde agit en bon père de famille est tout simplement impossible.  Tout les acteurs du jeu ont intérêt à choisit le devenir Bandit. Sans cela, nous disons avec les outils propre à la théorie des jeux que personne n'a intérêt à choisir un autre devenir. Faire cela conduira les joueur à obtenir des paiements strictement inférieur à la situation de banditisme généralisé. On dira, qu'il n'y pas d'intérêt à dévier.
+
+
+$$\begin{center}\begin{tabular}{|c|c|c|}\hline & \textit{Bandit}    & \textit{bon Père de famille} \\ \hline \textit{Bandit} & \textit{a,b}    &  \textit{c,d} \\ \hline \textit{P} & \textit{e,f}  & \textit{g,h}\\ \hline \end{tabular} \end{center}$$
+
+Dans une telle situation, il est rationnel d'élire le devenir bandit diront les théoriciens des jeux. Évidemment, cette configuration des paiements est tout à fait arbitraire. Elle n'est pas la seule configuration possible qui permette l’avènement du banditisme généralisé.
+
+Imaginons un autre jeu. Dans celui-ci, la configuration des paiemens associté à chacun aux états du monde possibles est telle qu'elle implique une dépendance claire des choix de devenir de chacun des acteurs.  Prenons le cas de la bataille des sexes. Dans celui-ci, il existe deux équilibres de Nash en stratégie pure. 
+
+On dira que le banditisme généralisé et celui de société pacifiée sont deux équilibres possibles vers lesquels les intérêts des joueurs peuvent converger.  Avec les outils présents, il est impossible de prédire le type de monde qui risque d'émerger.
+
 Supposons qu'il existe un nombre déterminé de prisons (e.g $$ I \in \mathbf{R} $$) sur un terrtoire. Désignons par $i$ l'une des $I$ prisons de ce territoire et par $$ n_i $$, le nombre de détenus au sein de la prison $$i$$.
 
 Supposons que chaque prison $$i$$ a une "capacité théorique", ci-après dénotée $$ \xi_i $$. Nommons le nombre total de détenus au sein du système carcéral belge par $$ N $$ et la capacité totale de détention du système carcérale par $$ \Xi $$. 
