@@ -6,7 +6,7 @@ author: "John Nève"
 meta: "sante"
 ---
 
-# La situation dans les prisons (du moins ce qu'on en sait!)
+# La situation au sein de 38 prisons belges.
 
 ## Les données
 
