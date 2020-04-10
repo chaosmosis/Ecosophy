@@ -6,10 +6,7 @@ author: "John Nève"
 meta: "sante"
 ---
 
-# La situation dans les prisons
-
-Une email et quelques pièces jointes. Le problème de la définition des variables. 
-
+# La situation dans les prisons (du moins ce qu'on en sait!)
 
 ## Notations pour les Prisons
 
@@ -37,11 +34,12 @@ Notons notamment que la moyenne de détenu dans une des $$I$$ prisons peut être
  
 Ayant à l'esprit les notation précédentes, au cours de cette analyse nous désignerons par 
  
- - $$n^{h}_{i}$$, le nombre de détenus de type $$ h $$ dépendant de $$ i $$
- - $$\pi_{i} = \frac{\sum_{H}n^{h}_{i}}{N} = \frac{n_i}{N}$$, le pourcentage des détenus détenus au sein de la prison $$i$$ 
- - $$\pi^{h}_{i}= \frac{n^{h}_{i}}{n_i}$$, le pourcentage des détenus de type $$ h $$ au sein des détenus de $$i$$
- - $$\Pi^{h}_{i}= \frac{n^{h}_{i}}{N}$$, la part des détenus de type $$ h $$ dans $$i$$
- - $$\Pi^{h} = \frac{\sum_{I}n^{h}_{i}}{N}$$, le pourcentage de détenus de type $$h$$ dans le système carcéral.
+ - $$n^{h}_{i}$$, le nombre de détenus de type $$ h $$ détenu dans $$ i $$
+ - $$\pi_{i} = \frac{\sum_{H}n^{h}_{i}}{N} = \frac{n_i}{N}$$, le part des détenus détenus dans $$i$$ parmis tous les détenus
+ - $$\pi^{h}_{i}= \frac{n^{h}_{i}}{n_i}$$, le pourcentage de détenus de type $$ h $$ détenus parmis des détenus détenu dans $$i$$
+ - $$\Pi^{h} = \frac{\sum_{I}n^{h}_{i}}{N}$$, le pourcentage de détenus de type $$h$$ détenus dans le système carcéral.
+ - $$\Pi^{h}_{i}= \frac{n^{h}_{i}}{N}$$, la part des détenus de type $$ h $$ détenus parmis tous les détenus dans $$i$$ 
+ 
  
 
 ## Les données
