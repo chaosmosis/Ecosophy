@@ -6,7 +6,7 @@ author: "John Nève"
 meta: "sante"
 ---
 
-# La situation dans les prisons du Royaume de Belgique.
+# Esquisse de la situation dans les prisons du Royaume de Belgique.
 
 ## Introduction
 
@@ -56,7 +56,6 @@ En Belgique, comme le veut l'article  12 de la Constitution, 3ème alinéa :
 
 Ainsi, comme on peut le lire dans le Guide du Prisonnier en Belgique, on comprend vite qu'*"Une décision judiciaire(ordonnance de mise en détention préventive, jugement, etc.) est toujours nécessaire"*<sup id="a0">[0](#f0)</sup> pour être considéré comme un détenu en prison.
 
-
 Les tableaux statistiques distribués par le ministère public témoignent des différents statuts attribués aux individus qui peulples les prison du Royaume de Belgique. Quoique sommaires, ces documents traduisent sans conteste un attachement certains, de la part des directeurs de prisons, aux différences de statuts des détenus mais aussi d'une partie de la réalité auquelle sont confrontés ces derniers.
 
 Au regard de ces seuls classements, il semble exister dans le chefs des autorités responsables des statsitques relatives aux détenus au moins huit types de détenus possibles. En effet, via ces documents on comprend que 
@@ -67,20 +66,21 @@ Au regard de ces seuls classements, il semble exister dans le chefs des autorit�
 Ainsi, selon la typologie dont use l'administration pénitentiaire en général,  il existe bien potentiellement huit manières différentes d'appréhender les détenus au sein d'une prison.
 
 
-#### quelques définitions
+#### quelques symbolisations et définitions
 
-Désignons par $i$ l'une des $I$ prisons du Royaume et par $$ n_i $$, le nombre de détenus au sein de la prison $$i$$.
-Si il existe un nombre déterminé de prisons, disons $$I$$ (e.g $$ I \in \mathbf{R} $$), sur un terrtoire, le nombre total de détenus au sein des prison peut être défini comme la somme du nombre de détenus *au sein* de $$i$$, autrement dit :
+Désignons par $i$ l'une des $I$ prisons du Royaume et par $$ n_i $$, le nombre de détenus au sein de la prison $$i$$. Si il existe un nombre déterminé de prisons, disons $$I$$ (e.g $$ I \in \mathbf{R} $$), sur un terrtoire, le nombre total de détenus au sein des prison peut être défini comme la somme du nombre de détenus *au sein* des $$I$$ du dit territoire, autrement dit :
 
 $$ N = \sum_{I} n_{i} $$ 
 
-Supposons que chaque prison $$i$$ a une "capacité théorique", ci-après dénotée $$ \xi_i $$. En procédent de manière similaire que pour le  nombre de détenus, désignons la capacité totale de détention du système carcérale par $$ \Xi $$ et  posons :
+Supposons ensuite que pour chaque prison $$i$$, il existe une valeur symbolisant une "capacité théorique", ci-après dénotée $$ \xi_i $$. En procédent de manière similaire que pour le  nombre de détenus, désignons la capacité totale de détention du système carcérale par $$ \Xi $$ et  posons :
 
 $$ \Xi \equiv \sum_{I} \xi_{i} $$ 
 
-Enfin, désignons par $$g_i$$ le nombre de salariés travaillant au sein de la prison $$i$$ et, dans la foulée des définition précdente, désignons par $$G$$ le nombre total de salariés oeuvrant à la reproduction des tâches journalières auquelles sont confronté les membres du système carcérale fédéral.
+Enfin, désignons par $$g_i$$ le nombre de salariés travaillant au sein de la prison $$i$$ et, dans la foulée des définitions précédentes, désignons par $$G$$ le nombre total de salariés oeuvrant à la reproduction des tâches journalières auquelles sont confronté les membres du système carcérale fédéral, autrement dit :
 
-En l'espèce, nous dirons donc qu'au sein des $$I$$ prisons fédérales du pays, il y a
+$$ G = \sum_{I} g_{i} $$ 
+
+En l'espèce, nous supposons donc qu'au sein des $$I$$ prisons fédérales du pays, il y a
 
 - $$ N = \sum_{I} n_{i} $$ détenus pour
 
@@ -88,21 +88,25 @@ En l'espèce, nous dirons donc qu'au sein des $$I$$ prisons fédérales du pays,
 
 - $$ G = \sum_{I} g_{i} $$ intervenants salariés.
 
-De cette manière on peut défininir une série d'indicateurs qui nous permettront de réaliser une brève analyse statistiques des tableaux de données qui servent à la gestion et au controle des prisons.
+De cette manière on pouvons définir une série d'indicateurs qui nous permettent de réaliser une brève analyse statistiques à partir des tableaux de données qui servent à la gestion et au controle des prisons lors des deux sections suivantes.
 
-Notons notamment que la moyenne de détenu dans une des $$I$$ prisons peut être définie de la manière suivante :
+A cette fin, notons notamment que la moyenne de détenu dans une des $$I$$ prisons peut être définie de la manière suivante :
  
  <div style="text-align: center">
  $$ \overline{N} = \frac{ \sum_{I} n_{i} }{ I }$$ 
  </div>
  
-Ayant à l'esprit les notation précédentes, au cours de cette analyse nous désignerons par 
+Ayant à l'esprit les notation précédentes, qu'au cours de cette analyse nous désignerons par 
  
  - $$n^{h}_{i}$$, le nombre de détenus de type $$ h $$ détenu dans $$ i $$
  - $$\pi_{i} = \frac{\sum_{H}n^{h}_{i}}{N} = \frac{n_i}{N}$$, le part des détenus détenus dans $$i$$ parmis tous les détenus
  - $$\pi^{h}_{i}= \frac{n^{h}_{i}}{n_i}$$, le pourcentage de détenus de type $$ h $$ détenus parmis les détenus détenus dans $$i$$
  - $$\Pi^{h} = \frac{\sum_{I}n^{h}_{i}}{N}$$, le pourcentage de détenus de type $$h$$ parmis tous les détenus.
  - $$\Pi^{h}_{i}= \frac{n^{h}_{i}}{N}$$, la part des détenus de type $$ h $$ détenus dans $$i$$ parmis tous les détenus.
+ 
+ Terminons par rapellons trois des autres définitions séculaires de la statistique descritptive, à savoir, la médiane, le minium et le maximum  reprise dans les documents du conseil de l'europe : 
+ 
+ 
  
  
 
@@ -112,7 +116,7 @@ Ayant à l'esprit les notation précédentes, au cours de cette analyse nous dé
 
 ### Les détenus au sein des prisons
 
-Le nombre de détenu dans une prison, ci-après $$n_i$$, varie énormément d'une prison à une autre. Les raison de ces variation est l'objet d'une littérature abondante sur la population des prisons. Littérature d'autant plus abodnante en belgique, que depuis la première visite du comité européen pour la prévention de la Torture en belgique, ce pays n'a eu de cesse de se faire vilenpendé par les organismes internationaux et nationaux.
+Comme on peut s'y attendre, le nombre de détenu dans une prison, ci-après $$n_i$$, varie énormément d'une prison à une autre. Les raison de ces variations est l'objet d'une littérature abondante sur la population des prisons. Littérature d'autant plus abodnante en belgique, que depuis la première visite du comité européen pour la prévention de la Torture en belgique, ce pays n'a eu de cesse de se faire vilenpendé par les organismes internationaux et nationaux.
 
 La prison qui comptabilise le moins de détenus est la maison de transition d'Enghien. Celle qui dénombre le plus grand nombre de détenus est la prison de Lantin. En moyenne, il y a 166 détenus par prison alors que la moitié des détenus sont regroupés dans des prisons avec plus de 147 détenus. 
 
