@@ -279,4 +279,4 @@ Ainsi, d'après ces statistiques, seuls sept prisons avaient, au début du mois 
 
 <b id="f6">6</b> S'il y a bien une leçon du confinement instaurée en Belgique que l'on peut tirer maintenant , c'est bien le fait que la société civile a un rôle moteur dans la production de connaissances. En effet, cela surprendra probablement certaines d'entre nous - étant donné, notamment,  le régime en place dans les prisons à l'heure actuelle : surpopulation, suppressions des visites, défaut d'approvisionnement de certaines cantines- mais les associations informelles et non -gouvernementales redeviennent quasi les seules sources d'informations de premières mains - et différentes de celles provenant de l'administration pénitentiaire- relatives aux lieux de détentions et aux détenu.e.s au sein de ceux-là.[↩](#a6)
 
-<b id="f7">7</b> https://www.youtube.com/watch?v=CdreDHFtRcw&feature=youtu.be&fbclid=IwAR0-WlHZd6ncgJirwyZ2Ei9y68nYvEhkWrtg3TnhgkCuYtabmH97ra9EvSQ [↩](#a7)
+<b id="f7">7</b> Les différentes mesures misent en place dans les prisons ont été présentée aux députés et députées fédérales du Royaume le 8 avril 2020 : https://www.youtube.com/watch?v=CdreDHFtRcw [↩](#a7)
