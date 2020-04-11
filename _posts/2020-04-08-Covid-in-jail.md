@@ -79,15 +79,8 @@ Enfin, désignons par $$g_i$$ le nombre de salariés travaillant au sein de la p
 
 $$ G = \sum_{I} g_{i} $$ 
 
-En l'espèce, nous supposons donc qu'au sein des $$I$$ prisons fédérales du pays, il y a
 
-- $$ N = \sum_{I} n_{i} $$ détenus pour
-
-- $$ \Xi = \sum_{I} \xi_{i} $$ lits et 
-
-- $$ G = \sum_{I} g_{i} $$ intervenants salariés.
-
-De cette manière on pouvons définir une série d'indicateurs qui nous permettent de réaliser une brève analyse statistiques à partir des tableaux de données qui servent à la gestion et au contrôle des prisons lors des deux sections suivantes.
+De cette manière on pouvons définir une série d'indicateurs qui nous permettront de réaliser une brève analyse statistique descriptive des tableaux de données rendus disponibles par les étbalissements pénitentiers pour la gestion et au contrôle des prisons.
 
 A cette fin, notons notamment que la moyenne de détenu dans une des $$I$$ prisons peut être définie de la manière suivante :
  
@@ -95,10 +88,19 @@ A cette fin, notons notamment que la moyenne de détenu dans une des $$I$$ priso
  $$ \overline{N} = \frac{ \sum_{I} n_{i} }{ I }$$ 
  </div>
  
-Ayant à l'esprit les notation précédentes, qu'au cours de cette analyse nous désignerons par 
+ De même, la capacité de détention moyenne d'une prison sur le territoire  peut être définie de la manière suivante :
+
+  <div style="text-align: center">
+ $$\overline{\Xi} = \frac{ \sum_{I} \xi_{i} }{ G }$$
+  </div>
  
- - $$\overline{\Xi} = \frac{ \sum_{I} \xi_{i} }{ G }$$, le capacité de détention moyenne de $$i$$
- - $$\overline{G} = \frac{ \sum_{I} G_{i} }{ G }$$, le nombre de personnel moyen dans $$i$$
+Dans la foulée, nous symboliserons par $$\overline{G}$$ le nombre moyen de personnels au sein d'une prison $$i$$ :
+
+  <div style="text-align: center">
+$$\overline{G} = \frac{ \sum_{I} G_{i} }{ G }$$
+  </div>
+  
+Enfin, sachant qu'au cours de l'analyse descritive, afin de faire parler au mieux les données de l'administration pénitentiaire, nous distinguerons les détenus par selon, au moins quatre types, il va nous être utile de désigner par : 
  - $$n^{h}_{i}$$, le nombre de détenus de type $$ h $$ détenu dans $$ i $$
  - $$\pi_{i} = \frac{\sum_{H}n^{h}_{i}}{N} = \frac{n_i}{N}$$, le part des détenus détenus dans $$i$$ parmi tous les détenus
  - $$\pi^{h}_{i}= \frac{n^{h}_{i}}{n_i}$$, le pourcentage de détenus de type $$ h $$ détenus parmi les détenus détenus dans $$i$$
@@ -108,7 +110,14 @@ Ayant à l'esprit les notation précédentes, qu'au cours de cette analyse nous 
  Terminons par rappelons trois des autres définitions séculaires de la statistique descriptive, à savoir, la médiane, le minium et le maximum  reprise dans les documents du conseil de l'Europe : 
  
  
- 
+ En l'espèce, nous supposons donc qu'au sein des $$I$$ prisons fédérales du pays, il y a
+
+- $$ N = \sum_{I} n_{i} $$ détenus pour
+
+- $$ \Xi = \sum_{I} \xi_{i} $$ lits et 
+
+- $$ G = \sum_{I} g_{i} $$ intervenants salariés.
+
  
 
 ### Analyse descriptive des données relatives aux nombres des détenus en Prison
