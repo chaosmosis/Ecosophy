@@ -64,10 +64,13 @@ Au regard de ces seuls classements, si on s'intéresse premièrement aux "déten
 
 Comme on le comprend, selon la typologie dont use l'administration pénitentiaire en général,  il existe donc potentiellement huit manières différentes d'appréhender les détenus au sein d'une prison.
 
+ 
 
 #### quelques symbolisations et définitions
 
-Désignons par $i$ l'une des $I$ prisons du Royaume et par $$ n_i $$, le nombre de détenus au sein de la prison $$i$$. Si il existe un nombre déterminé de prisons, disons $$I$$ (e.g $$ I \in \mathbf{R} $$), sur un territoire, le nombre total de détenus au sein des prison peut être défini comme la somme du nombre de détenus *au sein* des $$I$$ du dit territoire, autrement dit :
+Désignons par $i$ l'une des $I$ prisons du Royaume et par $$ n_i $$, le nombre de détenus au sein de la prison $$i$$. 
+
+Si il existe un nombre déterminé de prisons, disons $$I$$ (e.g $$ I \in \mathbf{R} $$), sur un territoire, le nombre total de détenus au sein des prison peut être défini comme la somme du nombre de détenus *au sein* des $$I$$ du dit territoire, autrement dit :
 
 $$ N = \sum_{I} n_{i} $$ 
 
@@ -79,8 +82,17 @@ Enfin, désignons par $$g_i$$ le nombre de salariés travaillant au sein de la p
 
 $$ G = \sum_{I} g_{i} $$ 
 
+En l'espèce, nous avons supposé qu'au sein des $$I$$ prisons fédérales du pays, il y a
 
-De cette manière on pouvons définir une série d'indicateurs qui nous permettront de réaliser une brève analyse statistique descriptive des tableaux de données rendus disponibles par les étbalissements pénitentiers pour la gestion et au contrôle des prisons.
+- $$ N = \sum_{I} n_{i} $$ détenus pour
+
+- $$ \Xi = \sum_{I} \xi_{i} $$ lits et 
+
+- $$ G = \sum_{I} g_{i} $$ intervenants salariés.
+
+On dira que nous assistons à  un phénomène de "surpopulation" au sein d'une prison à partir du moment où il existe une tension entre le nombre de détenus et les capacités que sont à même de fournir dans une prision donnée la combinaison de $$\xi_{i}$$ et $$g_{i}$$.
+
+Avant de s'embarquer dans une modélisation des phénomènes de surpopulation, définissons dans un premier temps une série d'indicateurs supplémentaires qui nous permettront de comparer les prisons entres elles, en termes de $$\xi_{i}$$, $$g_{i}$$  et $$n_{i}$$.
 
 A cette fin, notons notamment que la moyenne de détenu dans une des $$I$$ prisons peut être définie de la manière suivante :
  
@@ -88,16 +100,16 @@ A cette fin, notons notamment que la moyenne de détenu dans une des $$I$$ priso
  $$ \overline{N} = \frac{ \sum_{I} n_{i} }{ I }$$ 
  </div>
  
- De même, la capacité de détention moyenne d'une prison sur le territoire  peut être définie de la manière suivante :
+De même, symbolisons la capacité de détention moyenne d'une prison sur le territoire  par :
 
   <div style="text-align: center">
  $$\overline{\Xi} = \frac{ \sum_{I} \xi_{i} }{ G }$$
   </div>
  
-Dans la foulée, nous symboliserons par $$\overline{G}$$ le nombre moyen de personnels au sein d'une prison $$i$$ :
+Dans la foulée, identifion à  par $$\overline{G}$$ le nombre moyen de personnels au sein d'une prison $$i$$. Autrement dit :
 
   <div style="text-align: center">
-$$\overline{G} = \frac{ \sum_{I} G_{i} }{ G }$$
+$$\overline{G} \equiv \frac{ \sum_{I} G_{i} }{ G }$$
   </div>
   
 Enfin, sachant qu'au cours de l'analyse descritive, afin de faire parler au mieux les données de l'administration pénitentiaire, nous distinguerons les détenus par selon, au moins quatre types, il va nous être utile de désigner par : 
@@ -107,16 +119,16 @@ Enfin, sachant qu'au cours de l'analyse descritive, afin de faire parler au mieu
  - $$\Pi^{h} = \frac{\sum_{I}n^{h}_{i}}{N}$$, le pourcentage de détenus de type $$h$$ parmi tous les détenus.
  - $$\Pi^{h}_{i}= \frac{n^{h}_{i}}{N}$$, la part des détenus de type $$ h $$ détenus dans $$i$$ parmi tous les détenus.
  
- Terminons par rappelons trois des autres définitions séculaires de la statistique descriptive, à savoir, la médiane, le minium et le maximum  reprise dans les documents du conseil de l'Europe : 
+Terminons par rappeler trois des autres définitions séculaires de la statistique descriptive. 
+
+>la médiane 
+
+>le minium 
+
+>le maximum  
  
  
- En l'espèce, nous supposons donc qu'au sein des $$I$$ prisons fédérales du pays, il y a
 
-- $$ N = \sum_{I} n_{i} $$ détenus pour
-
-- $$ \Xi = \sum_{I} \xi_{i} $$ lits et 
-
-- $$ G = \sum_{I} g_{i} $$ intervenants salariés.
 
  
 
