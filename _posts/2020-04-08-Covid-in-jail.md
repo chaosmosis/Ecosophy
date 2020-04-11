@@ -94,7 +94,7 @@ On dira que nous assistons à  un phénomène de "surpopulation" au sein d'une p
 
 Avant de s'embarquer dans une modélisation des phénomènes de surpopulation, définissons dans un premier temps une série d'indicateurs supplémentaires qui nous permettront de comparer les prisons entres elles, en termes de $$\xi_{i}$$, $$g_{i}$$  et $$n_{i}$$.
 
-A cette fin, notons notamment que la moyenne de détenu dans une des $$I$$ prisons peut être définie de la manière suivante :
+A cette fin, notons notamment que la moyenne de détenu dans une des $$I$$ prisons peut être défini de la manière suivante :
  
  <div style="text-align: center">
  $$ \overline{N} = \frac{ \sum_{I} n_{i} }{ I }$$ 
@@ -106,13 +106,14 @@ De même, symbolisons la capacité de détention moyenne d'une prison sur le ter
  $$\overline{\Xi} = \frac{ \sum_{I} \xi_{i} }{ G }$$
   </div>
  
-Dans la foulée, identifion à  par $$\overline{G}$$ le nombre moyen de personnels au sein d'une prison $$i$$. Autrement dit :
+Dans la foulée, identifions à  $$\overline{G}$$ le nombre moyen de personnels au sein d'une prison. Autrement dit :
 
   <div style="text-align: center">
 $$\overline{G} \equiv \frac{ \sum_{I} G_{i} }{ G }$$
   </div>
   
 Enfin, sachant qu'au cours de l'analyse descritive, afin de faire parler au mieux les données de l'administration pénitentiaire, nous distinguerons les détenus par selon, au moins quatre types, il va nous être utile de désigner par : 
+
  - $$n^{h}_{i}$$, le nombre de détenus de type $$ h $$ détenu dans $$ i $$
  - $$\pi_{i} = \frac{\sum_{H}n^{h}_{i}}{N} = \frac{n_i}{N}$$, le part des détenus détenus dans $$i$$ parmi tous les détenus
  - $$\pi^{h}_{i}= \frac{n^{h}_{i}}{n_i}$$, le pourcentage de détenus de type $$ h $$ détenus parmi les détenus détenus dans $$i$$
@@ -121,11 +122,11 @@ Enfin, sachant qu'au cours de l'analyse descritive, afin de faire parler au mieu
  
 Terminons par rappeler trois des autres définitions séculaires de la statistique descriptive. 
 
->la médiane 
+> *la médiane*
 
->le minium 
+> *le minimum*
 
->le maximum  
+> *le maximum*
  
  
 
@@ -300,4 +301,4 @@ Ainsi, d'après ces statistiques, seuls sept prisons avaient, au début du mois 
 
 <b id="f6">6</b> S'il y a bien une leçon du confinement instaurée en Belgique que l'on peut tirer maintenant , c'est bien le fait que la société civile a un rôle moteur dans la production de connaissances. En effet, cela surprendra probablement certaines d'entre nous - étant donné, notamment,  le régime en place dans les prisons à l'heure actuelle : surpopulation, suppressions des visites, défaut d'approvisionnement de certaines cantines- mais les associations informelles et non -gouvernementales redeviennent quasi les seules sources d'informations de premières mains - et différentes de celles provenant de l'administration pénitentiaire- relatives aux lieux de détentions et aux détenu.e.s au sein de ceux-là.[↩](#a6)
 
-<b id="f7">7</b> Les différentes mesures misent en place dans les prisons ont été présentée aux députés et députées fédérales du Royaume le 8 avril 2020 : https://www.youtube.com/watch?v=CdreDHFtRcw [↩](#a7)
+<b id="f7">7</b> Les différentes mesures misent en place dans les prisons ont été présenté aux députés et députées fédérales du Royaume le 8 avril 2020 : https://www.youtube.com/watch?v=CdreDHFtRcw [↩](#a7)
