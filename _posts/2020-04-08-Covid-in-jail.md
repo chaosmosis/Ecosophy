@@ -20,7 +20,7 @@ En effet, outillés de ces notations pour l'analyse du nombre de détenus par pr
 
 Nous illustrerons avec la Prison-le-leuze les problèmes que semblent poser, au sein de cette prison, une concentration de détenus et une distribution des personnels hérités d'une politique pénitentiaire actuarielle et, quoiqu'en disent les autorités en charge actuellement, structurellement inhumaine.
  
-Ainsi, dans un cinquième et dernier temps, et en guise de conclusion, nous terminerons par interroger,  à l'aune des données que nous avons réussi à récolter et présentés aux temps précédents, "le plan judiciaire à l'heure du corona virus" que le Ministre de la Justice, Koen Geens, a soumis à la chambre de députés au mois d'avril 2020.
+Ainsi, dans un cinquième et dernier temps, et en guise de conclusion, nous terminerons par interroger,  à l'aune des données que nous avons réussi à récolter et présentés aux temps précédents, "le Plan Judiciaire" que le Ministre de la Justice, Koen Geens, a soumis à la Chambre des Représentants le 8 Avril 2020.
 
 
 
@@ -67,6 +67,10 @@ Comme on le comprend, selon la typologie dont use l'administration pénitentiair
  
 
 #### quelques symbolisations et définitions
+
+Nous cherchons ici définir quelques uns des élements qui nous semblent les plus pertinent pour reconstruire la cohérence que les donnés fournies par l'administration sont supposées traduire dans le chef de autorités. 
+
+A cet égard, en prmeière analyse,  il m'a sembé qu'une des manières d'approcher un grand nombres des aspect de cette cohérence était de supposer la co-existence de trois élements distincts mais néanmoins insépérables les uns des autres : les détenus, leurs lieux de vie, et ceux et celles en charges de l'administration des détenus.
 
 Désignons par $i$ l'une des $I$ prisons du Royaume et par $$ n_i $$, le nombre de détenus au sein de la prison $$i$$. 
 
@@ -296,8 +300,7 @@ Ainsi, d'après ces statistiques, seuls sept prisons avaient, au début du mois 
 
 <b id="f4">4</b> Le guide du Prisonnier en Belgique, sous la dir. de Marie-aude Beernaert, Philipppe Mary et Marc Nève, éditions Luc Pire, 2016, p.33[↩](#a4)
 
-
-<b id="f4">5</b> Ficher, I., Guillain, C., « Du difficile équilibre entre le respect des droits fondamentaux des détenus et le droit à l’action collective des agents pénitentiaires » in Droit de grève : actualités et questions choisies, Bruxelles, Éditions Larcier, 2015, p. 87-124[↩](#a5)
+<b id="f5">5</b> Ficher, I., Guillain, C., « Du difficile équilibre entre le respect des droits fondamentaux des détenus et le droit à l’action collective des agents pénitentiaires » in Droit de grève : actualités et questions choisies, Bruxelles, Éditions Larcier, 2015, p. 87-124[↩](#a5)
 
 <b id="f6">6</b> S'il y a bien une leçon du confinement instaurée en Belgique que l'on peut tirer maintenant , c'est bien le fait que la société civile a un rôle moteur dans la production de connaissances. En effet, cela surprendra probablement certaines d'entre nous - étant donné, notamment,  le régime en place dans les prisons à l'heure actuelle : surpopulation, suppressions des visites, défaut d'approvisionnement de certaines cantines- mais les associations informelles et non -gouvernementales redeviennent quasi les seules sources d'informations de premières mains - et différentes de celles provenant de l'administration pénitentiaire- relatives aux lieux de détentions et aux détenu.e.s au sein de ceux-là.[↩](#a6)
 
