@@ -45,17 +45,17 @@ rownames(prison)
 
 > "Aucune personne ne peut être administrée ou retenu dans une prison en qualité de détenu sans une ordonnance d'incarcération valable, conformément au droit interne"
 
-Alors que cet extrait de la Recommandation Européenne sur les Règles Pénitentiaires est clair quant à la naissance de la "qualité de détenu" au sein d'une prison et au sein des pays membres du conseil de l'Europe, nous restons sur notre fin quant à savoir ce qu'est un détenu du point de vue de ce règlement. 
+Alors que cet extrait de la Recommandation Européenne sur les Règles Pénitentiaires est clair quant à la naissance de la "qualité de détenu" au sein d'une prison et au sein des pays membres du conseil de l'Europe, nous restons sur notre faim quant à savoir ce qu'est un détenu du point de vue de ce règlement. 
 
 A tout le moins, on comprend néanmoins que le nombre de personnes détenues au sein d'un système carcérale donnée devraient dépendre directement du travail opéré par un autorité territoriale et pyramidale. 
 
-En Belgique, l'article  12 de la Constitution, 3ème alinéa, n'est pas plus clair sur ce qui fait le détenu  mais nous permet de qualifier une partie de ce pouvoir territoriale et structurer de manière pyramidale en la personne du juge :
+En Belgique, l'article  12 de la Constitution, 3ème alinéa, n'est pas plus clair sur ce qui fait le détenu  mais nous permet de qualifier l'un des pillier de ce pouvoir territoriale et structurer de manière pyramidale en la personne du "juge" :
 
 > "Nul ne peut être arrêté qu'en vertu de l'ordonnance motivée du juge"
 
-En définitive, comme on peut le lire dans le Guide du Prisonnier en Belgique, on comprend vite qu'*"Une décision judiciaire(ordonnance de mise en détention préventive, jugement, etc.) est toujours nécessaire"*<sup id="a0">[0](#f0)</sup> pour être considéré comme un détenu en prison mais on reste toujours sans définition du détenu en tant que tel.
+En définitive, comme on peut le lire dans le Guide du Prisonnier en Belgique, on comprend vite qu'*"Une décision judiciaire(ordonnance de mise en détention préventive, jugement, etc.) est toujours nécessaire"*<sup id="a0">[0](#f0)</sup> pour être considéré comme un détenu en prison.
 
-Les tableaux statistiques distribués par le ministère public témoignent quant à eux des différents statuts attribués aux individus qui peuplent les prison du Royaume de Belgique. Quoique sommaires, ces documents traduisent sans conteste un attachement certains, de la part des directeurs de prisons, aux différences de statuts des détenus mais aussi d'une partie de la réalité à laquelle sont confrontés ces derniers, notamment lorsque l'on considères les différents personnels qui travaillent au jour le jour au sein de ces prisons.
+Les tableaux statistiques distribués par le ministère public témoignent quant à eux des différents statuts attribués aux individus qui peuplent les prison du Royaume de Belgique. 
 
 Au regard de ces seuls classements, si on s'intéresse premièrement aux "détenus", il semble exister, dans le chef des autorités responsables des statistiques relatives aux détenus,  au moins huit types de détenus possibles : 
 
