@@ -41,13 +41,50 @@ rownames(prison)
 
 ## Notations pour les Prisons
 
-Il existe très probablement \textit{un seuil} à partir duquel un bon père de famille décide de s'inscrire dans un devenir de bandit. Par bon père de famille j'entends, un légaliste, par Bandit, j'entends la figure du Bandit social d'Hobsbawn.
+### N'est pas détenu qui veut. 
 
-C'est la question du moment d'une décision radicale qui vous passer d'une forme de vie à une autre, celle qui transforme votre être en tant qu'être.
+
+Au sein des pays membres du conseil de l'Europe, le nombre de personnes détenues au sein d'un système carcérale devraient dépendre directement du travail opéré d'un démarche juridique singulière.
+
+> "Aucune personne ne peut être administrée ou retenu dans une prison en qualité de détenu sans une ordonnance d'incarcération valable, conformément au droit interne"
+
+Cet extrait de la Recommandation Européenne sur les Règles Pénitentiaires est clair, il faut l'aval d'une autorité publique pour être qualifié de détenu. à tout le moins, afin d'avoir le titre de détenu en prison. 
+
+En Belgique, comme le veut l'article  12 de la Constitution, 3ème alinéa :
+
+> "Nul ne peut être arrêté qu'en vertu de l'ordonnance motivée du juge"
+
+Ainsi, comme on peut le lire dans le Guide du Prisonnier en Belgique, on comprend vite qu'*"Une décision judiciaire(ordonnance de mise en détention préventive, jugement, etc.) est toujours nécessaire"*<sup id="a0">[0](#f0)</sup> pour être considéré comme un détenu en prison.
+
+#### Les facteurs influencantles nombres des détenus
+
+Dés lors, même s'il existe très probablement *un seuil* , comme le pense la théorie du choix rationnel, à partir duquel un agent économique - diligent et pro-actif- décide de s'inscrire dans un devenir de détenu, on voit bien que la réalité dans laquelle la décision sera prise implique que la décision n'appartient pas directement, ou en tout cas uniquement aux choix de d'un individu.
+
+Les outils de la théorie des jeux peuvent nous aider à démontrer rapidement que quand bien même le crime résulterait d'un choix, ce choix n'en est pas la résultant d'un processus interactif entre l'individu et ce qui l'entoure.
+
+
+Pour ce faire, l'instar de ce qui se fait dans la théorie du choix rationnel lorsqu'il s'agit d'appréhender des agents économiques, il s'agit de prendre en compte l'état de joie, ou de félicité, que les agents ressentent dans différents contextes. 
+
+Imaginons un  jeu. Dans celui-ci, la configuration des paiemens associté à chacun aux états du monde possibles est telle qu'elle implique une dépendance claire des choix de devenir de chacun des acteurs.  Prenons le jeu bien connu des économistes de la bataille des sexes. Dans celui-ci, il existe on dit géénralement qu'il *existe deux équilibres de Nash en stratégie pure*
+
+Dans l'un, on pourrait dire que on a affaire à une situation de banditisme généralisé ù la société a décide de ne plus sataisfaire les prérequis de l'état de droit et où l'individu lui aussi à décidé de ne plus suivre les règles.  En réalité sont choix et tout à fait dépendant du choix de son "adversaire" dans le jeu considéré.  
+
+EN effet, si la socité venait à changer de startégie et à faire respecter l'état de droit, l'agent  économique trouverait plus rationnel de s'incrire désormais dans  un devenir légaliste. De même que la théoie des jeux a permis de mettre à genoux la théorie de la concurrence parfaire en sciences économiques, elle a, outillé d'une réprésentation *à la becker* des individus, le mérite de rompre le coup à l'idée selon laquelle, logiquement, on est soit criminel ou non criminel lorsque l'on a a décidé de sa vie.
+
+
+
+Les tableaux statistiques distribués par le ministère public témoignent des différents statuts attribués aux individus qui peulples les prison du Royaume de Belgique. Quoique sommaires, ces documents traduisent sans conteste un attachement certains, de la part des directeurs de prisons, aux différences de statuts des détenus mais aussi d'une partie de la réalité auquelle sont confrontés ces derniers.
+
+Au regard de ces seuls classements, il semble exister dans le chefs des autorités responsables des statsitques relatives aux détenus au moins huit types de détenus possibles. En effet, via ces documents on comprend que 
+
+1. Alors qu'il sera ou détenu ou prévenu ou condamné ou encore mis à disposition du tribunal de l'application des peines.
+2. Le détenu sera soit de genre Masculin, soit de genre Féminin. 
+
+Ainsi, selon la typologie dont use l'administration pénitentiaire en général,  il existe bien potentiellement huit manières différentes d'appréhender les détenus au sein d'une prison.
 
 $$\begin{tabular}{|c|c|c|} u_1 & \Rightarrow & u_2 \\ \end{tabular} \end{center} $$
 
-Les outils de la théorie des jeux peuvent nous aider à décrire le processus, à tout le moins de discuter, par lequel un individu devient détenu. Pour ce faire, l'instar de ce qui se fait dans la théorie du choix rationnel lrosqu'il s'agit d'appréhender des agents économiques, il s'agira de prendre en compte l'état de joie, ou de félicité, que les agents ressentent dans différents contextes. 
+
 
 Ces outils nous permettent de penser l'acuqisition du titre de détenus dans termes, quoique provicateurs, qui n'en sont pas moins évocateurs de la manière dont la politique carcérale est menée aujourd'hui. 
 
@@ -60,30 +97,13 @@ Imaginons que le fait de choisir le devenir bandit ou le devenir légaliste est 
 
 Par tourmenté j'entends qu'il a l'impression qu'il joue un jeu avec la société et où la société, elle même oscillent entre un devenir légaliste et un devenir bandit. 
 
-Ici, nous avons une situation décrite à la manière d'une interaction stratégique. Ils existe plusieurs jeux possibles.  On connait celui du dilemen du prisonnier, celui de la bataille des sexes, etc...
-
-On définit un jeu à l'aide de trois éléments : le nombre de joueur, le nombre et le type  de stratégie de chaque joueur et le paiement en terme de joie associé à chacun des états du monde pour chacun des joueurs (\textit{i.e.} : \texti{a,b} où \textit{a} et \textit{b} représente respectivement le paiement en terme de joie pour l'acteur tourmenté et la société lorsque ceux-ci ont en leurs for intérieur décidé de s'inscrire dans un devenir bandit.)
-
-Quand donc nous inscrivont nous dans un devenir Bandit ? quand donc,  les désirs des citoyens convergent-ils, élisent-ils, construisent-ils, rejoignent-t-il une situation de Banditisme Généralisé? La théorie des jeux nous dira qu'il est possible que cette situation découle d'un jeu stratégique entre la société et un individu donné.
-
-
-Nous allons donc imaginer que choisir un devenir bandit pour un individu donné est une décision qui se construit à l'instar d'un jeu entre un individu et la société qui l'héberge et l'habite. Etudier ce décisions de sécession à l'authorité des lois, au devenir bandits revient à se posser la question du pourquoi décidons nous parfois de devenir "hors-système"? Pourquoi décidons nous de frauder l'impôt ? Pourquoi décidons nous de nous ballader nus dans la rue un lundi matin ? pourquoi décidons nous de voler le grain des banques ?
-
-
-Imaginons que la structure des paiements de ce jeux soit celle propre à un \textit{dilemme du prisonnier} dans laquelle le devenir bandit est une stratégie dominante tant pour la société que pour l'individu. 
-
-On dira : le paiement de l'acteur associé à l'état  où tant la société que l'individu  agissent en bandit - état du monde que nous appellerons situation de  banditisme généralisé,  est un équilibre de Nash en stratégie pure pour deux raisons: L'individu préfère strictement le banditisme généralisé  à l'état du monde où il la société s'inscrit dans un devenir bandit et où, lui seul, décide d'être un légaliste. Autrement dit, nous faisons l'hypothèse avec la structure des paiements est telle que l'individu ne souhaite pas devenir le dindon de la farce. (*i.e.* : $$a>e$$). 
-
-De même, pour que cet équilibre de Nash soit un équilibre de de Nash stricte, nous dirons que $$ c>g$$. Autrement dit, avec ce jeu, nous faisons l'hypothèse que l'individu préfère une situation où il est bandit et la société légaliste à la situation où tant la société que lui même agissent en bon père de famille. Ici, en faisant, l'hypothèse que le jeu est un dilemme du prisonnier entre la société et un individu, où l'un et l'autre préfère s'inscrire dans un devenir bandit sans égard pour ce que fait son voisin (\textit{i.e}: $$a>e$$; $$c>g$$; $$b>d$$; $$f>h$$) , l’avènement d'une situation où tout le monde agit en bon père de famille est tout simplement impossible.  Tout les acteurs du jeu ont intérêt à choisit le devenir Bandit. Sans cela, nous disons avec les outils propre à la théorie des jeux que personne n'a intérêt à choisir un autre devenir. Faire cela conduira les joueur à obtenir des paiements strictement inférieur à la situation de banditisme généralisé. On dira, qu'il n'y pas d'intérêt à dévier.
 
 
 $$\begin{center}\begin{tabular}{|c|c|c|}\hline & \textit{Bandit}    & \textit{bon Père de famille} \\ \hline \textit{Bandit} & \textit{a,b}    &  \textit{c,d} \\ \hline \textit{P} & \textit{e,f}  & \textit{g,h}\\ \hline \end{tabular} \end{center}$$
 
 Dans une telle situation, il est rationnel d'élire le devenir bandit diront les théoriciens des jeux. Évidemment, cette configuration des paiements est tout à fait arbitraire. Elle n'est pas la seule configuration possible qui permette l’avènement du banditisme généralisé.
 
-Imaginons un autre jeu. Dans celui-ci, la configuration des paiemens associté à chacun aux états du monde possibles est telle qu'elle implique une dépendance claire des choix de devenir de chacun des acteurs.  Prenons le cas de la bataille des sexes. Dans celui-ci, il existe deux équilibres de Nash en stratégie pure. 
 
-On dira que le banditisme généralisé et celui de société pacifiée sont deux équilibres possibles vers lesquels les intérêts des joueurs peuvent converger.  Avec les outils présents, il est impossible de prédire le type de monde qui risque d'émerger.
 
 Supposons qu'il existe un nombre déterminé de prisons (e.g $$ I \in \mathbf{R} $$) sur un terrtoire. Désignons par $i$ l'une des $I$ prisons de ce territoire et par $$ n_i $$, le nombre de détenus au sein de la prison $$i$$.
 
@@ -119,17 +139,6 @@ Ayant à l'esprit les notation précédentes, au cours de cette analyse nous dé
 
 ### Analyse descriptive des données relatives aux nombres des détenus en Prison
 
-Au sein des pays membres du conseil de l'Europe, le nombre de personnes détenues au sein d'un système carcérale devraient dépendre directement du travail opéré par le pouvoir judiciaire. N'est pas détenu qui veut.
-
-> "Aucune personne ne peut être administrée ou retenu dans une prison en qualité de détenu sans une ordonnance d'incarcération valable, conformément au droit interne"
-
-Cet extrait de la Recommandation Européenne sur les Règles Pénitentiaires est clair, il faut l'aval d'une autorité publique pour être qualifié de détenu en prison. 
-
-En Belgique, comme le veut l'article  12 de la Constitution, 3ème alinéa :
-
-> "Nul ne peut être arrêté qu'en vertu de l'ordonnance motivée du juge"
-
-Ainsi, comme on peut le lire dans le Guide du Prisonnier en Belgique, *"Une décision judiciaire(ordonnance de mise en détention préventive, jugement, etc.) est toujours nécessaire"*<sup id="a0">[0](#f0)</sup> pour être considéré comme un détenu en prison.
 
 
 ### Les détenus au sein des prisons
@@ -178,14 +187,7 @@ Nous reviendrons plus loins sur les personnes détenues hors-les-murs des établ
 
 ### Descrition des types de détenus au sein des pénitenciers
 
-Les tableaux statistiques distribués par le ministère public témoignent des différents statuts attribués à ces détenus. Quoique sommaire, ces documents traduisent sans conteste unn  attachement certains aux différences de statuts de la part des directeurs de prisons mais aussi une partie de la réalité des détenus.
 
-Au regard de ces seuls classements, il semble exister dans le chefs des autorités responsables des statsitques relatives aux détenus au moins huit types de détenus possibles. En effet, via ces documents on comprend que 
-
-1. Alors qu'il sera ou détenu ou prévenu ou condamné ou encore mis à disposition du tribunal de l'application des peines.
-2. Le détenu sera soit de genre Masculin, soit de genre Féminin. 
-
-Ainsi, selon la typologie dont use l'administration pénitentiaire en général,  il existe bien potentiellement huit manières différentes d'appréhender les détenus au sein d'une prison.
 
 Sans égard pour l'instant relativement à la question du genre, nous avons représenté dans le graphique suivant les parts respectives des différents types de détenus au sein des prisons qui relèvent du champs de compétence du ministre de la Justice, $$\Pi^{h} = \frac{\sum_{I}n^{h}_{i}}{N}$$. 
 
