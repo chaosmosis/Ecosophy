@@ -97,6 +97,8 @@ A cette fin, notons notamment que la moyenne de détenu dans une des $$I$$ priso
  
 Ayant à l'esprit les notation précédentes, qu'au cours de cette analyse nous désignerons par 
  
+ - $$\overline{\Xi} = \frac{ \sum_{I} \xi_{i} }{ G }$$, le capacité de détention moyenne de $$i$$
+ - $$\overline{G} = \frac{ \sum_{I} G_{i} }{ G }$$, le nombre de personnel moyen dans $$i$$
  - $$n^{h}_{i}$$, le nombre de détenus de type $$ h $$ détenu dans $$ i $$
  - $$\pi_{i} = \frac{\sum_{H}n^{h}_{i}}{N} = \frac{n_i}{N}$$, le part des détenus détenus dans $$i$$ parmis tous les détenus
  - $$\pi^{h}_{i}= \frac{n^{h}_{i}}{n_i}$$, le pourcentage de détenus de type $$ h $$ détenus parmis les détenus détenus dans $$i$$
