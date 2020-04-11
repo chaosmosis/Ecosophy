@@ -56,22 +56,6 @@ En Belgique, comme le veut l'article  12 de la Constitution, 3ème alinéa :
 
 Ainsi, comme on peut le lire dans le Guide du Prisonnier en Belgique, on comprend vite qu'*"Une décision judiciaire(ordonnance de mise en détention préventive, jugement, etc.) est toujours nécessaire"*<sup id="a0">[0](#f0)</sup> pour être considéré comme un détenu en prison.
 
-#### Les facteurs influencantles nombres des détenus
-
-Dés lors, même s'il existe très probablement *un seuil* , comme le pense la théorie du choix rationnel, à partir duquel un agent économique - diligent et pro-actif- décide de s'inscrire dans un devenir de détenu, on voit bien que la réalité dans laquelle la décision sera prise implique que la décision n'appartient pas directement, ou en tout cas uniquement aux choix de d'un individu.
-
-Les outils de la théorie des jeux peuvent nous aider à démontrer rapidement que quand bien même le crime résulterait d'un choix, ce choix n'en est pas la résultant d'un processus interactif entre l'individu et ce qui l'entoure.
-
-
-Pour ce faire, l'instar de ce qui se fait dans la théorie du choix rationnel lorsqu'il s'agit d'appréhender des agents économiques, il s'agit de prendre en compte l'état de joie, ou de félicité, que les agents ressentent dans différents contextes. 
-
-Imaginons un  jeu. Dans celui-ci, la configuration des paiemens associté à chacun aux états du monde possibles est telle qu'elle implique une dépendance claire des choix de devenir de chacun des acteurs.  Prenons le jeu bien connu des économistes de la bataille des sexes. Dans celui-ci, il existe on dit géénralement qu'il *existe deux équilibres de Nash en stratégie pure*
-
-Dans l'un, on pourrait dire que on a affaire à une situation de banditisme généralisé ù la société a décide de ne plus sataisfaire les prérequis de l'état de droit et où l'individu lui aussi à décidé de ne plus suivre les règles.  En réalité sont choix et tout à fait dépendant du choix de son "adversaire" dans le jeu considéré.  
-
-EN effet, si la socité venait à changer de startégie et à faire respecter l'état de droit, l'agent  économique trouverait plus rationnel de s'incrire désormais dans  un devenir légaliste. De même que la théoie des jeux a permis de mettre à genoux la théorie de la concurrence parfaire en sciences économiques, elle a, outillé d'une réprésentation *à la becker* des individus, le mérite de rompre le coup à l'idée selon laquelle, logiquement, on est soit criminel ou non criminel lorsque l'on a a décidé de sa vie.
-
-
 
 Les tableaux statistiques distribués par le ministère public témoignent des différents statuts attribués aux individus qui peulples les prison du Royaume de Belgique. Quoique sommaires, ces documents traduisent sans conteste un attachement certains, de la part des directeurs de prisons, aux différences de statuts des détenus mais aussi d'une partie de la réalité auquelle sont confrontés ces derniers.
 
@@ -82,34 +66,19 @@ Au regard de ces seuls classements, il semble exister dans le chefs des autorit�
 
 Ainsi, selon la typologie dont use l'administration pénitentiaire en général,  il existe bien potentiellement huit manières différentes d'appréhender les détenus au sein d'une prison.
 
-$$\begin{tabular}{|c|c|c|} u_1 & \Rightarrow & u_2 \\ \end{tabular} \end{center} $$
 
+#### quelques définitions
 
+Désignons par $i$ l'une des $I$ prisons du Royaume et par $$ n_i $$, le nombre de détenus au sein de la prison $$i$$.
+Si il existe un nombre déterminé de prisons, disons $$I$$ (e.g $$ I \in \mathbf{R} $$), sur un terrtoire, le nombre total de détenus au sein des prison peut être défini comme la somme du nombre de détenus *au sein* de $$i$$, autrement dit :
 
-Ces outils nous permettent de penser l'acuqisition du titre de détenus dans termes, quoique provicateurs, qui n'en sont pas moins évocateurs de la manière dont la politique carcérale est menée aujourd'hui. 
+$$ N = \sum_{I} n_{i} $$ 
 
-En effet, alors que la théorie du choix rationnele raisson en termes de choix entre des états de monde possibles, où l'ensemble des mondes possibles est donnée par ce qu'on appelle comunément le modélisateur, la manière dont les politiques appréhendent et ont appréhender les politqiues carcérale s'est, dans leurs majorité soldé par une vision du type de celle de l'école de chicago. 
-Selon cette vision, le crime et partant, le statut de détenu est, in fine, une affaire de choix. 
+Supposons que chaque prison $$i$$ a une "capacité théorique", ci-après dénotée $$ \xi_i $$. En procédent de manière similaire que pour le  nombre de détenus, désignons la capacité totale de détention du système carcérale par $$ \Xi $$ et  posons :
 
-Ainsi, il sera courant de faire l'hypothèse que ce qu'on appelle communément le joueur $$1$$ est en réalité un individu  exepté qu'il est tourmenter par le fait de devenir bandir ou de devenir un bon père de Famille. Pour cette théorie, * poussée dans ses limites*, acquérir le statut de détenu est le choix de vie, un choi rationnel, autrement dit, réflexif et complet. Si on le simplifie à l'extrême ce choix, cela revient à dire qu'un détenu a son arc deux stratégie possible un jour où l'autres : soit devenir Bandit, soit Travailler comme monsieur et madame tout-le-monde.
+$$ \Xi \equiv \sum_{I} \xi_{i} $$ 
 
-Imaginons que le fait de choisir le devenir bandit ou le devenir légaliste est le fait d'un jeu en interaction stratégique avec ce que l'on pourrait appeler la société. 
-
-Par tourmenté j'entends qu'il a l'impression qu'il joue un jeu avec la société et où la société, elle même oscillent entre un devenir légaliste et un devenir bandit. 
-
-
-
-$$\begin{center}\begin{tabular}{|c|c|c|}\hline & \textit{Bandit}    & \textit{bon Père de famille} \\ \hline \textit{Bandit} & \textit{a,b}    &  \textit{c,d} \\ \hline \textit{P} & \textit{e,f}  & \textit{g,h}\\ \hline \end{tabular} \end{center}$$
-
-Dans une telle situation, il est rationnel d'élire le devenir bandit diront les théoriciens des jeux. Évidemment, cette configuration des paiements est tout à fait arbitraire. Elle n'est pas la seule configuration possible qui permette l’avènement du banditisme généralisé.
-
-
-
-Supposons qu'il existe un nombre déterminé de prisons (e.g $$ I \in \mathbf{R} $$) sur un terrtoire. Désignons par $i$ l'une des $I$ prisons de ce territoire et par $$ n_i $$, le nombre de détenus au sein de la prison $$i$$.
-
-Supposons que chaque prison $$i$$ a une "capacité théorique", ci-après dénotée $$ \xi_i $$. Nommons le nombre total de détenus au sein du système carcéral belge par $$ N $$ et la capacité totale de détention du système carcérale par $$ \Xi $$. 
-
-Enfin, désignons par $$g_i$$ le nombre de salariés travaillant au sein de la prison $$i$$ et par $$G$$ le nombre total de salariés oeuvrant à la reproduction des tâches journalières auquelles sont confronté les membres du système carcérale fédéral.
+Enfin, désignons par $$g_i$$ le nombre de salariés travaillant au sein de la prison $$i$$ et, dans la foulée des définition précdente, désignons par $$G$$ le nombre total de salariés oeuvrant à la reproduction des tâches journalières auquelles sont confronté les membres du système carcérale fédéral.
 
 En l'espèce, nous dirons donc qu'au sein des $$I$$ prisons fédérales du pays, il y a
 
