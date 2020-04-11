@@ -43,27 +43,26 @@ rownames(prison)
 
 ### N'est pas détenu qui veut. 
 
-
-Au sein des pays membres du conseil de l'Europe, le nombre de personnes détenues au sein d'un système carcérale devraient dépendre directement du travail opéré d'un démarche juridique singulière.
-
 > "Aucune personne ne peut être administrée ou retenu dans une prison en qualité de détenu sans une ordonnance d'incarcération valable, conformément au droit interne"
 
-Cet extrait de la Recommandation Européenne sur les Règles Pénitentiaires est clair, il faut l'aval d'une autorité publique pour être qualifié de détenu. à tout le moins, afin d'avoir le titre de détenu en prison. 
+Alors que cet extrait de la Recommandation Européenne sur les Règles Pénitentiaires est clair quant à la naissance de la "qualité de détenu" au sein d'une prison et au sein des pays membres du conseil de l'Europe, nous restons sur notre fin quant à savoir ce qu'est un détenu du point de vue de ce réglèment. 
 
-En Belgique, comme le veut l'article  12 de la Constitution, 3ème alinéa :
+A tout le moins, on comprend néanmoins que le nombre de personnes détenues au sein d'un système carcérale donnée devraient dépendre directement du travail opéré par un autorité territoriale et pyramidale. 
+
+En Belgique, l'article  12 de la Constitution, 3ème alinéa, n'est pas plus clair sur ce qui fait le détenu  mais nous permet de qualifier une partie de ce pouvoir territirale et strcuturer de manière pyramidale en la personne du juge :
 
 > "Nul ne peut être arrêté qu'en vertu de l'ordonnance motivée du juge"
 
-Ainsi, comme on peut le lire dans le Guide du Prisonnier en Belgique, on comprend vite qu'*"Une décision judiciaire(ordonnance de mise en détention préventive, jugement, etc.) est toujours nécessaire"*<sup id="a0">[0](#f0)</sup> pour être considéré comme un détenu en prison.
+En défintive, comme on peut le lire dans le Guide du Prisonnier en Belgique, on comprend vite qu'*"Une décision judiciaire(ordonnance de mise en détention préventive, jugement, etc.) est toujours nécessaire"*<sup id="a0">[0](#f0)</sup> pour être considéré comme un détenu en prison mais on reste toujours sans définition du détenu en tant que tel.
 
-Les tableaux statistiques distribués par le ministère public témoignent des différents statuts attribués aux individus qui peulples les prison du Royaume de Belgique. Quoique sommaires, ces documents traduisent sans conteste un attachement certains, de la part des directeurs de prisons, aux différences de statuts des détenus mais aussi d'une partie de la réalité auquelle sont confrontés ces derniers.
+Les tableaux statistiques distribués par le ministère public témoignent quant à eux des différents statuts attribués aux individus qui peulples les prison du Royaume de Belgique. Quoique sommaires, ces documents traduisent sans conteste un attachement certains, de la part des directeurs de prisons, aux différences de statuts des détenus mais aussi d'une partie de la réalité auquelle sont confrontés ces derniers, notamment lorsque l'on considères les différents personnels qui travaillent au jour le jour au sein de ces prisons.
 
-Au regard de ces seuls classements, il semble exister dans le chefs des autorités responsables des statsitques relatives aux détenus au moins huit types de détenus possibles. En effet, via ces documents on comprend que 
+Au regard de ces seuls classements, si on s'intéresse premiièrement aux "détenus", il semble exister, dans le chef des autorités responsables des statistques relatives aux détenus,  au moins huit types de détenus possibles : 
 
-1. Alors qu'il sera ou détenu ou prévenu ou condamné ou encore mis à disposition du tribunal de l'application des peines.
-2. Le détenu sera soit de genre Masculin, soit de genre Féminin. 
+1. Alors qu'il sera ou interné ou prévenu ou condamné ou encore mis à disposition du tribunal de l'application des peines,
+2. le détenu sera nécessairement  ou de genre Masculin ou de genre Féminin. 
 
-Ainsi, selon la typologie dont use l'administration pénitentiaire en général,  il existe bien potentiellement huit manières différentes d'appréhender les détenus au sein d'une prison.
+Comme on le comprend, selon la typologie dont use l'administration pénitentiaire en général,  il existe donc potentiellement huit manières différentes d'appréhender les détenus au sein d'une prison.
 
 
 #### quelques symbolisations et définitions
