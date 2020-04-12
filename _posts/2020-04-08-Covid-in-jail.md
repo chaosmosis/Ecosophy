@@ -343,5 +343,5 @@ Ainsi, d'après ces statistiques, seuls sept prisons avaient, au début du mois 
 [↩](#a8)
 
 <b id="f9">9</b>
-Il m'a été nécessaire, au vu de l'urgence, de remette à plus tard l'analyse du travail effectué par les détenus au sein du système carcéral. Autrement dit, lorsque nous parlerons du travail au sein des établissements pénitentiaires, nous  omettrons par simplicité les "travaux domestiques" et "travaux privés" des détenus dont l'offre doit être assurée par la régie du travail pénitentiaire. Notez bien que ce choix n'est en rien motivé par l'inutilité de cette problémetique afin de qualifié la "concentration des détenus" -tout du contraire, mais bien plutôt parce que ce point nécessiterait un travail à part. 
+Il m'a été nécessaire, au vu de l'urgence, de remette à plus tard l'analyse du travail effectué par les détenus au sein du système carcéral. Autrement dit, lorsque nous parlerons du travail au sein des établissements pénitentiaires, nous  omettrons par simplicité les "travaux domestiques" et 'travaux privés" des détenus qu'est sensé assuré la régie du travail pénitentiaire. Notez bien que ce choix n'est en rien motivé par l'inutilité de cette problémetique afin de qualifié la "concentration des détenus" -tout du contraire, mais bien plutôt parce que ce point nécessiterait un travail à part. 
 [↩](#a9)
