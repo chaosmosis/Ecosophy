@@ -41,6 +41,14 @@ rownames(prison)
 
 ## Notations pour les Prisons
 
+Tenter de délimiter un ensemble de concepts pour en tracer une évolution numérique est, assez paradoxalement, assez difficile en matière d'établissement. Non par la métamorphose radicale de la nature de l'objet de ceux-ci mais bien plutôt parce que la gestion de l'administration pénitentiaire semble s'être à la fois ouvert au monde, tout en ayant, en même, de l'intérieur, cherché à se conformer aux nouvelles formes et fonctions des peines engendrées par la réforme du code pénal de Dupont.
+
+Si on limite notre aperçu chronologique aux premières décades de ce millénaires, force est de constater que la direction général des établissements a changé son fusil d'épaule.  Notons le simple fait que l'administration pénitentiaire a rendu son premier rapport d'activités depuis quasi 10 ans en 2007. 
+
+Quoique cette DG comptabilise seulement 9 rapports d'activités sur 20 ans, notons bien que ceux-ci sont peuvent nous donner un succinct aperçu de l'organisation du travail et de "la distribution des détenus" au sein des prisons.<sup id="a8">[8](#f8)</sup> <sup id="a9">[9](#f9)</sup> 
+
+
+
 ### N'est pas détenu qui veut. 
 
 > "Aucune personne ne peut être administrée ou retenu dans une prison en qualité de détenu sans une ordonnance d'incarcération valable, conformément au droit interne"
@@ -214,7 +222,6 @@ Nous reviendrons plus loins sur les personnes détenues hors-les-murs des établ
 ### Description des types de détenus au sein des pénitenciers
 
 
-
 Sans égard pour l'instant relativement à la question du genre, nous avons représenté dans le graphique suivant les parts respectives des différents types de détenus au sein des prisons qui relèvent du champs de compétence du ministre de la Justice, $$\Pi^{h} = \frac{\sum_{I}n^{h}_{i}}{N}$$. 
 
 Comme on peut l'observer, au sein de ces prisons, au cours du mois d'avril 2020, la grande majorité des détenus sont soit prévenus, soit condamnés. 
@@ -331,3 +338,10 @@ Ainsi, d'après ces statistiques, seuls sept prisons avaient, au début du mois 
 <b id="f6">6</b> S'il y a bien une leçon du confinement instaurée en Belgique que l'on peut tirer maintenant , c'est bien le fait que la société civile a un rôle moteur dans la production de connaissances. En effet, cela surprendra probablement certaines d'entre nous - étant donné, notamment,  le régime en place dans les prisons à l'heure actuelle : surpopulation, suppressions des visites, défaut d'approvisionnement de certaines cantines- mais les associations informelles et non -gouvernementales redeviennent quasi les seules sources d'informations de premières mains - et différentes de celles provenant de l'administration pénitentiaire- relatives aux lieux de détentions et aux détenu.e.s au sein de ceux-là.[↩](#a6)
 
 <b id="f7">7</b> Les différentes mesures misent en place dans les prisons ont été présenté aux députés et députées fédérales du Royaume le 8 avril 2020 : https://www.youtube.com/watch?v=CdreDHFtRcw [↩](#a7)
+
+<b id="f8">8</b> * "Depuis 1999, la direction générale des établissements pénitentiaires n'avait plus publié de rapport annuel d'activités. Pourtant, un tel document est une source d'informations précieuse pour l'extérieur"* peut-on lire dans le rapport de 2007. Rapport D'activité de la Direction générale des établissements pénitentiaires SPF Justice"*
+[↩](#a8)
+
+<b id="f9">9</b>
+Il m'a été nécessaire, au vu de l'urgence, de remette à plus tard l'analyse du travail effectué par les détenus au sein du système carcéral. Autrement dit, lorsque nous parlerons du travail au sein des établissements pénitentiaires, nous  omettrons par simplicité les "travaux domestiques" et 'travaux privés" des détenus qu'est sensé assuré la régie du travail pénitentiaire. Notez bien que ce choix n'est en rien motivé par l'inutilité de cette problémetique afin de qualifié la "concentration des détenus" -tout du contraire, mais bien plutôt parce que ce point nécessiterait un travail à part. 
+[↩](#a9)
