@@ -21,9 +21,12 @@ En effet, outillés de ces notations pour l'analyse du nombre de détenus par pr
 Nous illustrerons avec la Prison-le-leuze les problèmes que semblent poser, au sein de cette prison, une concentration de détenus et une distribution des personnels hérités d'une politique pénitentiaire actuarielle et, quoiqu'en disent les autorités en charge actuellement, structurellement inhumaine.
  
 Ainsi, dans un cinquième et dernier temps, et en guise de conclusion, nous terminerons par interroger,  à l'aune des données que nous avons réussi à récolter et présentés aux temps précédents, "le Plan Judiciaire" que le Ministre de la Justice, Koen Geens, a soumis à la Chambre des Représentants le 8 Avril 2020.
+```{r echo=FALSE, results='asis'}
+library(knitr)
+kable(mtcars[,5],caption='aaa')
+```
 
-
-
+jij
 ```{r}
 
 prison <- read.csv("prison.csv", header = TRUE, sep = ";", dec =",")
@@ -132,9 +135,6 @@ Terminons par rappeler trois des autres définitions séculaires de la statistiq
 
 > *le maximum*
  
- 
-
-
  
 
 ### Analyse descriptive des données relatives aux nombres des détenus en Prison
