@@ -156,11 +156,11 @@ Ceci dit, on remarque que la répartition des détenus au sein des établissemen
 
 Le 6 mars 2020, il y avait 10836 personnes écrouées dans les 38 prisons dont s'occupe l'administration pénitentiaire. Parmi elles, 10344 hommes et 492 femmes. 48 % d'être elles étaient détenues au "Nord" du territoire alors que Bruxelles et le "Sud" du territoire accueillaient respectivement 1 % et 42 % des personnes écrouées.
 
-A cette même date, la moitié des détenus au sud du pays était écroué dans des prisons avec  au maximum 182 détenus. La population moyenne au sein 'une prison en belgique était de 226 détenus. A titre d'exemple, la prison de Lantin accueillait 867 hommes et 65 femmes. 
+A cette même date, la moitié des détenus au sud du pays était écroué dans des prisons avec  au maximum 182 détenus. La population moyenne au sein d'une prison en Belgique était de 226 détenus. Notons à ce titre le cas de la prison de Lantin. En effet, au vu des échelles précités, elle est "hors-norme" :  la prison de Lantin accueillait 867 hommes et 65 femmes le 6 mars 2020.
 
-Notons que cette asymétrie dans la distribution des détenus se reflète au différentes échelles territoriales considérées. En effet, alors que le nombre de détenus moyen au nord du pays est quasi équivalent  à la celui du sud et de Bruxelles, respectivement, 226 au nord, 229 au sud et 217 à Bruxelles, les médianes au sein de ces espaces  démontre une distribution des détenus homologue à celle que connait le territoire dans son ensemble.
+Notons que cette asymétrie dans la distribution des détenus se reflète aux différentes échelles territoriales considérées. Alors que le nombre de détenus moyen au nord du pays est quasi équivalent à la celui du sud et de Bruxelles, respectivement, à savoir 226 au nord, 229 au sud et 217 à Bruxelles, les médianes au sein de ces espaces démontrent des distributions de détenus homologues à celle que connait le territoire dans son ensemble. Dans les trois espaces considérés, la médiane est bien inférieur à la moyenne. 
 
-En effet,  dans les trois espaces considérés, la médiane est bien inférieur à la moyenne. Autrement dit,  en Flandre, la moitié des détenus vis dans dans prison avec un nombre d'occupant inférieur au nombres moyens de détenus, soit 179 au du pays,  au sud 197 et au centre, 91.
+Autrement dit, tant au "nord", qu'au "sud" et au "centre" du pays, la moitié des détenus vit dans dans prison avec un nombre d'occupant inférieur au nombres moyens de détenus, soit 179 au Nord, 197 au sud et 91 au centre.
 
 Enfin, si on s'intéresse à l'évolution du nombre de détenus pour chacune des prisons, en ventilant par le genre des résultats intéressant sont à mettre en exergue.
 
