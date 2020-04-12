@@ -21,12 +21,9 @@ En effet, outillés de ces notations pour l'analyse du nombre de détenus par pr
 Nous illustrerons avec la Prison-le-leuze les problèmes que semblent poser, au sein de cette prison, une concentration de détenus et une distribution des personnels hérités d'une politique pénitentiaire actuarielle et, quoiqu'en disent les autorités en charge actuellement, structurellement inhumaine.
  
 Ainsi, dans un cinquième et dernier temps, et en guise de conclusion, nous terminerons par interroger,  à l'aune des données que nous avons réussi à récolter et présentés aux temps précédents, "le Plan Judiciaire" que le Ministre de la Justice, Koen Geens, a soumis à la Chambre des Représentants le 8 Avril 2020.
-```{r echo=FALSE, results='asis'}
-library(knitr)
-kable(mtcars[,5],caption='aaa')
-```
 
-jij
+
+
 ```{r}
 
 prison <- read.csv("prison.csv", header = TRUE, sep = ";", dec =",")
@@ -143,7 +140,36 @@ Terminons par rappeler trois des autres définitions séculaires de la statistiq
 
 ### Les détenus au sein des prisons
 
-Comme on peut s'y attendre, le nombre de détenu dans une prison, ci-après $$n_i$$, varie énormément d'une prison à une autre. Les raison de ces variations est l'objet d'une littérature abondante sur la population des prisons. Littérature d'autant plus abondante en Belgique, que depuis la première visite du comité européen pour la prévention de la Torture en Belgique, ce pays n'a eu de cesse de se faire vilipendé par les organismes internationaux et nationaux.
+Comme on peut s'y attendre, le nombre de détenu dans une prison, ci-après $$n_i$$, varie énormément d'une prison à une autre. 
+
+Les rapports d'activité de 'administration pénitentiaires n'étant pas tous et toutes fournis en matériaux de même nature aux fils des années, qu'il est difficile de donner un aperçu longitudinale de l'état des populations au sein des prisons. 
+
+Cependant, avec l'aide des statistiques fournies aux CCSP par la Direction Générale de l'administration pénitentiaire on peut se faire une de l'évolution de la population  au quotidien.
+
+A cette échelle, il va sans dire que les variations du nombres total de détenus sont peut nombreuses, mais elles devraient néanmoins intéresser ceux et celles qui s'intéressent aux transferts des détenus entre les différents établissements pénitentiaires du territoire. Technique d'intimidation classique d'une administration pénitentiaire frustrée dans ses missions. 
+
+Notons bien que nous nous intéressons uniquement aux détenus considérés comme présents en les murs de la prison à un moment donnés dans le temps. Ce nombre ne reflète donc pas le nombre de détenus qui dépendent des établissement pénitentiaires. 
+
+#### avant la crise du coronavirus
+
+Ceci dit, on remarque que la répartition des détenus au sein des établissement pénitentiaires, du point de vue géographique n'est pas véritablement étonnante à première vue. 
+
+Le 6 mars 2020, il y avait 10836 personnes écrouées dans les 38 prisons dont s'occupe l'administration pénitentiaire. Parmi elles, 10344 hommes et 492 femmes. 48 % d'être elles étaient détenues au "Nord" du territoire alors que Bruxelles et le "Sud" du territoire accueillaient respectivement 1 % et 42 % des personnes écrouées.
+
+A cette même date, la moitié des détenus au sud du pays était écroué dans des prisons avec  au maximum 182 détenus. La population moyenne au sein 'une prison en belgique était de 226 détenus. A titre d'exemple, la prison de Lantin accueillait 867 hommes et 65 femmes. 
+
+Notons que cette asymétrie dans la distribution des détenus se reflète au différentes échelles territoriales considérées. En effet, alors que le nombre de détenus moyen au nord du pays est quasi équivalent  à la celui du sud et de Bruxelles, respectivement, 226 au nord, 229 au sud et 217 à Bruxelles, les médianes au sein de ces espaces  démontre une distribution des détenus homologue à celle que connait le territoire dans son ensemble.
+
+En effet,  dans les trois espaces considérés, la médiane est bien inférieur à la moyenne. Autrement dit,  en Flandre, la moitié des détenus vis dans dans prison avec un nombre d'occupant inférieur au nombres moyens de détenus, soit 179 au du pays,  au sud 197 et au centre, 91.
+
+Enfin, si on s'intéresse à l'évolution du nombre de détenus pour chacune des prisons, en ventilant par le genre des résultats intéressant sont à mettre en exergue.
+
+L'aile homme de la prison d'Anvers connait le "turnover" le plus important. Suivent de près Maline, Louvain Hulp, Hasselt Saint-Gilles, Lantin et Bruges.
+
+
+#### après la crise du coronavirus
+
+Plusieurs éléments sont à faire remarquer derechef. 
 
 La prison qui comptabilise le moins de détenus est la maison de transition d'Enghien. Celle qui dénombre le plus grand nombre de détenus est la prison de Lantin. En moyenne, il y a 166 détenus par prison alors que la moitié des détenus sont regroupés dans des prisons avec plus de 147 détenus. 
 
