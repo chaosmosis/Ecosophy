@@ -12,7 +12,7 @@ meta: "sante"
 
 Vu l'urgence, l'enjeu de ce petit texte est de faire un pont entre les statistiques dont dispose l'administration pénitentiaire pour qualifier les conditions de vie des détenus au sein de ses lieux de détentions et les mesures à prendre lors du *déconfinement* attendu.
 
-Ainsi, ici et maintenant, en mobilisant les rares données rendues disponibles par l'administration pénitentiaire, bien souvent sous la pression des organismes de contrôle aux mains du pouvoir législatif - à une heure où seulement les diplomates, les avocats et avocates des détenus sont autorisés à entrer en contact avec les détenus<sup id="a7">[7](#f7)</sup>, je vous propose ici de procéder à une brève analyse descriptive de ces statistiques. Statistiques, qui, comme toutes statistiques pénitentiaires, ont le mérite d'être, quoique peu nombreuses, aussi, une approximation de la manière dont l'administration du Royaume de Belgique appréhende les personnes qu'elle administre tant que faire se peut.<sup id="a6">[6](#f6)</sup>. 
+Ainsi, ici et maintenant, en mobilisant les rares données rendues disponibles par l'administration pénitentiaire, bien souvent sous la pression des organismes chargés de son contrôle- à une heure où seulement les diplomates, les avocats et avocates des détenus sont autorisés à entrer en contact avec les détenus<sup id="a7">[7](#f7)</sup>, je vous propose ici de procéder à une brève analyse descriptive de ces statistiques. Statistiques, qui, comme toutes statistiques pénitentiaires, ont le mérite d'être, quoique peu nombreuses, aussi, une approximation de la manière dont l'administration du Royaume de Belgique appréhende les personnes qu'elle administre tant que faire se peut.<sup id="a6">[6](#f6)</sup>. 
 
 Dans un premier temps, il s'agira donc de s'entendre sur quelques unes des définitions qui nous serviront dans la suite de ce texte. Celles-ci - moyennes, médiane, pourcentages, etc. - nous permettront, d'une part,  dans les deuxième, troisième et quatrième temps, de jauger de la *"concentration des détenus"* au sein des prisons et d'autre part, d'évaluer la *"distribution des personnels"* au sein du système carcérale belge.
 
@@ -41,12 +41,11 @@ rownames(prison)
 
 ## Notations pour les Prisons
 
-Tenter de délimiter un ensemble de concepts pour en tracer une évolution numérique est, assez paradoxalement, assez difficile en matière d'établissement. Non par la métamorphose radicale de la nature de l'objet de ceux-ci mais bien plutôt parce que la gestion de l'administration pénitentiaire semble s'être à la fois ouvert au monde, tout en ayant, en même, de l'intérieur, cherché à se conformer aux nouvelles formes et fonctions des peines engendrées par la réforme du code pénal de Dupont.
+Tenter de délimiter un ensemble de concepts pour en tracer une évolution numérique est, assez paradoxalement, assez difficile en matière d'établissement pénitentiaire.
 
-Si on limite notre aperçu chronologique aux premières décades de ce millénaires, force est de constater que la direction général des établissements a changé son fusil d'épaule.  Notons le simple fait que l'administration pénitentiaire a rendu son premier rapport d'activités depuis quasi 10 ans en 2007. 
+Si on limite notre aperçu chronologique aux premières décades de ce millénaires, force est de constater que la direction général des établissements pénitentiers a changé son fusil d'épaule.  Notons le simple fait que l'administration pénitentiaire rendait son premier rapport d'activités depuis quasi 10 ans en 2007. 
 
-Quoique cette DG comptabilise seulement 9 rapports d'activités sur 20 ans, notons bien que ceux-ci sont peuvent nous donner un succinct aperçu de l'organisation du travail et de "la distribution des détenus" au sein des prisons.<sup id="a8">[8](#f8)</sup> <sup id="a9">[9](#f9)</sup> 
-
+Quoique cette DG comptabilise seulement 9 rapports d'activités sur 20 ans, notons bien que ceux-ci sont peuvent nous donner un succinct aperçu de l'organisation du travail et de "la distribution des détenus" au sein des prisons.<sup id="a8">[8](#f8)</sup> <sup id="a9">[9](#f9)</sup> mais aussi et surtout sur la notion de "détenus" pour la DG des établissements pénitentiaires.
 
 
 ### N'est pas détenu qui veut. 
