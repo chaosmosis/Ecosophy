@@ -6,17 +6,16 @@ author: "John Nève"
 meta: "sante"
 ---
 
-# Esquisse de la situation dans les prisons du Royaume de Belgique.
+# L'impact économique du COVID-19 sur le plan judiciaire : Esquisse de la situation dans les prisons du Royaume de Belgique.
 
 ## Introduction
 
-Vu l'urgence, l'enjeu de ce petit texte est de faire un pont entre les statistiques dont dispose l'administration pénitentiaire pour qualifier les conditions de vie des détenus au sein de ses lieux de détentions et les mesures à prendre lors du *déconfinement* attendu.
+Vu l'urgence, l'enjeu de ce petit texte est de faire un pont entre les statistiques dont dispose l'administration pénitentiaire pour qualifier les conditions de vie des détenus au sein de ses lieux de détentions et les mesures à prendre lors du *déconfinement* attendu. Dans cet esprit, ici et maintenant, en mobilisant les rares données rendues disponibles par l'administration pénitentiaire, bien souvent sous la pression des organismes en charge de son contrôle- à une heure où seulement les diplomates, les avocats et avocates des détenus sont autorisés à entrer en contact avec les détenus<sup id="a7">[7](#f7)</sup>, je vous propose de procéder à une brève analyse descriptive de ces statistiques. Statistiques, qui, comme toutes statistiques pénitentiaires, ont le mérite d'être, quoique peu nombreuses, aussi, une approximation de la manière dont l'administration du Royaume de Belgique appréhende les personnes qu'elle administre tant que faire se peut.<sup id="a6">[6](#f6)</sup>. 
 
-Ainsi, ici et maintenant, en mobilisant les rares données rendues disponibles par l'administration pénitentiaire, bien souvent sous la pression des organismes chargés de son contrôle- à une heure où seulement les diplomates, les avocats et avocates des détenus sont autorisés à entrer en contact avec les détenus<sup id="a7">[7](#f7)</sup>, je vous propose ici de procéder à une brève analyse descriptive de ces statistiques. Statistiques, qui, comme toutes statistiques pénitentiaires, ont le mérite d'être, quoique peu nombreuses, aussi, une approximation de la manière dont l'administration du Royaume de Belgique appréhende les personnes qu'elle administre tant que faire se peut.<sup id="a6">[6](#f6)</sup>. 
 
-Dans un premier temps, il s'agira donc de s'entendre sur quelques unes des définitions qui nous serviront dans la suite de ce texte. Celles-ci - moyennes, médiane, pourcentages, etc. - nous permettront, d'une part,  dans les deuxième, troisième et quatrième temps, de jauger de la *"concentration des détenus"* au sein des prisons et d'autre part, d'évaluer la *"distribution des personnels"* au sein du système carcérale belge.
+Dans un premier temps, il s'agira donc de s'entendre sur quelques unes des définitions qui nous serviront dans la suite de ce texte. Celles-ci - moyennes, médiane, pourcentages, etc. - nous permettront, d'une part,  dans les deuxième, troisième et quatrième temps, de jauger de ce que le Ministre Geens a appellé la *concentration des détenus* au sein des prisons et d'autre part, d'évaluer la *distribution des personnels* au sein du système carcéral belge.
 
-En effet, outillés de ces notations pour l'analyse du nombre de détenus par prison et selon leurs "statuts légaux", après avoir étudié brièvement les nombres relatifs aux personnels agissant au seins des prisons, nous reviendrons sur les statistiques dont nous disposons concernant les "capacités de production" où se rencontrent les deux entités phares de tout système carcérale : les détenus et les personnels de surveillance. 
+En effet, outillés de ces notations pour l'analyse du nombre de détenus par prison et selon leurs "statuts légaux", après avoir étudié brièvement les nombres relatifs aux personnels agissant au seins des prisons, nous reviendrons sur les statistiques dont nous disposons concernant les "capacités de production" où se rencontrent les deux entités phares de tout système carcéral : les détenus et les personnels de surveillance. 
 
 Nous illustrerons avec la Prison-le-leuze les problèmes que semblent poser, au sein de cette prison, une concentration de détenus et une distribution des personnels hérités d'une politique pénitentiaire actuarielle et, quoiqu'en disent les autorités en charge actuellement, structurellement inhumaine.
  
@@ -39,11 +38,20 @@ rownames(prison)
 [37] "Forest"                       "St-Gilles"                   
 ```
 
+
+## Les mesures de la crise du Covid :
+
+### les arrêtés spéciaux de pouvoirs spéciaux en matière de la Justice -
+
+
+
+### L'arrêté ministériel du 25 Mars 2020 
+
 ## Notations pour les Prisons
 
 Tenter de délimiter un ensemble de concepts pour en tracer une évolution numérique est, assez paradoxalement, assez difficile en matière d'établissement pénitentiaire.
 
-Si on limite notre aperçu chronologique aux premières décades de ce millénaires, force est de constater que la direction général des établissements pénitentiers a changé son fusil d'épaule.  Notons le simple fait que l'administration pénitentiaire rendait son premier rapport d'activités depuis quasi 10 ans en 2007. 
+Si on limite notre aperçu chronologique aux premières décades de ce millénaire, force est de constater que la direction général des établissements pénitenciers a changé son fusil d'épaule.  Notons le simple fait que l'administration pénitentiaire rendait son premier rapport d'activités depuis quasi 10 ans en 2007. 
 
 Quoique cette DG comptabilise seulement 9 rapports d'activités sur 20 ans, notons bien que ceux-ci sont peuvent nous donner un succinct aperçu de l'organisation du travail et de "la distribution des détenus" au sein des prisons.<sup id="a8">[8](#f8)</sup> <sup id="a9">[9](#f9)</sup> mais aussi et surtout sur la notion de "détenus" pour la DG des établissements pénitentiaires.
 
@@ -56,7 +64,7 @@ Alors que cet extrait de la Recommandation Européenne sur les Règles Pénitent
 
 A tout le moins, on comprend néanmoins que le nombre de personnes détenues au sein d'un système carcérale donnée devraient dépendre directement du travail opéré par un autorité territoriale et pyramidale. 
 
-En Belgique, l'article  12 de la Constitution, 3ème alinéa, n'est pas plus clair sur ce qui fait le détenu  mais nous permet de qualifier l'un des pillier de ce pouvoir territoriale et structurer de manière pyramidale en la personne du "juge" :
+En Belgique, l'article  12 de la Constitution, 3ème alinéa, n'est pas plus clair sur ce qui fait le détenu  mais nous permet de qualifier l'un des piliers de ce pouvoir territoriale structuré de manière pyramidale en la personne du "juge" :
 
 > "Nul ne peut être arrêté qu'en vertu de l'ordonnance motivée du juge"
 
@@ -75,9 +83,9 @@ Comme on le comprend, selon la typologie dont use l'administration pénitentiair
 
 #### quelques symbolisations et définitions
 
-Nous cherchons ici définir quelques uns des élements qui nous semblent les plus pertinent pour reconstruire la cohérence que les donnés fournies par l'administration sont supposées traduire dans le chef de autorités. 
+Nous cherchons ici définir quelques uns des éléments qui nous semblent les plus pertinent pour reconstruire la cohérence que les donnés fournies par l'administration sont supposées traduire dans le chef de autorités. 
 
-A cet égard, en prmeière analyse,  il m'a sembé qu'une des manières d'approcher un grand nombres des aspect de cette cohérence était de supposer la co-existence de trois élements distincts mais néanmoins insépérables les uns des autres : les détenus, leurs lieux de vie, et ceux et celles en charges de l'administration des détenus.
+A cet égard, en première analyse,  il m'a semblé qu'une des manières d'approcher un grand nombres des aspects de cette cohérence était de supposer la co-existence de trois éléments distincts mais néanmoins inséparables les uns des autres : les détenus, les prisons, et ceux et celles en charges de l'administration de biens et personnes qui y circulent.
 
 Désignons par $i$ l'une des $I$ prisons du Royaume et par $$ n_i $$, le nombre de détenus au sein de la prison $$i$$. 
 
@@ -101,23 +109,23 @@ En l'espèce, nous avons supposé qu'au sein des $$I$$ prisons fédérales du pa
 
 - $$ G = \sum_{I} g_{i} $$ intervenants salariés.
 
-On dira que nous assistons à  un phénomène de "surpopulation" au sein d'une prison à partir du moment où il existe une tension entre le nombre de détenus et les capacités que sont à même de fournir dans une prision donnée la combinaison de $$\xi_{i}$$ et $$g_{i}$$.
+On dira que nous assistons à  un phénomène de "surpopulation" au sein d'une prison à partir du moment où il existe une tension entre le nombre de détenus et les capacités que sont à même de fournir dans une prison donnée la combinaison de $$\xi_{i}$$ et $$g_{i}$$.
 
-Avant de s'embarquer dans une modélisation des phénomènes de surpopulation, définissons dans un premier temps une série d'indicateurs supplémentaires qui nous permettront de comparer les prisons entres elles, en termes de $$\xi_{i}$$, $$g_{i}$$  et $$n_{i}$$.
+Avant de s'embarquer dans une modélisation des phénomènes de surpopulation quelque peu bancale, définissons dans un premier temps une série d'indicateurs supplémentaires qui nous permettront de comparer les prisons entres elles, en termes de $$\xi_{i}$$, $$g_{i}$$  et $$n_{i}$$.
 
-A cette fin, notons notamment que la moyenne de détenu dans une des $$I$$ prisons peut être défini de la manière suivante :
+A cette fin, notons notamment que la moyenne de détenus dans une des $$I$$ prisons peut être définie de la manière suivante :
  
  <div style="text-align: center">
- $$ \overline{N} = \frac{ \sum_{I} n_{i} }{ I }$$ 
+ $$ \overline{N} \equiv \frac{ \sum_{I} n_{i} }{ I }$$ 
  </div>
  
 De même, symbolisons la capacité de détention moyenne d'une prison sur le territoire  par :
 
   <div style="text-align: center">
- $$\overline{\Xi} = \frac{ \sum_{I} \xi_{i} }{ G }$$
+ $$\overline{\Xi} \equiv \frac{ \sum_{I} \xi_{i} }{ G }$$
   </div>
  
-Dans la foulée, identifions à  $$\overline{G}$$ le nombre moyen de personnels au sein d'une prison. Autrement dit :
+Dans la foulée, identifions à $$\overline{G}$$ le nombre moyen de personnels au sein d'une prison. Autrement dit :
 
   <div style="text-align: center">
 $$\overline{G} \equiv \frac{ \sum_{I} G_{i} }{ G }$$
@@ -147,11 +155,11 @@ Terminons par rappeler trois des autres définitions séculaires de la statistiq
 
 ### Les détenus au sein des prisons
 
-Comme on peut s'y attendre, le nombre de détenu dans une prison, ci-après $$n_i$$, varie énormément d'une prison à une autre. 
+Comme on peut s'y attendre, le nombre de détenu dans une prison, ci-après $$n_i$$, varie énormément d'une prison à une autre. Et comme nous allons le voir, la réaction du Ministre en charge des prison à l'heure actuelle a conduit à une très forte variation de ces nombres suite l'apparition du "covid-19" sur le territoire du royaume.
 
-Les rapports d'activité de 'administration pénitentiaires n'étant pas tous et toutes fournis en matériaux de même nature aux fils des années, qu'il est difficile de donner un aperçu longitudinale de l'état des populations au sein des prisons. 
+Les rapports d'activités de l'administration pénitentiaires n'étant pas tous fournis en matériaux de mêmes natures aux fils des années, il est difficile de donner un aperçu longitudinale de l'état des populations au sein des prisons. 
 
-Cependant, avec l'aide des statistiques fournies aux CCSP par la Direction Générale de l'administration pénitentiaire on peut se faire une de l'évolution de la population  au quotidien.
+Cependant,avec l'aide des statistiques fournies aux CCSP par la Direction Générale de l'administration pénitentiaire on peut se faire une idée de l'évolution de la population  au quotidien.
 
 A cette échelle, il va sans dire que les variations du nombres total de détenus sont peut nombreuses, mais elles devraient néanmoins intéresser ceux et celles qui s'intéressent aux transferts des détenus entre les différents établissements pénitentiaires du territoire. Technique d'intimidation classique d'une administration pénitentiaire frustrée dans ses missions. 
 
@@ -163,15 +171,15 @@ Ceci dit, on remarque que la répartition des détenus au sein des établissemen
 
 Le 6 mars 2020, il y avait 10836 personnes écrouées dans les 38 prisons dont s'occupe l'administration pénitentiaire. Parmi elles, 10344 hommes et 492 femmes. 48 % d'être elles étaient détenues au "Nord" du territoire alors que Bruxelles et le "Sud" du territoire accueillaient respectivement 1 % et 42 % des personnes écrouées.
 
-A cette même date, la moitié des détenus au sud du pays était écroué dans des prisons avec  au maximum 182 détenus. La population moyenne au sein d'une prison en Belgique était de 226 détenus. Notons à ce titre le cas de la prison de Lantin. En effet, au vu des échelles précités, elle est "hors-norme" :  la prison de Lantin accueillait 867 hommes et 65 femmes le 6 mars 2020.
+A cette même date, la moitié des détenus au sud du pays était écroué dans des prisons avec au maximum 182 détenus. La population moyenne au sein d'une prison en Belgique était de 226 détenus. Notons à ce titre le cas de la prison de Lantin. En effet, au vu des échelles précités, elle est "hors-norme" :  la prison de Lantin accueillait 867 hommes et 65 femmes le 6 mars 2020.
 
-Notons que cette asymétrie dans la distribution des détenus se reflète aux différentes échelles territoriales considérées. Alors que le nombre de détenus moyen au nord du pays est quasi équivalent à la celui du sud et de Bruxelles, respectivement, à savoir 226 au nord, 229 au sud et 217 à Bruxelles, les médianes au sein de ces espaces démontrent des distributions de détenus homologues à celle que connait le territoire dans son ensemble. Dans les trois espaces considérés, la médiane est bien inférieur à la moyenne. 
+Notons que cette asymétrie dans la distribution des détenus se reflète aux différentes échelles territoriales considérées. Alors que le nombre de détenus moyen au nord du pays est quasi équivalent à la celui du sud et de Bruxelles, respectivement, à savoir 226 au "Nord", 229 au "Sud" et 217 à Bruxelles, les médianes au sein de ces espaces démontrent des distributions de détenus homologues à celle que connait le territoire dans son ensemble. Dans les trois espaces considérés, la médiane est bien inférieur à la moyenne. 
 
-Autrement dit, tant au "nord", qu'au "sud" et au "centre" du pays, la moitié des détenus vit dans dans prison avec un nombre d'occupant inférieur au nombres moyens de détenus, soit 179 au Nord, 197 au sud et 91 au centre.
+Autrement dit, tant au "nord", qu'au "sud" et au "centre" du pays, la moitié des détenus vit dans une prison avec un nombre d'occupants inférieur aux nombres moyens de détenus, soit 179 au "Nord", 197 au "Sud" et 91 à Bruxelles.
 
-Enfin, si on s'intéresse à l'évolution du nombre de détenus pour chacune des prisons, en ventilant par le genre des résultats intéressant sont à mettre en exergue.
+Enfin, si on s'intéresse à l'évolution du nombre de détenus pour chacune des prisons, en ventilant par le genre des résultats intéressants sont à mettre en exergue.
 
-L'aile homme de la prison d'Anvers connait le "turnover" le plus important. Suivent de près Maline, Louvain Hulp, Hasselt Saint-Gilles, Lantin et Bruges.
+L'aile homme de la prison d'Anvers connait par exemple le "turnover" le plus important. Suivent de près Maline, Louvain Hulp, Hasselt Saint-Gilles, Lantin et Bruges.
 
 
 #### après la crise du coronavirus
@@ -338,7 +346,7 @@ Ainsi, d'après ces statistiques, seuls sept prisons avaient, au début du mois 
 
 <b id="f7">7</b> Les différentes mesures misent en place dans les prisons ont été présenté aux députés et députées fédérales du Royaume le 8 avril 2020 : https://www.youtube.com/watch?v=CdreDHFtRcw [↩](#a7)
 
-<b id="f8">8</b> * "Depuis 1999, la direction générale des établissements pénitentiaires n'avait plus publié de rapport annuel d'activités. Pourtant, un tel document est une source d'informations précieuse pour l'extérieur"* peut-on lire dans le rapport de 2007. Rapport D'activité de la Direction générale des établissements pénitentiaires SPF Justice"*
+<b id="f8">8</b> * "Depuis 1999, la direction générale des établissements pénitentiaires n'avait plus publié de rapport annuel d'activités. Pourtant, un tel document est une source d'informations précieuse pour l'extérieur"* peut-on lire dans le rapport de 2007. Rapport D'activité de la Direction générale des établissements pénitentiaires SPF Justice"*
 [↩](#a8)
 
 <b id="f9">9</b>
