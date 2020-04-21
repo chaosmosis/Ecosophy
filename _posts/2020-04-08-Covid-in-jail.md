@@ -54,30 +54,23 @@ Un principe qui traverse l'ensemble des arrêtés, c'est la question de l'oralit
 
 ### L’AR n° 1 lutte contre le non-respect des mesures d’urgence pour limiter la propagation du COVID-19
 
-Comme l'expliqua le ministre Geens et De Krem, il fallait venir au parlement pour dialoguer avec la commission du parlement. Le ministre Geens commença par aborder ce premier arrêté royal. Le ministre de krem s'occupa quant à lui de l'administratif.  Le ministre Geens se félicite d'avoir oeuvré en 11 jours sur ces arrêts royaux au regard de la gravité de la situation. Il souligne que cet un exploit.  La décision de de ne pas solliciter le conseil d'état était soutenu par les dix partis de l'union nationale, enfin, le ministre souligne qu'il est surpris que les bourgmestre n'ont pas besoin de SAC. Mais le ministre de la justice souligne que le droit pénal n'est pas le seul a pouvoir être mobilisé. On pourrait aussi, en respectant l'autonomie communale, donner la possibilité  de procédure administrative et non pénale. Lesprit de cet arrêté royal est que chaque commune peut décider non de mettre des sanction communale. Les amendes sont les mêmes; le droit pénal s'y ajoute. La première récidive, s'il il n'y pas de sac, il y a sanction pénale. la question de la rétroactvité n'est pas possible ed doit pas. les grandes villes on demandait les sac, c'est la raison nécessitait faisant loi, on pas sollicité l'avis du conseil d'état . 
+Comme l'expliqua le ministre Geens et De Krem, il fallait venir au parlement pour dialoguer avec la commission du parlement. Le ministre Geens commença par aborder ce premier arrêté royal. Le ministre de krem s'occupa quant à lui de l'administratif.  Le ministre Geens se félicite d'avoir oeuvré en 11 jours sur ces arrêts royaux eu égard pour la gravité de la situation. Il souligne que cet un exploit.  La décision de de ne pas solliciter le conseil d'état était soutenu par les dix partis de l'union nationale, enfin, le ministre souligne qu'il est surpris que les bourgmestre n'ont pas besoin de SAC. 
 
-Nous avions prévu de la combinaison 
-182 de la roi relative la la sécurité civile d'autre part avec
+Mais le ministre de la justice souligne que le droit pénal n'est pas le seul a pouvoir être mobilisé. On pourrait aussi, en respectant l'autonomie communale, donner la possibilité de procédures administratives et non pénale. L'esprit de cet "arrêté royal" est selon le ministre que chaque commune puisse décider si oui ou non elle aura recourt aux sanctions communales. Les amendes sont les mêmes; le droit pénal s'y ajoute en cas de récidive. La première récidive, s'il il n'y pas de sac, il y aura une sanction pénale. La question de la rétroactivité . les grandes villes on demandait les sac, c'est la raison qui a poussé les ministres à agir.
 
-approche plus rigoureuse été e circulaire des pouvoir
+Nous avions prévu de la combinaison  de l'article 182 de la roi relative la la sécurité civile d'une part et une approche plus rigoureuse.
 
-circulaire du 7 avril, qui prévoit une transaction sauf si la personne est de bonne fois et alors c'est un citation a appert de la deuxème récidive 
+la circulaire du 7 avril, qui prévoit une transaction sauf si la personne est de de bonne fois. l'appel. la deuxième récidive 
 
-le nombre de fait constaté sur la base
+le nombre de fait constaté sur la base de la loi sur la sécurité civile  au 8 avril 23700. un cas exemplaire "a été télévisée pour vous montrer que les tribunaux poursuivent". 
 
-lois sur sécurité cicilv 
-
-23700
-
-cas exemplaire a été télévisée pour vous montrer que les tribunaux poursuivent. 
-
-Il existe une préoccupation avec l'arrêté : conseil d'état et conseil contention des étranger qui ne font pas l'objet de règles spécifique, quitte des judiridction administratives fédérale ?. 
+Il existe une préoccupation avec l'arrêté : conseil d'état et conseil contention des étrangers qui ne font pas l'objet de règles spécifiques, quid des juridictions administratives fédérale ?. 
 
 L'inquiétude des ordres. 
 
 le conseil de contention des étranger ne suit pas 
 
-différence prix-ocdéure. 
+différence procédure. 
 
 contentieux administratif encore plus plus bicarré 
 distorsion entre les contentieux administratif eux même.
@@ -86,28 +79,25 @@ distorsion entre les contentieux administratif eux même.
 
 Il a énormément évolué depuis son passage par le conseil d'état et le parti socialiste est très heureux de cette évolution mais souligne que la présence des parties, l'assurance absolue que personne ne soit lésée n'est pas encore véritablement assurée.
 
-Première et deuxième mouture. Les remarques du conseil d'état. La présence des parties. l'oralité des débats. Le nouveaux type de procédure. Quel latitude laissée aux juges s'il prend en délibéré, lorsqu'elle ou plusieurs personnes est défaillante. le problème de la connaissance des procédures en matière civile. coutumière des pc.
+Première et deuxième mouture. Les remarques du conseil d'état. La présence des parties. l'oralité des débats. Le nouveaux type de procédure. Quelle latitude laissée aux juges s'il prend en délibéré, lorsqu'elle ou plusieurs personnes est défaillante. le problème de la connaissance des procédures en matière civile. Personnes coutumières ou non des procédures civiles.
 
 
 ### L’AR n° 3 
 
-Il y des inquiétude sur la question aussi de pouvoir être jugé sans être entendu. on connait la jurisprudence qu'en matière répressive il faut contraindre plutôt que de restreindre les capacité de comparution, droit fondamental pour le détenus le prévus, l'accusé d'être entendu. 
+Il y des inquiétude sur la question aussi de pouvoir être jugé sans être entendu. On connait la jurisprudence qu'en matière répressive il faut contraindre plutôt que de restreindre les capacité de comparution, droit fondamental pour le détenus le prévus, l'accusé d'être entendu. 
 
-all question des délais, il y a une distinction entre es procure civile et procédure recours devant es juridiction pénale il n'y pas de suspension octroyées, alors même qu'ils sont plus corus et quel eurs prise de cours est plus rapide
+à la question des délais, il y a une distinction entre les procure civile et la procédure recours devant les juridiction pénale il n'y pas de suspension octroyées, alors même qu'ils sont plus cours et quel leurs prise de compte est plus rapide
 
-la question de la prescription, cause légale d cela suspension  de la prescription, nécessité que les causes qui pourrait être prescrite ne 
+la question de la prescription, cause légale de ela suspension  de la prescription, nécessité que les causes qui pourraient être prescrites. 
 
-les cause de prespirption les plus courtes sont de deux ans et peuvent aller jusque quatre ans ce qui veut dire c'est qu'il faudrait un jugement intervenu qauantre pour être 
+les cause de prescription les plus courtes sont de deux ans et peuvent aller jusque quatre ans ce qui veut dire c'est qu'il faudrait un jugement intervenu
 
 
-eu garde des
 
-dallais raisonnable 
+délais raisonnable 
 l'action publique doit être aboutie dans ce délais; 
 
-droit e water jugé dans le délais raisonnables  et le droit d l'état
-
-suspendre cette clause de pression 
+droit d'être jugé dans les délais raisonnables  et le droit d l'état suspendre cette clause de prescription.
 
 
 délais de franchiront qui ne sont pas prolongé
