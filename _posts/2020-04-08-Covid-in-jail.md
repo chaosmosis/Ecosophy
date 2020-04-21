@@ -13,7 +13,7 @@ meta: "sante"
 Vu l'urgence, l'enjeu de ce petit texte est de faire un pont entre les statistiques dont dispose l'administration pénitentiaire pour qualifier les conditions de vie des détenus au sein de ses lieux de détentions et les mesures à prendre lors du *déconfinement* attendu. Dans cet esprit, ici et maintenant, en mobilisant les rares données rendues disponibles par l'administration pénitentiaire, bien souvent sous la pression des organismes en charge de son contrôle- à une heure où seulement les diplomates, les avocats et avocates des détenus sont autorisés à entrer en contact avec les détenus<sup id="a7">[7](#f7)</sup>, je vous propose de procéder à une brève analyse descriptive de ces statistiques. Statistiques, qui, comme toutes statistiques pénitentiaires, ont le mérite d'être, quoique peu nombreuses, aussi, une approximation de la manière dont l'administration du Royaume de Belgique appréhende les personnes qu'elle administre tant que faire se peut.<sup id="a6">[6](#f6)</sup>. 
 
 
-Dans un premier temps, il s'agira donc de s'entendre sur quelques unes des définitions qui nous serviront dans la suite de ce texte. Celles-ci - moyennes, médiane, pourcentages, etc. - nous permettront, d'une part,  dans les deuxième, troisième et quatrième temps, de jauger de ce que le Ministre Geens a appellé la *concentration des détenus* au sein des prisons et d'autre part, d'évaluer la *distribution des personnels* au sein du système carcéral belge.
+Dans un premier temps, il s'agira donc de s'entendre sur quelques unes des définitions qui nous serviront dans la suite de ce texte. Celles-ci - moyennes, médiane, pourcentages, etc. - nous permettront, d'une part,  dans les deuxième, troisième et quatrième temps, de jauger de ce que le Ministre Geens a appellé la *concentration des détenus* au sein des prisons, et d'autre part, d'évaluer la *distribution des personnels* au sein du système carcéral belge pour enfin évaluer l'impact de ce régime de régulation d'exeption sur la vie économique au sein des prisons.
 
 En effet, outillés de ces notations pour l'analyse du nombre de détenus par prison et selon leurs "statuts légaux", après avoir étudié brièvement les nombres relatifs aux personnels agissant au seins des prisons, nous reviendrons sur les statistiques dont nous disposons concernant les "capacités de production" où se rencontrent les deux entités phares de tout système carcéral : les détenus et les personnels de surveillance. 
 
@@ -39,13 +39,95 @@ rownames(prison)
 ```
 
 
-## Les mesures de la crise du Covid :
+## Les mesures
 
-### les arrêtés spéciaux de pouvoirs spéciaux en matière de la Justice -
+Un contexte de sous-fniameent et d'informatisation.
+
+Un principe qui traverse l'ensemble des arrêtés, c'est la question de l'oralité des débats et de la publicité des audience et de la justice, on y porte atteinte, à travers les arrêtes royaux de ouvoiurs spéciaux pour organiser. 
 
 
 
-### L'arrêté ministériel du 25 Mars 2020 
+### les arrêtés spéciaux de pouvoirs spéciaux en matière de la Justice
+
+
+### L'arrêté ministériel du 23 Mars 2020 
+
+### L’AR n° 1 lutte contre le non-respect des mesures d’urgence pour limiter la propagation du COVID-19
+
+Comme l'expliqua le ministre Geens et De Krem, il fallait venir au parlement pour dialoguer avec la commission du parlement. Le ministre Geens commença par aborder ce premier arrêté royal. Le ministre de krem s'occupa quant à lui de l'administratif.  Le ministre Geens se félicite d'avoir oeuvré en 11 jours sur ces arrêts royaux au regard de la gravité de la situation. Il souligne que cet un exploit.  La décision de de ne pas solliciter le conseil d'état était soutenu par les dix partis de l'union nationale, enfin, le ministre souligne qu'il est surpris que les bourgmestre n'ont pas besoin de SAC. Mais le ministre de la justice souligne que le droit pénal n'est pas le seul a pouvoir être mobilisé. On pourrait aussi, en respectant l'autonomie communale, donner la possibilité  de procédure administrative et non pénale. Lesprit de cet arrêté royal est que chaque commune peut décider non de mettre des sanction communale. Les amendes sont les mêmes; le droit pénal s'y ajoute. La première récidive, s'il il n'y pas de sac, il y a sanction pénale. la question de la rétroactvité n'est pas possible ed doit pas. les grandes villes on demandait les sac, c'est la raison nécessitait faisant loi, on pas sollicité l'avis du conseil d'état . 
+
+Nous avions prévu de la combinaison 
+182 de la roi relative la la sécurité civile d'autre part avec
+
+approche plus rigoureuse été e circulaire des pouvoir
+
+circulaire du 7 avril, qui prévoit une transaction sauf si la personne est de bonne fois et alors c'est un citation a appert de la deuxème récidive 
+
+le nombre de fait constaté sur la base
+
+lois sur sécurité cicilv 
+
+23700
+
+cas exemplaire a été télévisée pour vous montrer que les tribunaux poursuivent. 
+
+Il existe une préoccupation avec l'arrêté : conseil d'état et conseil contention des étranger qui ne font pas l'objet de règles spécifique, quitte des judiridction administratives fédérale ?. 
+
+L'inquiétude des ordres. 
+
+le conseil de contention des étranger ne suit pas 
+
+différence prix-ocdéure. 
+
+contentieux administratif encore plus plus bicarré 
+distorsion entre les contentieux administratif eux même.
+
+### L’AR n° 2 
+
+Il a énormément évolué depuis son passage par le conseil d'état et le parti socialiste est très heureux de cette évolution mais souligne que la présence des parties, l'assurance absolue que personne ne soit lésée n'est pas encore véritablement assurée.
+
+Première et deuxième mouture. Les remarques du conseil d'état. La présence des parties. l'oralité des débats. Le nouveaux type de procédure. Quel latitude laissée aux juges s'il prend en délibéré, lorsqu'elle ou plusieurs personnes est défaillante. le problème de la connaissance des procédures en matière civile. coutumière des pc.
+
+
+### L’AR n° 3 
+
+Il y des inquiétude sur la question aussi de pouvoir être jugé sans être entendu. on connait la jurisprudence qu'en matière répressive il faut contraindre plutôt que de restreindre les capacité de comparution, droit fondamental pour le détenus le prévus, l'accusé d'être entendu. 
+
+all question des délais, il y a une distinction entre es procure civile et procédure recours devant es juridiction pénale il n'y pas de suspension octroyées, alors même qu'ils sont plus corus et quel eurs prise de cours est plus rapide
+
+la question de la prescription, cause légale d cela suspension  de la prescription, nécessité que les causes qui pourrait être prescrite ne 
+
+les cause de prespirption les plus courtes sont de deux ans et peuvent aller jusque quatre ans ce qui veut dire c'est qu'il faudrait un jugement intervenu qauantre pour être 
+
+
+eu garde des
+
+dallais raisonnable 
+l'action publique doit être aboutie dans ce délais; 
+
+droit e water jugé dans le délais raisonnables  et le droit d l'état
+
+suspendre cette clause de pression 
+
+
+délais de franchiront qui ne sont pas prolongé
+
+la question de l'interruption de la peine 
+une mesure dans le souci de désengor$
+on  demande de sortir
+vs délais d'épreuve 
+
+elle ne fait pas courir de délais sans jamais que la preuve prétorienne de leur comportement abdiquer  dans le cadre de leur exécution de la peinee
+
+### L’AR N° 4 
+
+
+
+pourquoi juste les co-pripriétés
+la video conférence existe pour SA SCRL et sc
+a condition e dérogation statutaire but association et fondation 
+pourquoi les assemble et fondation aussi ?????
+
 
 ## Notations pour les Prisons
 
@@ -87,9 +169,14 @@ Nous cherchons ici définir quelques uns des éléments qui nous semblent les pl
 
 A cet égard, en première analyse,  il m'a semblé qu'une des manières d'approcher un grand nombres des aspects de cette cohérence était de supposer la co-existence de trois éléments distincts mais néanmoins inséparables les uns des autres : les détenus, les prisons, et ceux et celles en charges de l'administration de biens et personnes qui y circulent.
 
-Désignons par $i$ l'une des $I$ prisons du Royaume et par $$ n_i $$, le nombre de détenus au sein de la prison $$i$$. 
+Désignons par $i$ l'une des $I$ prisons du Royaume et par $$ n_i $$, le nombre de détenus au sein de la prison $$i$$. Notons derechef que le nombre de prisons est actuellement surjet à de nombreuse variations. En effet, en 2016 un Master plan a été initié et la Régie des Bâtiments a été chargé de renoncer et compléter le système carcérale. En 2013, la prison de Verviers a été détruite alors qu'on prévoit d'y reconstruire d'ici peu un nouveau établissement avec 250 places. Notons aussi la rénovation d cela prison de Namur et celle, terminée en 2017 de Louvain central. A Bruxelles, notons que les trois prisons actuelles, Berkendael, Saint-Gilles et Forest vont être rassemblée dans ce que le master plan appel un "Un village pénitentiaire" d'une capacité totale de plus de 1190. Cette prison sera la plus grande du pays et permet à Bruxelles de compter sur une établissement pénitentiaires qui fera plus que résoudre le problème de la surpopulation carcérale de manière quantitative puisqu'il permettra d'accueillir en tout pour tout plus de détenus que n'en compte aujourd'hui les trois établissement réunis. Si la surpopulation au sein de la prison d'haret devait être celle qu'on rencontre , en moyenne aujourd'hui dans les prisons au nord, au sud et à Bruxelles actuellement, on peut s'attendre au pire.
 
-Si il existe un nombre déterminé de prisons, disons $$I$$ (e.g $$ I \in \mathbf{R} $$), sur un territoire, le nombre total de détenus au sein des prison peut être défini comme la somme du nombre de détenus *au sein* des $$I$$ du dit territoire, autrement dit :
+Notons que les maisons de transition d'Enghien et de Maline sont deux maisons très particulières en ce qu'elles sont réservées à très petit nombre de détenus et visent à préparer les détenus à se réinsérer. 
+à l'opposé on trouve d'autres lieux d'incarcération, réservés aux internés. Notons encore l'aile de Markplass pour les internés qui été récemment rénové et a permis aux parc du Nord du pays de
+
+Notons aussi que la situation de Paifve est sujet à des variations à venir. En effet, il est prévu dans le Master Plan de 2016  que la Régie pénitentiaire s'occupe de la transformation de l'espace existant afin que le site n'accueille plus uniquement des détenus considérés comme irresponsables et dont la durée d'incarcération dépend de "leurs guérisons".Rapport d'activité de la régie des bâtiments de 2018.
+
+Si il existe un nombre déterminé de prisons en Belgique, disons $$I$$ (e.g $$ I \in \mathbf{R} $$), sur un territoire, le nombre total de détenus au sein des prison peut-être défini comme la somme du nombre de détenus *au sein* des $$I$$ du dit territoire, autrement dit :
 
 $$ N = \sum_{I} n_{i} $$ 
 
@@ -109,11 +196,11 @@ En l'espèce, nous avons supposé qu'au sein des $$I$$ prisons fédérales du pa
 
 - $$ G = \sum_{I} g_{i} $$ intervenants salariés.
 
-On dira que nous assistons à  un phénomène de "surpopulation" au sein d'une prison à partir du moment où il existe une tension entre le nombre de détenus et les capacités que sont à même de fournir dans une prison donnée la combinaison de $$\xi_{i}$$ et $$g_{i}$$.
+On dira que nous assistons à  un phénomène de "surpopulation" au sein d'une prison à partir du moment où il existe une tension entre le nombre de détenus et les capacités que sont capable de fournir dans une prison donnée la combinaison de $$\xi_{i}$$ et $$g_{i}$$.
 
-Avant de s'embarquer dans une modélisation des phénomènes de surpopulation quelque peu bancale, définissons dans un premier temps une série d'indicateurs supplémentaires qui nous permettront de comparer les prisons entres elles, en termes de $$\xi_{i}$$, $$g_{i}$$  et $$n_{i}$$.
+Avant de s'embarquer dans une modélisation des phénomènes de surpopulation quelque peu bancale, définissons dans un premier temps une série d'indicateurs supplémentaires qui nous permettront de comparer les prisons entre elles, en termes de $$\xi_{i}$$, $$g_{i}$$  et $$n_{i}$$.
 
-A cette fin, notons notamment que la moyenne de détenus dans une des $$I$$ prisons peut être définie de la manière suivante :
+A cette fin, notons notamment que la moyenne de détenus dans une des $$I$$ prisons peut-être définie de la manière suivante :
  
  <div style="text-align: center">
  $$ \overline{N} \equiv \frac{ \sum_{I} n_{i} }{ I }$$ 
@@ -159,7 +246,7 @@ Comme on peut s'y attendre, le nombre de détenu dans une prison, ci-après $$n_
 
 Les rapports d'activités de l'administration pénitentiaires n'étant pas tous fournis en matériaux de mêmes natures aux fils des années, il est difficile de donner un aperçu longitudinale de l'état des populations au sein des prisons. 
 
-Cependant,avec l'aide des statistiques fournies aux CCSP par la Direction Générale de l'administration pénitentiaire on peut se faire une idée de l'évolution de la population  au quotidien.
+Cependant, avec l'aide des statistiques fournies aux CCSP par la Direction Générale de l'administration pénitentiaire on peut se faire une idée de l'évolution de la population au quotidien.
 
 A cette échelle, il va sans dire que les variations du nombres total de détenus sont peut nombreuses, mais elles devraient néanmoins intéresser ceux et celles qui s'intéressent aux transferts des détenus entre les différents établissements pénitentiaires du territoire. Technique d'intimidation classique d'une administration pénitentiaire frustrée dans ses missions. 
 
@@ -263,16 +350,16 @@ Remarquons derechef que les détenus dit condamnés sont présents dans toutes l
 Notons en outre que si on s'intéresse à la part des détenus condamnés parmi les détenus d'une prison, soit $$\pi^{h}_{i}= \frac{d^{h}_{i}}{n_i}$$, deux faits statistiques émergent rapidement. 
 
 1. Premièrement, seulement 2 pénitenciers sur 38 n'accueillent que des détenus condamnés : les deux maisons de transition de Maligne et Enghien. 
-2. Deuxièmement, on remarquera aussi trois types de pénitenciers en matière de détentions de condamnés: 
+2. Deuxièmement, on remarquera aussi quatre types de pénitenciers en matière de détentions de condamnés: 
 
 - Les pénitenciers s'occupant uniquement de détenus condamnés.
 - Les pénitenciers avec plus 50 % de détenus condamnés.
 - Les pénitenciers avec moins de 25 % de détenus condamnés.
-
+- Les pénitenciers sans détenus condamnés.
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/distribution_jail.jpg" alt="Pourcentage de Condamnés par Prison"></div>
 
-Ici encore, on peut remarquer que la  distribution des détenus condamnés au sein des détenus des 38 prisons est asymétrique. Comme on peut le voir sur la graphique suivant, plus de la moitié des prisons détiennent plus de 55% de détenus condamnés entre leurs murs. 
+Ici encore, on peut remarquer que la distribution des détenus condamnés au sein des détenus des 38 prisons est asymétrique. Comme on peut le voir sur la graphique suivant, plus de la moitié des prisons détiennent plus de 55% de détenus condamnés entre leurs murs. 
 
 Cette asymétrie est telle qu'on remarquera en outre qu'alors qu'en moyenne le pourcentage de détenus condamnés parmi la population d'une prison est de plus 66%, 25% des prisons accueillent en leurs murs une population essentiellement composée de détenus condamnés, soit de plus de neuf détenus sur dix (*i.e.* le 3ème quartile : 93%). 
 
@@ -280,9 +367,9 @@ Cette asymétrie est telle qu'on remarquera en outre qu'alors qu'en moyenne le p
 
 ### Analyse descriptive des données relatives aux personnels en charge des détenus
 
-Alors que la qualification de détenu dépend directement de l'action de la magistrature assise du pouvoir judiciaire, les personnels qui concourent à la concorde ou à la discorde au sein d'un établissement pénitentiaire sont l'oeuvres de nombreuses instances. 
+Alors que la qualification de détenu dépend directement de l'action de la magistrature assise du pouvoir judiciaire, les personnels qui concourent à la concorde ou à la discorde au sein d'un établissement pénitentiaire sont nombreux. En première analyse, il me semble qu'il faut distinguer au moins deux types d'organisation du travail au sein d'une prison. En effet, tant une analyse de la presse, des débats parlementaires, des rapports d'activités et de textes clefs de l'histoire pénitentiaire montrent à voir, qu'existent, essentiellement deux types de travailleurs au sein des prisons :les détenus et et les non-détenus. Notons, quoique la situation se pose dans un secteur très spécifique des prisons - les cantines, que la cour des comptes a fait remarqué qu'on retrouve des détenus à des postes réservés aux travailleurs non-détenus.
 
-En Belgique, "l'administration pénitentiaire " a un rôle pivot dans l'organisation des personnels en charge des détenus. 
+En Belgique, "la direction générale de l'administration pénitentiaire " a bien évidement un rôle pivot dans l'organisation de ces deux types de travail. Comme on peut le comprendre via le plan de gestion décidé en 2013, l'organisation des forces de travail au sein des prisons repose essentiellement sur deux instances subordonnées à la direction générale des prisons. D'un côté, l'organisation du personnel de surveillance relève des directeurs des établissements pénitentiaires, de l'autre, la régie du travail pénitentiaire s'occupe de l'administration du temps de travail échangé par les détenus. 
 
 > "l'administration pénitentiaire est un service du SPF Justice depuis 1830. Elle est organisée d'une part en Direction générale des établissements pénitentiaires (DG EPI) et d'autre part en services extérieurs où figurent les 33 établissements pénitentiaires. La mission de son directeur s'inscrit dans le cadre général de l'exécution des peines, qui doit être compatible avec le respect des droits fondamentaux  des individus"<sup id="a1">[1](#f1)</sup> 
 
