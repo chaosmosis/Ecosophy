@@ -403,8 +403,21 @@ Le graphique précédent se base sur les effectifs négociés dans le cadre du c
 
 Ainsi, d'après ces statistiques, seuls sept prisons avaient, au début du mois d'avril 2020, des effectifs opérationnels légèrement supérieurs aux effectifs négociés avec les syndicats. Avant d'aborder plus en détails les établissements pénitenciers avec un effectif opérationnel bien inférieur à l'effectif théorique, notons que la seule Prison de Berkendael satisfaisait, le 9 mars 2020,  aux effectifs résultants d'un Protocole 464.
 
-
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/diff.jpg" alt="Différences"></div>
+
+## le cas de la Prison de Leuze-en-Hainaut
+
+La prison de Leuze-en-hainaut est le fruit d'une période que d'aucuns ont caractérisé comme celle de "l'Explosion Carcérale"<sup id="a11">[11](#f11)</sup>.
+
+En 2011 que la Ministre de la Justice constate que  "le nombre et la qualité des places de détention dans les prisons belges sont souvent insuffisants". La ministre annonce le cap :
+
+> "Nous devons continuer nos efforts sur le Masterplan dont les premières réalisations deviennent peu à peu concrètes. Les contrats des quatre nouvelles prisons
+à Beveren, Termonde, Marche-en-Famenne et Leuze-en- Hainaut ont été signés." <sup id="a10">[10](#f10)</sup> 
+
+
+
+<div style="text-align: center"><img src="{{ site.baseurl }}/assets/detenusvsinstructionscorona.png" alt="detenusvsinstructionscorona"></div>
+
 
 
 <b id="f0">0</b> Le guide du Prisonnier en Belgique, sous la dir. de Marie-aude Beernaert, Philipppe Mary et Marc Nève, éditions Luc Pire, 2016, p.19[↩](#a0)
@@ -429,3 +442,14 @@ Ainsi, d'après ces statistiques, seuls sept prisons avaient, au début du mois 
 <b id="f9">9</b>
 Il m'a été nécessaire, au vu de l'urgence, de remette à plus tard l'analyse du travail effectué par les détenus au sein du système carcéral. Autrement dit, lorsque nous parlerons du travail au sein des établissements pénitentiaires, nous  omettrons par simplicité les "travaux domestiques" et 'travaux privés" des détenus qu'est sensé assuré la régie du travail pénitentiaire. Notez bien que ce choix n'est en rien motivé par l'inutilité de cette problémetique afin de qualifié la "concentration des détenus" -tout du contraire, mais bien plutôt parce que ce point nécessiterait un travail à part. 
 [↩](#a9)
+
+<b id="f10">10</b> Turtelboom Annemie dans le Rapport d'activités 2011 de la Direction Générale des Etablissement Pénitentiaires, p. 1
+[↩](#a10)
+
+
+<b id="f11">11</b>
+Vervaet, Luk, Guantanamo chez nous ?, édition Antidote, 2014, p. 43
+[↩](#a11)
+
+
+
