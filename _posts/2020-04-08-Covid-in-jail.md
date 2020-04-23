@@ -125,31 +125,33 @@ Tenter de délimiter un ensemble de concepts pour en tracer une évolution numé
 
 Si on limite notre aperçu chronologique aux premières décades de ce millénaire, force est de constater que la direction général des établissements pénitenciers a changé son fusil d'épaule.  Notons le simple fait que l'administration pénitentiaire rendait son premier rapport d'activités depuis quasi 10 ans en 2007. 
 
-Quoique cette DG comptabilise seulement 9 rapports d'activités sur 20 ans, notons bien que ceux-ci sont peuvent nous donner un succinct aperçu de l'organisation du travail et de "la distribution des détenus" au sein des prisons.<sup id="a8">[8](#f8)</sup> <sup id="a9">[9](#f9)</sup> mais aussi et surtout sur la notion de "détenus" pour la DG des établissements pénitentiaires.
+Quoique cette DG des établissements pénitentaires comptabilise seulement 9 rapports d'activités sur 20 ans, notons bien que ceux-ci sont peuvent nous donner un succinct aperçu de l'organisation du travail et de "la distribution des détenus" au sein des prisons.<sup id="a8">[8](#f8)</sup> <sup id="a9">[9](#f9)</sup> mais aussi et surtout sur la notion de "détenus" pour la DG des établissements pénitentiaires.
 
 
 ### N'est pas détenu qui veut. 
 
 > "Aucune personne ne peut être administrée ou retenu dans une prison en qualité de détenu sans une ordonnance d'incarcération valable, conformément au droit interne"
 
-Alors que cet extrait de la Recommandation Européenne sur les Règles Pénitentiaires est clair quant à la naissance de la "qualité de détenu" au sein d'une prison et au sein des pays membres du conseil de l'Europe, nous restons sur notre faim quant à savoir ce qu'est un détenu du point de vue de ce règlement. 
+Alors que cet extrait de la Recommandation Européenne sur les Règles Pénitentiaires est clair quant à la naissance de la "qualité de détenu" au sein d'une prison et au sein des pays membres du conseil de l'Europe, l'insécurité juridique pour les personne détenues en Belgique est patente.
 
-A tout le moins, on comprend néanmoins que le nombre de personnes détenues au sein d'un système carcérale donnée devraient dépendre directement du travail opéré par un autorité territoriale et pyramidale. 
-
-En Belgique, l'article  12 de la Constitution, 3ème alinéa, n'est pas plus clair sur ce qui fait le détenu  mais nous permet de qualifier l'un des piliers de ce pouvoir territoriale structuré de manière pyramidale en la personne du "juge" :
+En effet, même si, au sein d'un système carcérale belge,  la qualité de détenu devrait, selon l'article  12 de la Constitution belge, 3ème alinéa, dépendre d'un "juge" au sens courant du terme :
 
 > "Nul ne peut être arrêté qu'en vertu de l'ordonnance motivée du juge"
 
-En définitive, comme on peut le lire dans le Guide du Prisonnier en Belgique, on comprend vite qu'*"Une décision judiciaire(ordonnance de mise en détention préventive, jugement, etc.) est toujours nécessaire"*<sup id="a0">[0](#f0)</sup> pour être considéré comme un détenu en prison.
+comme on peut le lire dans le Guide du Prisonnier en Belgique, *in concreto*,  ce qui compte pour un détenu, ce sont *les décisions judiciaires* qui le concernent.
 
-Les tableaux statistiques distribués par le ministère public témoignent quant à eux des différents statuts attribués aux individus qui peuplent les prison du Royaume de Belgique. 
+ > *"Une décision judiciaire(ordonnance de mise en détention préventive, jugement, etc.) est toujours nécessaire"*<sup id="a0">[0](#f0)</sup> 
 
-Au regard de ces seuls classements, si on s'intéresse premièrement aux "détenus", il semble exister, dans le chef des autorités responsables des statistiques relatives aux détenus,  au moins huit types de détenus possibles : 
+Autrement dit, les facteurs qui sont susceptibles d'entrer en ligne de compte afin qu'une personne détenue puisse jouir de ses droits les plus fondamentaux sont multiples et il se sera vain, dans le cadre de cette note, de lister les déterminants de la mise en détention des individus.
+
+Les tableaux statistiques distribués par le ministère public nous fournissent quant à eux des précisions sur les différents statuts attribués aux individus qui peuplent les prisons du Royaume de Belgique. 
+
+Au regard de ces seuls classements, si on s'intéresse premièrement aux "détenus", on apprend déjà qu'il semble exister, dans le chef des autorités responsables des statistiques relatives aux détenus,  au moins huit types de détenus possibles : 
 
 1. Alors qu'il sera ou interné ou prévenu ou condamné ou encore mis à disposition du tribunal de l'application des peines,
 2. le détenu sera nécessairement  ou de genre Masculin ou de genre Féminin. 
 
-Comme on le comprend, selon la typologie dont use l'administration pénitentiaire en général,  il existe donc potentiellement huit manières différentes d'appréhender les détenus au sein d'une prison.
+Ainsi, si on prend au sérieux  la typologie dont use au quotidien l'administration pénitentiaire pour gouverner les populations dont elle est responsable,  il existe pour potentiellement huit manières différentes d'appréhender les détenus au sein d'une prison.
 
  
 
@@ -162,7 +164,7 @@ A cet égard, en première analyse,  il m'a semblé qu'une des manières d'appro
 Désignons par $i$ l'une des $I$ prisons du Royaume et par $$ n_i $$, le nombre de détenus au sein de la prison $$i$$. Notons derechef que le nombre de prisons est actuellement surjet à de nombreuse variations. En effet, en 2016 un Master plan a été initié et la Régie des Bâtiments a été chargé de renoncer et compléter le système carcérale. En 2013, la prison de Verviers a été détruite alors qu'on prévoit d'y reconstruire d'ici peu un nouveau établissement avec 250 places. Notons aussi la rénovation d cela prison de Namur et celle, terminée en 2017 de Louvain central. A Bruxelles, notons que les trois prisons actuelles, Berkendael, Saint-Gilles et Forest vont être rassemblée dans ce que le master plan appel un "Un village pénitentiaire" d'une capacité totale de plus de 1190. Cette prison sera la plus grande du pays et permet à Bruxelles de compter sur une établissement pénitentiaires qui fera plus que résoudre le problème de la surpopulation carcérale de manière quantitative puisqu'il permettra d'accueillir en tout pour tout plus de détenus que n'en compte aujourd'hui les trois établissement réunis. Si la surpopulation au sein de la prison d'haret devait être celle qu'on rencontre , en moyenne aujourd'hui dans les prisons au nord, au sud et à Bruxelles actuellement, on peut s'attendre au pire.
 
 Notons que les maisons de transition d'Enghien et de Maline sont deux maisons très particulières en ce qu'elles sont réservées à très petit nombre de détenus et visent à préparer les détenus à se réinsérer. 
-à l'opposé on trouve d'autres lieux d'incarcération, réservés aux internés. Notons encore l'aile de Markplass pour les internés qui été récemment rénové et a permis aux parc du Nord du pays de
+à l'opposé on trouve d'autres lieux d'incarcération, réservés aux internés. Notons encore l'aile de Markplas pour les internés qui été récemment rénové et a permis aux parc du Nord du pays de
 
 Notons aussi que la situation de Paifve est sujet à des variations à venir. En effet, il est prévu dans le Master Plan de 2016  que la Régie pénitentiaire s'occupe de la transformation de l'espace existant afin que le site n'accueille plus uniquement des détenus considérés comme irresponsables et dont la durée d'incarcération dépend de "leurs guérisons".Rapport d'activité de la régie des bâtiments de 2018.
 
@@ -450,5 +452,4 @@ Il m'a été nécessaire, au vu de l'urgence, de remettre à plus tard l'analyse
 <b id="f11">11</b>
 Vervaet, Luk, Guantanamo chez nous ?, édition Antidote, 2014, p. 43
 [↩](#a11)
-
 
