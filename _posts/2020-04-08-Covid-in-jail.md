@@ -411,12 +411,31 @@ Ainsi, d'après ces statistiques, seuls sept prisons avaient, au début du mois 
 
 La prison de Leuze-en-hainaut est le fruit d'une période que d'aucuns ont pu caractériser comme celle de "l'Explosion Carcérale"<sup id="a11">[11](#f11)</sup>.
 
-En 2011  la Ministre de la Justice constate que  "le nombre et la qualité des places de détention dans les prisons belges sont souvent insuffisants". La ministre annonce le cap :
+En 2011, la Ministre de la Justice constate que  "le nombre et la qualité des places de détention dans les prisons belges sont souvent insuffisants". La ministre annonce qu'elle s'inscrit dans la dynamique de son prédécesseur, le Ministre Stephan de Clerck : 
 
 > "Nous devons continuer nos efforts sur le Masterplan dont les premières réalisations deviennent peu à peu concrètes. Les contrats des quatre nouvelles prisons
 à Beveren, Termonde, Marche-en-Famenne et Leuze-en- Hainaut ont été signés." <sup id="a10">[10](#f10)</sup> 
 
 
+La construction de l'établissement Pénitentiaire de Leuze n'a pas été sans faire couler beaucoup d'encre. L'établissement que l'on qualifiera lors de son ouverture au "public" en 2014, de "cathédral de  lumière" <sup id="a12">[12](#f12)</sup>  connait quelques oppositions de la part des riverains du site de 14 hectares que cette prison va couvrir de 312 cellules. Cependant, cela n'inquiète pas outre mesure la régie des bâtiments qui porte le projet. Comme le pouvait le lire dans la presse nationale, c'est véritable en Janvier que 2013 que les travaux ont pu débuter: 
+
+> "Idéalement située sur la N7, à 70 km à peine de Bruxelles, la prison de Leuze se veut moderne. Inspiré des places fortes de Vauban avec son mur d'enceinte de six mètres de haut, ses talus et ses douves, le centre pénitentiaire disposera d'une zone cellulaire en forme d'étoile avec, au centre, le poste de contrôle. Le complexe comprend aussi des ateliers, une cuisine, un centre d'accueil, des salles de sport et d'activités culturelles. Près de 350 emplois directs seront créés. L'investissement de 75 millions d'euros a été financé par un consortium privé."
+
+Le contrat signé par consortium privé l'a été par la régie des bâtiments. Cette dernière a en quelque sorte externalisé sa mission à une entité privé en ce qu'elle a chargé celle-ci de construire, et maintenir en l'état un biens immeubles dont jouira l'administration pénitentiaire. Selon les termes du contrats,  un fameux D-B-M, la société anonyme crée pour l'occasion est une société  ayant comme objet la location d'immeuble. Au départ, trois entités se sont jointes. Seule l'une d'elle, Cofinimmo, depuis  la remise du bâtiment au autorités pénitentiaire reste responsable de la gestion immobilière  du site. Pratiquement,FPR Leuze, est une filiale de Cofinmo. Elle est inscrite au registre des entreprise comme entreprise immobilière, et inscrite apures de la banque nationale de Belgique dans la branche "immobilier".
+
+Cette société s'occupe de la maintenance du la prison le temps de le l'excursion de son contrat avec l'administration pénitentiaire. Une partie de l'argent que lui verse la régie des bâtiments en contrepartie de l'usufruit de la prison est  soit utilisé à la aux frais de gestion et de maintien de la prison, soit considéré comme un revenu financier. C'est aujourd'hui la société bruxelloise, cofinimmo qui gère cette prison. 
+
+
+ 
+
+
+En septembre 2011, 
+
+### l'évolution du nombre de détenu depuis le 6 mars 2020
+
+Sur le graphique suivant ont été représentés cinq séries de données relatives aux nombres de détenus dans le système carcéral belge. En abscisse, on lit les dates et ordonnées les valeurs des cinq séries. La première série (en jaune) dépeint l'évolution du nombre de détenus à Leuze-en-hainaut. La seconde, en noir, dépeint l'évolution du nombre de détenus au sein du Royaume, celle en rouge au Nord du Pays, celle en bleu au Sud et celle en couleur "or", à Bruxelles. 
+
+Notez en outre que nous avons indiqué, via des lignes cinq lignes verticales, les cinq journées aux cours desquelles la direction générale des établissements pénitentiaires a transmis aux chefs des établissements pénitentiaires ses désormais célèbres "instructions coronavirus", soit les 13, 20, 24 et 27 mars, et le 3 avril 2020.
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/detenusvsinstructionscorona.png" alt="detenusvsinstructionscorona"></div>
 
@@ -451,5 +470,9 @@ Il m'a été nécessaire, au vu de l'urgence, de remettre à plus tard l'analyse
 
 <b id="f11">11</b>
 Vervaet, Luk, Guantanamo chez nous ?, édition Antidote, 2014, p. 43
+[↩](#a11)
+
+<b id="f12">12</b>
+voy. article de la Province, 
 [↩](#a11)
 
