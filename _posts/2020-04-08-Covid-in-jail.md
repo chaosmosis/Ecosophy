@@ -407,9 +407,9 @@ Ainsi, d'après ces statistiques, seuls sept prisons avaient, au début du mois 
 
 ## le cas de la Prison de Leuze-en-Hainaut
 
-La prison de Leuze-en-hainaut est le fruit d'une période que d'aucuns ont caractérisé comme celle de "l'Explosion Carcérale"<sup id="a11">[11](#f11)</sup>.
+La prison de Leuze-en-hainaut est le fruit d'une période que d'aucuns ont pu caractériser comme celle de "l'Explosion Carcérale"<sup id="a11">[11](#f11)</sup>.
 
-En 2011 que la Ministre de la Justice constate que  "le nombre et la qualité des places de détention dans les prisons belges sont souvent insuffisants". La ministre annonce le cap :
+En 2011  la Ministre de la Justice constate que  "le nombre et la qualité des places de détention dans les prisons belges sont souvent insuffisants". La ministre annonce le cap :
 
 > "Nous devons continuer nos efforts sur le Masterplan dont les premières réalisations deviennent peu à peu concrètes. Les contrats des quatre nouvelles prisons
 à Beveren, Termonde, Marche-en-Famenne et Leuze-en- Hainaut ont été signés." <sup id="a10">[10](#f10)</sup> 
@@ -436,11 +436,11 @@ à Beveren, Termonde, Marche-en-Famenne et Leuze-en- Hainaut ont été signe�
 
 <b id="f7">7</b> Les différentes mesures misent en place dans les prisons ont été présenté aux députés et députées fédérales du Royaume le 8 avril 2020 : https://www.youtube.com/watch?v=CdreDHFtRcw [↩](#a7)
 
-<b id="f8">8</b> * "Depuis 1999, la direction générale des établissements pénitentiaires n'avait plus publié de rapport annuel d'activités. Pourtant, un tel document est une source d'informations précieuse pour l'extérieur"* peut-on lire dans le rapport de 2007. Rapport D'activité de la Direction générale des établissements pénitentiaires SPF Justice"*
+<b id="f8">8</b> On peut lire dans le rapport d'activité de DG qui dépend directement du ministre de la Justice que * "Depuis 1999, la direction générale des établissements pénitentiaires n'avait plus publié de rapport annuel d'activités. Pourtant, un tel document est une source d'informations précieuse pour l'extérieur"* peut-on lire dans le rapport de 2007. Rapport D'activité de la Direction générale des établissements pénitentiaires SPF Justice"*
 [↩](#a8)
 
 <b id="f9">9</b>
-Il m'a été nécessaire, au vu de l'urgence, de remette à plus tard l'analyse du travail effectué par les détenus au sein du système carcéral. Autrement dit, lorsque nous parlerons du travail au sein des établissements pénitentiaires, nous  omettrons par simplicité les "travaux domestiques" et 'travaux privés" des détenus qu'est sensé assuré la régie du travail pénitentiaire. Notez bien que ce choix n'est en rien motivé par l'inutilité de cette problémetique afin de qualifié la "concentration des détenus" -tout du contraire, mais bien plutôt parce que ce point nécessiterait un travail à part. 
+Il m'a été nécessaire, au vu de l'urgence, de remettre à plus tard l'analyse du travail effectué par les détenus au sein du système carcéral. Autrement dit, lorsque nous parlerons du travail au sein des établissements pénitentiaires, nous  omettrons par simplicité les "travaux domestiques" et 'travaux privés" des détenus qu'est sensé assurer la régie du travail pénitentiaire. Notez bien que ce choix n'est en rien motivé par l'inutilité de cette problématique lorsqu'il s'agira de qualifier la "concentration des détenus" -tout du contraire, mais bien plutôt parce que ce point nécessiterait un travail à part tant les données en la matière sont rares. 
 [↩](#a9)
 
 <b id="f10">10</b> Turtelboom Annemie dans le Rapport d'activités 2011 de la Direction Générale des Etablissement Pénitentiaires, p. 1
@@ -450,6 +450,5 @@ Il m'a été nécessaire, au vu de l'urgence, de remette à plus tard l'analyse 
 <b id="f11">11</b>
 Vervaet, Luk, Guantanamo chez nous ?, édition Antidote, 2014, p. 43
 [↩](#a11)
-
 
 
