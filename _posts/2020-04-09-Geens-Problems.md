@@ -11,24 +11,25 @@ meta: "sante"
 
 Une email et quelques pièces jointes. Le problème de la définition des variables. 
 
-Le huit mars, quelques jours après qu'une émeute ait éclatée dans une des 4 nouvelles prisons du système pénitentiaire, celle de Leuze-en-hainaut, suite, dit-on,  à un rationnement alimentaire défaillant -Les détenus aurait réfusé de rentrer en cellule après une pause pour contester l'aggravement de leurs conditions de détentions- alors que les statistiques péninetiaires révêlait un doublement des cas de Corona Virus parmi les détenus, les questions posés au minitre de la justice Koean Geens par les parlementaires ont été nombreuses.
+Le huit mars, quelques jours après qu'une émeute ait éclatée dans une des 4 nouvelles prisons du système pénitentiaire, celle de Leuze-en-hainaut, suite, dit-on,  à un rationnement alimentaire défaillant -Les détenus aurait réfusé de rentrer en cellule après une pause pour contester l'aggravement de leurs conditions de détention- alors que les statistiques péninetiaires révêlaient un doublement des cas de Corona Virus parmi les détenus, Koean Geens répondit aux questions posés au minitre de la justice par les parlementaires. 
 
-Parmi les partis Francophones, le parti Socialiste par l'intermédiaire de deux députés, Özlem Özlem et Anouity Kahlil, a pris la parole en mettant en avant deux problématiques dtsintincte mais qui complémentaires du point de vue de l'adminitations des personnes détenues.  Alors qu'Anouty s'est atardés sur les "délais" et le plus globalement sur le retard pris en amont des condamnations, Özlem s'est quant à elle attardée sur le problème de la surpolation en tant que tel, soit le nombre de détenus. 
+Le parti Socialiste par l'intermédiaire de deux députés, Özen Özlem (PS) et Aouasti Khalil (PS), a pris la parole en mettant en avant deux problématiques distinctincte mais complémentaires du point de vue de l'administration des personnes détenues.  Alors qu'Anouasti s'est attardé sur les "délais" et le plus globalement sur le retard pris en amont des condamnations questionnant les moyens technologiques comme la mise en place d'un système de signatures électroniques  pour les actes de procédures et les jugements, Özlem a quant à elle ciblée le problème de la surpolation en tant que tel, soit le nombre de détenus. 
 
 
 <div style="text-align: center"><audio src="{{ site.baseurl }}/assets/aouastikhalil.mp4" controls loop> Défi </audio></div>
 
-Rohani pour le parti libéral francophone bruxellois, Défi, a pris la parole en se réjouissant des enseignements de cette période pour le jour prochain où l'on réformera le code Pénal. Selon elle, la concommitance de deux événements, une diminution du nombre de personnes sous écrous et une situation non-problématique en dehors de prisons sont des éléments importants à garder en tête si on souhaite réformer le système carcérale. 
+Notons que le député Aouasti Khalil a relayé la proposition de l'ordre des avocats et avocates néerlandophones visant à une prorogation des délais qui préconise une suspension unique des délais afin de garantir l'accès à un juge aux justiciables.
 
-Lors de ses réactions à la réponse du Ministre, tenace, elle a mis en avant le communiqué du Conseil Central des Prisons pointant la perte de revenu engendré dans le chef des détenus tout en émettant des doutes aux sujets des informations relayées par le Minstre Geens.
+Rohonyi Sophie (DéFI) pour le parti libéral francophone bruxellois, Défi, a pris la parole en se réjouissant des enseignements de cette période pour le jour prochain où l'on réformera le code Pénal. Selon elle, la concommitance de deux événements, une diminution du nombre de personnes sous écrous et une situation non-problématique en dehors de prisons sont des éléments importants à garder en tête si on souhaite réformer le système carcérale. 
+
+Lors de ses réactions à la réponse du Ministre Geens, tenace, elle a mis en avant le communiqué du Conseil Central des Prisons pointant la perte de revenu engendré dans le chef des détenus tout en émettant des doutes aux sujets des informations relayées par le Minstre Geens.
 
 <div style="text-align: center"><audio src="{{ site.baseurl }}/assets/defi.mp4" controls loop> Défi </audio></div>
 
-Le PTB et Ecolo mirent reprirent quant à eux les flambeaux des acteurs et actrices présentes sur "les terrains". 
+Le PTB et Ecolo reprirent quant à eux les flambeaux des acteurs et actrices présentes sur "les terrains". 
 
-Parmis les partis néerlandophones, le seule à poser une question  portant sur le satut des détenus fut Stephan Van Aecker. 
+Ecolo s'est notamment démarqué par une proposition concrète concernant deux éléments soulevés par d'autres partis aussi  : le problème de la téléphonie alors que les contacts avec les proches sont interdits, les députés ont proposé d'utiliser durant le confinement le matériel ICT disponible pour permettre à ceux-ci d'exister. 
 
-Ecolo s'est notamment démarqué par une proposition concrète concernant deux éléments soulevés par d'autres partis aussi  : le problème de la téléphonie alors que les contacts avec les proches sont interdits,  ciblée pour les détenus, alors que l'ensembles de ces partis se réclamaient des organismes de controles nationaux, internationaux de même que des organisations non gouvernmentales.
 
 Stefan Van Aecker
 
@@ -38,7 +39,7 @@ et Zakia Kathabi
 
 <div style="text-align: center"><audio src="{{ site.baseurl }}/assets/ecolofr.mp4" controls loop> ecolofr </audio></div>
 
-Le MR, le Vlams Belang et la NVA se sont positionnés en faveurs d'une augmentation des capacités pénitentiataires, après, pour deux d'entre eux, avoir cherché à se rassuré sur le non-assouplissement des conditions de détentions actuelles.
+Le MR, le Vlams Belang et la NVA se sont positionnés en faveur d'une augmentation des capacités pénitentiataires, après, pour deux d'entre eux, avoir cherché à se rassurer sur le non-assouplissement des conditions pénitentiaires actuelles.
 
 Le minitre Geens a simplement répondu que l'offre pénitentiaire se résume toujours à celle d'un double régime. Le régime pénitentiaire externe et le régime pénitentiaire interne. Avec les circulaires actuelles, l'idée est de favoriser la coopération entre les différents niveaux de pouvoir, et en bonne langue de bois, d'essayer de trasférer au maximum la gestion journalière des détenus aux échellons communautéaires et régionnaux. Il s'est félicité d'avoir réussi à diminuer le nombre de détenus mais n'a toujours pas décidé de coopérer avec les instances internationnales reltaivement à la publicité de ces informations.
 
