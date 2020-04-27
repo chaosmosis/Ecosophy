@@ -52,6 +52,8 @@ Rappelons donc que la loi de 2005 concerne Statut juridique interne, soit l'ense
 
 Malheureusement, 15 après, l'ensemble de ces deux lois n'est pas encore entré en vigueur, <sup id="a15">[15](#f15)</sup>. Ainsi, concrètement, "petite morceaux" par "petits morceaux" les droits subjectfifs apparaissent. ce qui n'est évidement pas sans conséquences sur l'état de droit en prison  au jour le jour. <sup id="a16">[16](#f16)</sup> comme le souligne Marie-Aude Beernaert.
 
+<div style="text-align: center"><img src="{{ site.baseurl }}/assets/Capture d’écran 2020-04-27 à 16.21.14.png" alt="systeme"></div>
+
 ###La loi de principe de 2005
 
 ###La loi sur le statut juridique externes des détenus de 2006
