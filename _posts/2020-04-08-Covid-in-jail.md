@@ -22,29 +22,17 @@ Nous illustrerons avec la Prison-le-leuze les problèmes que semblent poser, au 
  
 Ainsi, dans un cinquième et dernier temps, et en guise de conclusion, nous terminerons par interroger,  à l'aune des données que nous avons réussi à récolter et présentés aux temps précédents, "le Plan Judiciaire" que le Ministre de la Justice, Koen Geens, a soumis à la Chambre des Représentants le 8 Avril 2020.
 
+## Le contexte. 
 
-
-```{r}
-
-prison <- read.csv("prison.csv", header = TRUE, sep = ";", dec =",")
-rownames(prison)=prison[,1]
-rownames(prison)
-
-[1] "Antwerpen"                    "Beveren"                      "Brugge"                       "Dendermonde"                  "Gent"                         "Hasselt_Nieuw"               
- [7] "Hoogstraten"                  "Ieper"                        "Leuven_Centraal"              "Leuven_Hulp"                  "Malines_Maison_de_transition" "Mechelen"                    
-[13] "Merksplas"                    "Oudenaarde"                   "Ruiselede"                    "Tongeren_Nieuw"               "Turnhout"                     "Wortel"                      
-[19] "Andenne"                      "Arlon"                        "Dinant"                       "Enghien_Maison_de_transition" "Huy"                          "Ittre"                       
-[25] "Jamioulx"                     "Lantin"                       "Leuze-en-Hainaut"             "Marche-En-Famenne"            "Marneffe"                     "Mons"                        
-[31] "Namur"                        "Nivelles"                     "Paifve"                       "St._Hubert"                   "Tournai"                      "Berkendael"                  
-[37] "Forest"                       "St-Gilles"                   
-```
-
-
-## Le contexte
-
-C'est dans un contexte de sous-financement, d'informatisation et de manquement graves et répétés à ses obligations les plus élémentaires en matière de droits humains notamment que le désormais célèbre virus Covid-19" est apparu dans les mailles de la vie économique des détenus et non détenus dont est responsable le ministre de la Justice. 
+C'est dans un contexte de déséquilibre budgétaire, d'informatisation et de manquement graves et répétés à ses obligations les plus élémentaires en matière de droits humains notamment que le désormais célèbre virus Covid-19" est apparu dans les mailles de la vie économique des détenus et non détenus dont est responsable le ministre de la Justice. 
 
 A cet égard, il nous semble donc indispensable, dans le premier temps de cette section de rappeler rapidement le cadre législatif qui enserre les pratiques du ministre de la Justice en matière de droit pénitentiaire. Comme on le sait, les droits subjectifs des détenus et détenues ont été très clairement identifié par les lois de principes de 2005 et 2006.<sup id="a13">[13](#f13)</sup> 
+
+
+### L'entrée du droit en prison.
+
+
+<div style="text-align: right"><img src="{{ site.baseurl }}/assets/Capture d’écran 2020-04-27 à 16.21.14.png" alt="systeme"></div>
 
 Le principe qui traverse l'ensemble des textes de lois et arrêtés royaux récents relatifs aux détenus, est celui de la la reconnaissance chez les personnes détenues de véritables droits subjectifs. Ainsi, quand bien même les détenus sont sous écrous ou non, ceux et celles-ci  se sont vu reconnaitre tout une série de droits fondamentaux lors de leurs détention. Les détenus restent des sujets de droit, des citoyens et citoyennes à part entière en ce que la seule peine qui peut leur être infligé est celle de la privation de liberté, soit du droit d'aller ou venir. C'est ce que Marie-aude Beernaert notamment a appelé l'histoire de l'entré du droit en prison". <sup id="a14">[14](#f14)</sup> 
 
@@ -52,11 +40,10 @@ Rappelons donc que la loi de 2005 concerne Statut juridique interne, soit l'ense
 
 Malheureusement, 15 après, l'ensemble de ces deux lois n'est pas encore entré en vigueur, <sup id="a15">[15](#f15)</sup>. Ainsi, concrètement, "petite morceaux" par "petits morceaux" les droits subjectfifs apparaissent. ce qui n'est évidement pas sans conséquences sur l'état de droit en prison  au jour le jour. <sup id="a16">[16](#f16)</sup> comme le souligne Marie-Aude Beernaert.
 
-<div style="text-align: center"><img src="{{ site.baseurl }}/assets/Capture d’écran 2020-04-27 à 16.21.14.png" alt="systeme"></div>
 
-###La loi de principe de 2005
+### La loi de principe de 2005
 
-###La loi sur le statut juridique externes des détenus de 2006
+### La loi sur le statut juridique externes des détenus de 2006
 
 
 
@@ -422,6 +409,26 @@ Ainsi, d'après ces statistiques, seuls sept prisons avaient, au début du mois 
 
 ## le cas de la Prison de Leuze-en-Hainaut
 
+
+
+
+```{r}
+
+prison <- read.csv("prison.csv", header = TRUE, sep = ";", dec =",")
+rownames(prison)=prison[,1]
+rownames(prison)
+
+[1] "Antwerpen"                    "Beveren"                      "Brugge"                       "Dendermonde"                  "Gent"                         "Hasselt_Nieuw"               
+ [7] "Hoogstraten"                  "Ieper"                        "Leuven_Centraal"              "Leuven_Hulp"                  "Malines_Maison_de_transition" "Mechelen"                    
+[13] "Merksplas"                    "Oudenaarde"                   "Ruiselede"                    "Tongeren_Nieuw"               "Turnhout"                     "Wortel"                      
+[19] "Andenne"                      "Arlon"                        "Dinant"                       "Enghien_Maison_de_transition" "Huy"                          "Ittre"                       
+[25] "Jamioulx"                     "Lantin"                       "Leuze-en-Hainaut"             "Marche-En-Famenne"            "Marneffe"                     "Mons"                        
+[31] "Namur"                        "Nivelles"                     "Paifve"                       "St._Hubert"                   "Tournai"                      "Berkendael"                  
+[37] "Forest"                       "St-Gilles"                   
+```
+
+
+
 La prison de Leuze-en-hainaut est le fruit d'une période que d'aucuns ont pu caractériser comme celle de "l'Explosion Carcérale"<sup id="a11">[11](#f11)</sup>.
 
 En 2011, la Ministre de la Justice constate que  "le nombre et la qualité des places de détention dans les prisons belges sont souvent insuffisants". La ministre annonce qu'elle s'inscrit dans la dynamique de son prédécesseur, le Ministre Stephan de Clerck : 
@@ -500,5 +507,5 @@ Au cours du siècle précédent, la prison était un lieu d'infra droit pour les
 [↩](#a14)
 
 <b id="f15">15</b>
-Notons notamment que l'entrée en vigueur du doit de plainte des détenus, notamment via la mise en place de commission de plainte, a de nouveau été reporté en Novembre 2019 alors qu'il devait entrer en vigueur en Avril 2020, et ce après huit précédents reports.
+Notons notamment que l'entrée en vigueur du doit de plainte des détenus, notamment via la mise en place de commission de plainte, a de nouveau été reporté en Novembre 2019 alors qu'il devait entrer en vigueur en Avril 2020, et ce après trois précédents reports.
 [↩](#a15)
