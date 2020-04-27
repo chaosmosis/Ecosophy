@@ -10,10 +10,11 @@ meta: "sante"
 
 ## Introduction
 
-Vu l'urgence, l'enjeu de ce petit texte est de faire un pont entre les statistiques dont dispose l'administration pénitentiaire pour qualifier les conditions de vie des détenus au sein de ses lieux de détentions et les mesures à prendre lors du *déconfinement* attendu. Dans cet esprit, ici et maintenant, en mobilisant les rares données rendues disponibles par l'administration pénitentiaire, bien souvent sous la pression des organismes en charge de son contrôle- à une heure où seulement les diplomates, les avocats et avocates des détenus sont autorisés à entrer en contact avec les détenus<sup id="a7">[7](#f7)</sup>, je vous propose de procéder à une brève analyse descriptive de ces statistiques. Statistiques, qui, comme toutes statistiques pénitentiaires, ont le mérite d'être, quoique peu nombreuses, aussi, une approximation de la manière dont l'administration du Royaume de Belgique appréhende les personnes qu'elle administre tant que faire se peut.<sup id="a6">[6](#f6)</sup>. 
+Vu l'urgence, l'enjeu de ce petit texte est de faire un pont entre les statistiques dont dispose l'administration pénitentiaire pour qualifier les conditions de vie des détenus au sein de ses lieux de détentions et les mesures à prendre lors du *déconfinement* attendu.<sup id="a7">[7](#f7)</sup> 
 
+Dans cet esprit, je vous propose de procéder à une brève analyse descriptive de ces statistiques. Statistiques, qui, comme toutes statistiques pénitentiaires, ont le mérite d'être, quoique peu nombreuses, aussi, un angle de vue de la manière dont l'administration du Royaume de Belgique appréhende les personnes qu'elle administre tant que faire se peut en qualités de détenu ou non.<sup id="a6">[6](#f6)</sup>. 
 
-Dans un premier temps, il s'agira donc de s'entendre sur quelques unes des définitions qui nous serviront dans la suite de ce texte. Celles-ci - moyennes, médiane, pourcentages, etc. - nous permettront, d'une part,  dans les deuxième, troisième et quatrième temps, de jauger de ce que le Ministre Geens a appellé la *concentration des détenus* au sein des prisons, et d'autre part, d'évaluer la *distribution des personnels* au sein du système carcéral belge pour enfin évaluer l'impact de ce régime de régulation d'exeption sur la vie économique au sein des prisons.
+Dans un premier temps, il s'agira donc de s'entendre sur quelques unes des définitions qui nous serviront dans la suite de ce texte. Celles-ci - moyennes, médiane, pourcentages, etc. - nous permettront, d'une part,  dans les deuxième, troisième et quatrième temps, de jauger de ce que le Ministre Geens a appelé la *concentration des détenus* au sein des prisons, et d'autre part, d'évaluer la *distribution des personnels* au sein du système carcéral belge pour enfin évaluer l'impact de ce régime de régulation d'exception sur la *vie économique* au sein des prisons.
 
 En effet, outillés de ces notations pour l'analyse du nombre de détenus par prison et selon leurs "statuts légaux", après avoir étudié brièvement les nombres relatifs aux personnels agissant au seins des prisons, nous reviendrons sur les statistiques dont nous disposons concernant les "capacités de production" où se rencontrent les deux entités phares de tout système carcéral : les détenus et les personnels de surveillance. 
 
@@ -39,15 +40,25 @@ rownames(prison)
 ```
 
 
-## Les mesures
+## Le contexte
 
-Un contexte de sous-fniameent et d'informatisation.
+C'est dans un contexte de sous-financement, d'informatisation et de manquement graves et répétés à ses obligations les plus élémentaires en matière de droits humains notamment que le désormais célèbre virus Covid-19" est apparu dans les mailles de la vie économique des détenus et non détenus dont est responsable le ministre de la Justice. 
 
-Un principe qui traverse l'ensemble des arrêtés, c'est la question de l'oralité des débats et de la publicité des audience et de la justice, on y porte atteinte, à travers les arrêtes royaux de ouvoiurs spéciaux pour organiser. 
+A cet égard, il nous semble donc indispensable, dans le premier temps de cette section de rappeler rapidement le cadre législatif qui enserre les pratiques du ministre de la Justice en matière de droit pénitentiaire. Comme on le sait, les droits subjectifs des détenus et détenues ont été très clairement identifié par les lois de principes de 2005 et 2006.<sup id="a13">[13](#f13)</sup> 
+
+Le principe qui traverse l'ensemble des textes de lois et arrêtés royaux récents relatifs aux détenus, est celui de la la reconnaissance chez les personnes détenues de véritables droits subjectifs. Ainsi, quand bien même les détenus sont sous écrous ou non, ceux et celles-ci  se sont vu reconnaitre tout une série de droits fondamentaux lors de leurs détention. Les détenus restent des sujets de droit, des citoyens et citoyennes à part entière en ce que la seule peine qui peut leur être infligé est celle de la privation de liberté, soit du droit d'aller ou venir. C'est ce que Marie-aude Beernaert notamment a appelé l'histoire de l'entré du droit en prison". <sup id="a14">[14](#f14)</sup> 
+
+Rappelons donc que la loi de 2005 concerne Statut juridique interne, soit l'ensemble des droits des personnes détenues ont tant que résident des établissement pénitentiaires. Cette loi est aussi connue comme la loi du Dupont. La loi de 2006 concerne quant à elle, le Statut juridique Externe qui a enfin coulé dans un texte législatif, le droit des condamnés à récupérer un jour ou l'autre sa liberté de mouvement.
+
+Malheureusement, 15 après, l'ensemble de ces deux lois n'est pas encore entré en vigueur, <sup id="a15">[15](#f15)</sup>. Ainsi, concrètement, "petite morceaux" par "petits morceaux" les droits subjectfifs apparaissent. ce qui n'est évidement pas sans conséquences sur l'état de droit en prison  au jour le jour. <sup id="a16">[16](#f16)</sup> comme le souligne Marie-Aude Beernaert.
+
+###La loi de principe de 2005
+
+###La loi sur le statut juridique externes des détenus de 2006
 
 
 
-### les arrêtés spéciaux de pouvoirs spéciaux en matière de la Justice
+## les arrêtés spéciaux de pouvoirs spéciaux en matière de la Justice
 
 
 ### L'arrêté ministériel du 23 Mars 2020 
@@ -125,14 +136,14 @@ Tenter de délimiter un ensemble de concepts pour en tracer une évolution numé
 
 Si on limite notre aperçu chronologique aux premières décades de ce millénaire, force est de constater que la direction général des établissements pénitenciers a changé son fusil d'épaule.  Notons le simple fait que l'administration pénitentiaire rendait son premier rapport d'activités depuis quasi 10 ans en 2007. 
 
-Quoique cette DG des établissements pénitentaires comptabilise seulement 9 rapports d'activités sur 20 ans, notons bien que ceux-ci sont peuvent nous donner un succinct aperçu de l'organisation du travail et de "la distribution des détenus" au sein des prisons.<sup id="a8">[8](#f8)</sup> <sup id="a9">[9](#f9)</sup> mais aussi et surtout sur la notion de "détenus" pour la DG des établissements pénitentiaires.
+Quoique cette DG des établissements pénitentiaires comptabilise seulement 9 rapports d'activités sur 20 ans, notons bien que ceux-ci sont peuvent nous donner un succinct aperçu de l'organisation du travail et de "la distribution des détenus" au sein des prisons.<sup id="a8">[8](#f8)</sup> <sup id="a9">[9](#f9)</sup> mais aussi et surtout sur la notion de "détenus" pour la DG des établissements pénitentiaires.
 
 
 ### N'est pas détenu qui veut. 
 
 > "Aucune personne ne peut être administrée ou retenu dans une prison en qualité de détenu sans une ordonnance d'incarcération valable, conformément au droit interne"
 
-Alors que cet extrait de la Recommandation Européenne sur les Règles Pénitentiaires est clair quant à la naissance de la "qualité de détenu" au sein d'une prison et au sein des pays membres du conseil de l'Europe, l'insécurité juridique pour les personne détenues en Belgique est patente.
+Alors que cet extrait de la Recommandation Européenne sur les Règles Pénitentiaires est clair quant à la naissance de la "qualité de détenu" au sein d'une prison et au sein des pays membres du conseil de l'Europe, l'insécurité juridique pour les personne détenues en Belgique reste patente. 
 
 En effet, même si, au sein d'un système carcérale belge,  la qualité de détenu devrait, selon l'article  12 de la Constitution belge, 3ème alinéa, dépendre d'un "juge" au sens courant du terme :
 
@@ -413,8 +424,8 @@ La prison de Leuze-en-hainaut est le fruit d'une période que d'aucuns ont pu ca
 
 En 2011, la Ministre de la Justice constate que  "le nombre et la qualité des places de détention dans les prisons belges sont souvent insuffisants". La ministre annonce qu'elle s'inscrit dans la dynamique de son prédécesseur, le Ministre Stephan de Clerck : 
 
-> "Nous devons continuer nos efforts sur le Masterplan dont les premières réalisations deviennent peu à peu concrètes. Les contrats des quatre nouvelles prisons
-à Beveren, Termonde, Marche-en-Famenne et Leuze-en- Hainaut ont été signés." <sup id="a10">[10](#f10)</sup> 
+> "Nous devons continuer nos efforts sur le Masterplan dont les premières réalisations deviennent peu à peu concrètes. Les contrats des quatre nouvelles prisons
+à Beveren, Termonde, Marche-en-Famenne et Leuze-en- Hainaut ont été signés." <sup id="a10">[10](#f10)</sup> 
 
 
 La construction de l'établissement Pénitentiaire de Leuze n'a pas été sans faire couler beaucoup d'encre. L'établissement que l'on qualifiera lors de son ouverture au "public" en 2014, de "cathédral de  lumière" <sup id="a12">[12](#f12)</sup>  connait quelques oppositions de la part des riverains du site de 14 hectares que cette prison va couvrir de 312 cellules. Cependant, cela n'inquiète pas outre mesure la régie des bâtiments qui porte le projet. Comme le pouvait le lire dans la presse nationale, c'est véritable en Janvier que 2013 que les travaux ont pu débuter: 
@@ -474,5 +485,18 @@ Vervaet, Luk, Guantanamo chez nous ?, édition Antidote, 2014, p. 43
 
 <b id="f12">12</b>
 voy. article de la Province, 
-[↩](#a11)
+[↩](#a12)
 
+
+<b id="f13">13</b>
+On le sait, ces deux lois de Principes, sont les fruits d'une réflexion entamée sous le ministre de la Justice Stephan de Clerk, qui chargea en son temps le professeur de droit pénal de l'université catholique de Louvain Lieven Dupont de le réforme du code pénal. A ce sujet,  voy. Vervaet, Luk, Guantanamo chez nous ?, édition Antidote, 2014, p. 43
+[↩](#a13)
+
+
+<b id="f14">14</b>
+Au cours du siècle précédent, la prison était un lieu d'infra droit pour les personnes qui y étaient détenue. Pratiquement, les personnes détenues n'avait aucun droits subjectifs reconnus dans le cadre législatif belge, mais dépendait de règles tout a fait arbitraire qui ne garantissaient aucunement les régles élémentaire d'un état de droit, à savoir la publicité des débats. A ce sujet,  voy. https://soundcloud.com/amours-piments/les-portes-du-penitencier-1-marie-aude-beernaert
+[↩](#a14)
+
+<b id="f15">15</b>
+Notons notamment que l'entrée en vigueur du doit de plainte des détenus, notamment via la mise en place de commission de plainte, a de nouveau été reporté en Novembre 2019 alors qu'il devait entrer en vigueur en Avril 2020, et ce après huit précédents reports.
+[↩](#a15)
