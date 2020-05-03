@@ -9,6 +9,9 @@ meta: "sante"
 # Essai sur la chaîne d’approvisionnement du Bitcoin. […]
 
 
+<div style="text-align: center"><img src="{{ site.baseurl }}/assets/compotechnbe.png" alt="compo"></div>
+
+
 Comme on le sait, l’industrie des services financiers est sous le joug d’une transformation de fond qui se justifie la plupart du temps par une basculement nécessaire dans une ère de la « digitalisation de la chaine de la valeur ».
 
 On a la même impression lorsque l’on sort de la gare centrale, à Bruxelles. on sent que quelque chose se passe. On détruit le vieux bâtiment ING que personne ne regrettera sur le mont des arts et on licencie à l’hôte des monnaies. Albert et Astrid n’en démordent pas, Godefroid de Bouillon continue de veiller derrière eux.
@@ -86,3 +89,10 @@ De quoi relève ces changements substantiels dans la composition de la force de 
 Il semble que le soutien administratif ne soit plus indispensable. Et parallèlement les techniciens et des professionnels détachés font leur apparition en masse. Comme si le secteur financier allait chercher de l’aide ailleurs que dans les « Warms bodies » du soutien administratif. 
 
 Remarquons encore que cette substitution des rôles ne se fait pas poste pour poste. Le soutien administratif n’obtient pas le statut de Professionnel du jour au lendemain. (il fait se former hurle derrière moi le zélé des finances) . 
+
+
+
+<b id="f12">12</b>
+voy. article de la Province, 
+[↩](#a12)
+
