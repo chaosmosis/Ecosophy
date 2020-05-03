@@ -8,6 +8,7 @@ meta: "sante"
 
 # Essai sur la chaîne d’approvisionnement du Bitcoin. […]
 
+## Contexte de la recherche
 
 L’objectif de cet article est d’esquisser les grands points d’une enquête en cours dans le cadre d’un programme de doctorat entre Paris et Bruxelles au sujet du bitcoin et de sa politique d’approvisionnement.  
 
@@ -31,11 +32,11 @@ Comme le souligne l’un des artisanes de ce concept, Anna Tsing, « de telles 
 
 Ainsi dans le cas du Bitcoin on pense évidemment tout de suite aux millions d’ordinateurs qui tournent jours et nuits afin de faire fonctionner ces systèmes. Aux batteries qu’il faut remplacer. On pense à celles et ceux qui doivent les récupérer. On pense à toute l’électricité nécessaire pour faire tourner ce système dit du « minage ». On se rappelle des lois sur les mines, de rapports infamant sur les houillères des bassins miniers belges et anglais dont Marx relate l’épopée dans le premier livre du capital. On pense aussi aux milliers de pages écrites au sujet des meilleurs moyens à adopter afin de s’échanger des marchandises. On pense  encore aux marchands et acheteurs qui s’outillent ci et là de ces outil électroniques que d’aucuns n’hésite pas comparer la dite révolution d’internet. 
 
-Pour notre part, nous proposons ici d’étudier en trois point le bitcoin en suivant ce dernier à l’aide de la notion de d’approvisionnement. Nous nous pencherons premièrement sur sa relation avec l’industrie de la finance et des services, ensuite sur l’un des ses composantes essentielle qui donne aux microprocesseurs des dits mineurs toute leur puissance :  l’or, et enfin, avant de conclure sur les aspect monstrueux que déploye le Bitcoin et son monde, nous pencherons sur l’un des se premier fait d’armes.
+Pour notre part, nous proposons ici d’étudier en trois point le bitcoin en suivant ce dernier à l’aide de la notion de d’approvisionnement. Nous nous pencherons premièrement sur sa relation avec l’industrie de la finance, ensuite sur l’une des des composantes essentielles de "la chaine de valeur digital" qui donne aux microprocesseurs des dits "mineurs de Bitcoin" toute leur puissance :  l’or, et enfin, avant de conclure sur les aspect monstrueux que déploye le Bitcoin et son monde, je me  pencheroai sur l’un des se premier fait d’armes, l'arrestation de Ross Ulbricht.
 
-Considérer le bitcoin comme une chaine d’approvisionnement concentre notre attention sur les questions de diversité à l’intérieur des structures du pouvoir économique, social et idéologique.  Les questions soulevées par les chaines d’approvisionnements sont clefs pour une conversation sur les richesses et les justices à l’heure d’aujourd’hui. Il est grand temps d’en finir avec le bon sens de la classe des affaires.
+Considérer le bitcoin comme une chaine d’approvisionnement concentre notre attention sur les questions de diversité à l’intérieur des structures du pouvoir économique, social et idéologique.  Les questions soulevées par les chaines d’approvisionnements sont clefs dans la mesure où l'on chercher à caractérise le problème de la crise de la mesure de la valeur, considéré par André Gorz, comme la Crise du Capitalisme tout court.
 
-## Contexte de la recherche
+## L'industrie de la finance et des services
 
 Secteur relativement protéger par le mouvement de fragmentation de la production à l’échelle mondiale qui donnèrent à Seraing et Detroit un bloom du précaire désormais historique, le secteur de l’industrie et des services financiers européen connaît depuis le début du millénaire chrétien une restructuration sans précédent. Il ne se passe pas un mois depuis la fameuse « crise financière » de 2008 sans qu’on puisse lire dans la presse économique des nouvelles de ce que les capitaines d’industrie opérant sur le sol belge appellent des « plan d’investissement » pour l’avenir. 
 
@@ -52,18 +53,40 @@ Le 21 septembre 2017, dans le soir, on annonce que BNB Paribas Fortis « invoqu
 
 ## Le secteur de la finance et des assurances 
 
-À l’instar de ce que l’on retrouve dans l’industrie automobile, Dominique Plihon et Pestre souligne que deux logiques de division du travail se font faces dans l’industrie financière, une logique cognitive et taylorienne. Ceci conduit à un double processus : « d’une part un mouvement de polarisation et de concentration de l’industrie des services aboutissant à l’émergence de très grands centres financiers internationaux, situés au cœur des mégapoles ; d’autre part, un phénomène de fragmentation et de délocalisation à l’échelle internationale, selon un schéma comparable à celui observé dans la plupart des autres secteurs industriels. »
+À l’instar de ce que l’on retrouve dans l’industrie automobile, Dominique Plihon et El Mouhoub Mouhoud soulignent que deux logiques de division du travail se font faces dans l’industrie financière, une logique cognitive et taylorienne. Ceci conduit à un double processus : « d’une part un mouvement de polarisation et de concentration de l’industrie des services aboutissant à l’émergence de très grands centres financiers internationaux, situés au cœur des mégapoles ; d’autre part, un phénomène de fragmentation et de délocalisation à l’échelle internationale, selon un schéma comparable à celui observé dans la plupart des autres secteurs industriels. »
 
-Pour comprendre ce double processus, ces auteurs nous invitent à distinguer  trois type d’activités : les banques de détails ou de réseau (retail banking), la banque de gestion d’actifs (asset management) et la banque d’investissement (investment banking). Ces trois fonctions requièrent des compétences et des formes d’organisation très différentes. Le découpage des taches et des métiers entre trois niveaux : front , middle, et back offices. Ce découpage organisationnel en trois blocs s’apparente à la fragmentation de la production observée dans les firmes industrielles. […] Le front office, essentiellement les commerciaux et chargés des relations avec la clientèle. Le middle et le back office sont chargés des taches techniques et de contrôle pour partie routinières.»
+Pour comprendre ce double processus, ces auteurs nous invitent à distinguer trois type d’activités : 
 
-Quoique « Cette parcellisation » en bloque de taches laisse à penser qu’elle correspond à une désindustrialisation, selon Plihon et El moumoud, ce double processus est répond bien à une logique d’ industrialisation de la production bancaire. Selon eux, ce processus n’en est pas moins sans conséquences sur le processus industriel. Elle se traduit par « un appauvrissement des taches, réalisées sous la contrainte de rentabilité à court terme, ce qui pourrait se révéler contre-productif à long terme. Les backs offices sont de plus en plus regroupés sur des réformes spécialisés au sein des directions CRM afin de maitriser les charges. Autrefois, chaque agence bancaire était couplée un back office. Aujourd’hui un seul back office travaille pour un ensemble des back offices est recrité au niveau bac ou bac + E, tandis que les personnels des font offices, les salles de marché, sont souvent de biveau bac + 5 et diplôme des grandes écoles. »
+> "les banques de détails ou de réseau (retail banking), la banque de gestion d’actifs (asset management) et la banque d’investissement (investment banking). Ces trois fonctions requièrent des compétences et des formes d’organisation très différentes. Le découpage des taches et des métiers entre trois niveaux : front , middle, et back offices. Ce découpage organisationnel en trois blocs s’apparente à la fragmentation de la production observée dans les firmes industrielles. […] Le front office, essentiellement les commerciaux et chargés des relations avec la clientèle. Le middle et le back office sont chargés des taches techniques et de contrôle pour partie routinières.»
 
-Ainsi, “loin de se traduire par une dispersion tous azimut des activités dans un vaste réseau mondial, les activités tendent à se concentrer dans les grandes agglomérations des pays riches, mais aussi à se délocaliser de manière sélective vers des zones périphériques alliant des coût salariaux limités et des infrastructures efficientes. »
+Quoique « cette parcellisation » en bloque de taches laisse à penser qu’elle correspond à une désindustrialisation, selon Plihon et El Mouhoub Mouhoud, ce double processus répond à une *"logique d'industrialisation de la production bancaire"*. Selon eux, ce processus n’en est pas moins sans conséquences sur le processus industriel. Elle se traduit par 
+
+> « un appauvrissement des tâches, réalisées sous la contrainte de rentabilité à court terme, ce qui pourrait se révéler contre-productif à long terme. Les backs offices sont de plus en plus regroupés sur des réformes spécialisés au sein des directions CRM afin de maitriser les charges. Autrefois, chaque agence bancaire était couplée un back office. Aujourd’hui un seul back office travaille pour un ensemble des back offices est recruté au niveau bac ou bac + 2, tandis que les personnels des font offices, les salles de marché, sont souvent de biveau bac + 5 et diplôme des grandes écoles. »
+
+Ainsi, *“loin de se traduire par une dispersion tous azimut des activités dans un vaste réseau mondial, les activités tendent à se concentrer dans les grandes agglomérations des pays riches, mais aussi à se délocaliser de manière sélective vers des zones périphériques alliant des coût salariaux limités et des infrastructures efficientes."*
 
 ### Le secteur de la finance et des assurances en Belgique depuis 2008
 
 
+<div style="text-align: center"><img src="{{ site.baseurl }}/assets/graph1.png" alt="graph1"></div>
+
+
 Comme on peut le voir aisément sur le graphique ci-dessous, le nombre d’emplois de soutiens administratif au sein du secteur financier diminue drastiquement entre 2008 et 2016. Le nombre de manager ne connait pas une descente en valeur absolue aussi abrupte que le personnel de bureau mais connait néanmoins une légère diminution de son effectif. Les deux seules catégories d’agents économiques qui connaissent entre 2008 et 2016, en Belgique, une augmentation de leurs effectif, augmentation en dents de scie certes mais augmentation absolue néanmoins, sont les catégories des professionnels et des techniciens et professionnels associés. Remarquons encore aussi qu’à partir de 2010, les techniciens et les professionnels associés dépassent en nombre absolu le nombre de manager dans le secteur de la finance et de l’assurance. C’était le cas des 2009 pour les professionnels. 
+
+
+
+<div style="text-align: center"><img src="{{ site.baseurl }}/assets/graph2.png" alt="graph2"></div>
+
+
+<div style="text-align: center"><img src="{{ site.baseurl }}/assets/graph3.png" alt="graph3"></div>
+
+<div style="text-align: center"><img src="{{ site.baseurl }}/assets/graph4.png" alt="graph4"></div>
+
+<div style="text-align: center"><img src="{{ site.baseurl }}/assets/graph5.png" alt="graph5"></div>
+
+<div style="text-align: center"><img src="{{ site.baseurl }}/assets/compobe.png" alt="compobe"></div>
+compobe
+
 
 Au niveau de l’Europe élargie (eu28), on observe aussi des changements significatifs dans la composition technique de la force de travail. Le nombre de Manager chute considérablement puisqu’en moins de dix ans on dénombre 30 pourcent de manager en moins.  En comparaison avec le cas Belge, le nombre d’emploi dans le soutien administratif diminue au niveau de l’Europe élargie diminue faiblement. 
 
