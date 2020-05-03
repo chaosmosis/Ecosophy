@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mr. Piketty en Belgique"
-categories: stat
+categories: menages
 author: "John Mévergnies"
 meta: "marx"
 ---
