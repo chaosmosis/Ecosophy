@@ -9,6 +9,34 @@ meta: "sante"
 # Essai sur la chaîne d’approvisionnement du Bitcoin. […]
 
 
+L’objectif de cet article est d’esquisser les grands points d’une enquête en cours dans le cadre d’un programme de doctorat entre Paris et Bruxelles au sujet du bitcoin et de sa politique d’approvisionnement.  
+
+En effet, le bitcoin tombe dans le genre de projet qui vise à s’étendre, ce genre de projet qui nous oblige à adopter d’autres lunettes, d’autres perspectives entres différents niveaux, au niveau mesoéconpmique, microéconomique mais aussi macroéconomique. 
+
+Le bitcoin n’est pas seulement un assemblage regroupant différentes composantes de manière aléatoire, c’est une machine qui nous force à penser le monde depuis les états nations et en dehors d’eux. Depuis le monde numérique et en dehors de lui. Sur et sous terre.  Le bitcoin est un espace et temps qui lui propre. Il a ses rythmes et son économie. Il fait petit à petit ses preuves, aiguise les attentions, et mourra un jour. 
+
+Le Bitcoin est un projet qui nous force à imaginer une échelle différente. C’est un monde au conditionnel. 
+
+Le bitcoin pense mais ne parle pas.
+
+En tant que corps social, il se projette, délimite ses frontières et ses priorités.
+
+Dans cet article nous avons décidé d’enquêter sur la chaine d’approvisionnement du bitcoin, cette assemblage machine qui semble être du registre de ce que Arbolede appelle les déterritorialisations monstrueuses.
+
+Nous empruntons ici la définition usuel de chaine d’approvisionnement  entendue comme chaines de marchandises basées sur le « subcontracting », « outsourcing » et les « allied arrangement » grâces auxquels l’autonomie des entreprises qui la compose est établie légalement même si les entreprises sont disciplinées par la chaine prise comme un tout. »
+
+En d’autres termes le bitcoin est entendu ici à l’instar d’un assemblage dont les parties sont irréductibles les unes des autres mais agissent de concert via des arrangements entre alliée, des externalisations contractées et de la sous–traitances. 
+
+Comme le souligne l’un des artisanes de ce concept, Anna Tsing, « de telles chaines d’approvisionnement lient de manière ostensible des entrepreneurs indépendants, rendant possible la diffusion mondiale de procédées marchands. Le travail, la nature et le capital sont mobilisé dans des niches économiques fragmentés mais liées les unes aux autres ». 
+
+Ainsi dans le cas du Bitcoin on pense évidemment tout de suite aux millions d’ordinateurs qui tournent jours et nuits afin de faire fonctionner ces systèmes. Aux batteries qu’il faut remplacer. On pense à celles et ceux qui doivent les récupérer. On pense à toute l’électricité nécessaire pour faire tourner ce système dit du « minage ». On se rappelle des lois sur les mines, de rapports infamant sur les houillères des bassins miniers belges et anglais dont Marx relate l’épopée dans le premier livre du capital. On pense aussi aux milliers de pages écrites au sujet des meilleurs moyens à adopter afin de s’échanger des marchandises. On pense  encore aux marchands et acheteurs qui s’outillent ci et là de ces outil électroniques que d’aucuns n’hésite pas comparer la dite révolution d’internet. 
+
+Pour notre part, nous proposons ici d’étudier en trois point le bitcoin en suivant ce dernier à l’aide de la notion de d’approvisionnement. Nous nous pencherons premièrement sur sa relation avec l’industrie de la finance et des services, ensuite sur l’un des ses composantes essentielle qui donne aux microprocesseurs des dits mineurs toute leur puissance :  l’or, et enfin, avant de conclure sur les aspect monstrueux que déploye le Bitcoin et son monde, nous pencherons sur l’un des se premier fait d’armes.
+
+Considérer le bitcoin comme une chaine d’approvisionnement concentre notre attention sur les questions de diversité à l’intérieur des structures du pouvoir économique, social et idéologique.  Les questions soulevées par les chaines d’approvisionnements sont clefs pour une conversation sur les richesses et les justices à l’heure d’aujourd’hui. Il est grand temps d’en finir avec le bon sens de la classe des affaires.
+
+## Contexte de la recherche
+
 Secteur relativement protéger par le mouvement de fragmentation de la production à l’échelle mondiale qui donnèrent à Seraing et Detroit un bloom du précaire désormais historique, le secteur de l’industrie et des services financiers européen connaît depuis le début du millénaire chrétien une restructuration sans précédent. Il ne se passe pas un mois depuis la fameuse « crise financière » de 2008 sans qu’on puisse lire dans la presse économique des nouvelles de ce que les capitaines d’industrie opérant sur le sol belge appellent des « plan d’investissement » pour l’avenir. 
 
 Et le scénario semble se répéter pour chacune des grosses banques en Belgique. Dans la presse on retrouve depuis 2008 BNB Paribas, Belfius, Axa Banque, Triodos, et c’est à chaque fois le même discours : c’est la faute  à la numérisation si on licencie. Les entreprises ne feraient ainsi que répondre à l’inéducable progrès technologique en matière de gestion de l’information.
@@ -131,7 +159,6 @@ Je me suis intéressé à la série « Emploi par profession et activité écon
 Je me suis arrêté à la section “K”, celles des activités de la finances et de de l’assurance. Celle-ci regroupe des professions de « l’intermédiation financière, des activités liées à la possession de compagnies,  les trust, les fonds et entités financières similaires, les autres activités et de services financiers, les fond de pensions, l’assurance, la réassurance, les activités auxiliaires aux services financiers et activités d‘assurance et les activité de gestion de fonds. »
 
 En Belgique ce secteur compte pour quatre pour cents de la « force de travail Belge » qui est répertorié dans la base de donnée de l’union européenne.  C’est au-dessus le des moyennes  européennes (3%).   En Belgique, ceux et celles qui ont répondu au questionnaire envoyé par les autorités se sont reconnus dans quatre catégories qualifiés de majeures par l’office de statistique européen : les managers, les professionnels, les techniciens et les professionnels associés et les soutiens administratifs.  
-
 
 
 Comme on peut le voir aisément sur le graphique ci-dessous, le nombre d’emplois lié aux soutiens administratifs au sein du secteur financier diminue drastiquement entre 2008 et 2016. 
