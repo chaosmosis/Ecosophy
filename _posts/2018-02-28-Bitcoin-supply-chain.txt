@@ -6,7 +6,7 @@ author: "John Nève"
 meta: "sante"
 ---
 
-# Essai sur la chaîne d’approvisionnement du Bitcoin. […]
+# Essai sur la chaîne d’approvisionnement du Bitcoin.
 
 
 Comme on le sait, l’industrie des services financiers est sous le joug d’une transformation de fond qui se justifie la plupart du temps par une basculement nécessaire dans une ère de la « digitalisation de la chaine de la valeur ».
