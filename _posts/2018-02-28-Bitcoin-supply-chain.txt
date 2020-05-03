@@ -11,8 +11,9 @@ meta: "sante"
 
 Comme on le sait, l’industrie des services financiers est sous le joug d’une transformation de fond qui se justifie la plupart du temps par une basculement nécessaire dans une ère de la « digitalisation de la chaine de la valeur ».
 
-
 On a la même impression lorsque l’on sort de la gare centrale, à Bruxelles. on sent que quelque chose se passe. On détruit le vieux bâtiment ING que personne ne regrettera sur le mont des arts et on licencie à l’hôte des monnaies. Albert et Astrid n’en démordent pas, Godefroid de Bouillon continue de veiller derrière eux.
+
+## Contexte selon google's press
 
 En décembre 2015, on pouvait lire que BNB Paribas Fortis se délestait (sic)  de « 7% de son personnel ». « 2430 emplois sur la période 2016-2018 ». On invoquait alors un « plan d’investissement » : « C’est une grande différence par rapport à l’exercice précédent, où nous nous focalisions sur les coûts. Ici, nous investissons dans l’expertise, la digitalisation, d’autres façons de travailler et des sources de revenus alternatives. Mais aussi sur l’efficacité ». 
 
@@ -46,7 +47,7 @@ Chez Beobank, la situation semble être différente. La presse ne compte pas d�
 
 
 
-## Quelques faits statitistiques sur le secteur financier belge
+## Quelques faits statistiques sur le secteur financier belge
 
 De mon côté, je suis récemment tombé sur une base de données de l’Eurostat. La si bien connue LFS data set. Elle se base sur un échantillonnage de la population de chacun des pays européens et fournit de la sorte des indicateurs qui dérive de la même méthodologie. Ce qui permet aux statisticiens de faire des comparaisons chiffrées des différents mouvements en nombres de la force de travail. Sans trop rougir.  Elles s’échelonnent entre 2000 et 2017. 
 
