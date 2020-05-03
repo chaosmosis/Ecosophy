@@ -82,6 +82,8 @@ On retrouve avec la Roumanie, le Luxembourg, le Danemark, la Lituanie et la  Pol
 
 L’Allemagne, la France, La Belgique, l’Espagne l’Autriche, se ressemble leur côté dans leur proportion de soutien administratif et de managers.
 
+<div style="text-align: center"><img src="{{ site.baseurl }}/assets/tab.png" alt="tab"></div>
+
 Tableau 1 : Emploi par statut professionel
 
 De quoi relève ces changements substantiels dans la composition de la force de travail de ce secteur   qui transforme de l’argent en argent ? 
