@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bitcoin's Supply Chain"
+title: "Les alliances de Bitcoin"
 categories: prison
 author: "John Nève"
 meta: "sante"
