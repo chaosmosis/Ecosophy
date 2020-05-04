@@ -53,15 +53,17 @@ Le 21 septembre 2017, dans le soir, on annonce que BNB Paribas Fortis « invoqu
 
 ## Le secteur de la finance et des assurances 
 
-À l’instar de ce que l’on retrouve dans l’industrie automobile, Dominique Plihon et El Mouhoub Mouhoud soulignent que deux logiques de division du travail se font faces dans l’industrie financière, une logique cognitive et taylorienne. Ceci conduit à un double processus : « d’une part un mouvement de polarisation et de concentration de l’industrie des services aboutissant à l’émergence de très grands centres financiers internationaux, situés au cœur des mégapoles ; d’autre part, un phénomène de fragmentation et de délocalisation à l’échelle internationale, selon un schéma comparable à celui observé dans la plupart des autres secteurs industriels. »
+À l’instar de ce que l’on retrouve dans l’industrie automobile, Dominique Plihon et El Mouhoub Mouhoud soulignent que deux logiques de division du travail se font faces dans l’industrie financière, une logique cognitive et taylorienne. Ceci conduit à un double processus : 
+
+> "d’une part un mouvement de polarisation et de concentration de l’industrie des services aboutissant à l’émergence de très grands centres financiers internationaux, situés au cœur des mégapoles ; d’autre part, un phénomène de fragmentation et de délocalisation à l’échelle internationale, selon un schéma comparable à celui observé dans la plupart des autres secteurs industriels."
 
 Pour comprendre ce double processus, ces auteurs nous invitent à distinguer trois type d’activités : 
 
-> "les banques de détails ou de réseau (retail banking), la banque de gestion d’actifs (asset management) et la banque d’investissement (investment banking). Ces trois fonctions requièrent des compétences et des formes d’organisation très différentes. Le découpage des taches et des métiers entre trois niveaux : front , middle, et back offices. Ce découpage organisationnel en trois blocs s’apparente à la fragmentation de la production observée dans les firmes industrielles. […] Le front office, essentiellement les commerciaux et chargés des relations avec la clientèle. Le middle et le back office sont chargés des taches techniques et de contrôle pour partie routinières.»
+> "les banques de détails ou de réseau (retail banking), la banque de gestion d’actifs (asset management) et la banque d’investissement (investment banking). Ces trois fonctions requièrent des compétences et des formes d’organisation très différentes. Le découpage des taches et des métiers entre trois niveaux : front , middle, et back offices. Ce découpage organisationnel en trois blocs s’apparente à la fragmentation de la production observée dans les firmes industrielles. […] Le front office, essentiellement les commerciaux et chargés des relations avec la clientèle. Le middle et le back office sont chargés des taches techniques et de contrôle pour partie routinières."
 
-Quoique « cette parcellisation » en bloque de taches laisse à penser qu’elle correspond à une désindustrialisation, selon Plihon et El Mouhoub Mouhoud, ce double processus répond à une *"logique d'industrialisation de la production bancaire"*. Selon eux, ce processus n’en est pas moins sans conséquences sur le processus industriel. Elle se traduit par 
+Quoique "cette parcellisation » en bloque de taches laisse à penser qu’elle correspond à une désindustrialisation, selon Plihon et El Mouhoub Mouhoud, ce double processus répond à une *"logique d'industrialisation de la production bancaire"*. Selon eux, ce processus n’en est pas moins sans conséquences sur le processus industriel. Elle se traduit par 
 
-> « un appauvrissement des tâches, réalisées sous la contrainte de rentabilité à court terme, ce qui pourrait se révéler contre-productif à long terme. Les backs offices sont de plus en plus regroupés sur des réformes spécialisés au sein des directions CRM afin de maitriser les charges. Autrefois, chaque agence bancaire était couplée un back office. Aujourd’hui un seul back office travaille pour un ensemble des back offices est recruté au niveau bac ou bac + 2, tandis que les personnels des font offices, les salles de marché, sont souvent de biveau bac + 5 et diplôme des grandes écoles. »
+> "un appauvrissement des tâches, réalisées sous la contrainte de rentabilité à court terme, ce qui pourrait se révéler contre-productif à long terme. Les backs offices sont de plus en plus regroupés sur des réformes spécialisés au sein des directions CRM afin de maitriser les charges. Autrefois, chaque agence bancaire était couplée un back office. Aujourd’hui un seul back office travaille pour un ensemble des back offices est recruté au niveau bac ou bac + 2, tandis que les personnels des font offices, les salles de marché, sont souvent de biveau bac + 5 et diplôme des grandes écoles."
 
 Ainsi, *“loin de se traduire par une dispersion tous azimut des activités dans un vaste réseau mondial, les activités tendent à se concentrer dans les grandes agglomérations des pays riches, mais aussi à se délocaliser de manière sélective vers des zones périphériques alliant des coût salariaux limités et des infrastructures efficientes."*
 
@@ -101,20 +103,22 @@ Du tableau regroupant les regroupant de la force de travail par profession au se
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/graph5.png" alt="graph5"></div>
 
-Le premier groupe de pays regroupe, la Norvège, l’Italie, la Hongrie, la Grèce, la Lituanie, la Suède, la Slovaquie et la république chèque et qui se distingue par leur faible proportion de soutiens administratif et un pourcentage élevé de leur force de travail qualifiée de techniciens et d’associés professionnels. 
+Le premier groupe de pays regroupe, la Norvège, l’Italie, la Hongrie, la Grèce, la Lituanie, la Suède, la Slovaquie et la république chèque et qui se distingue par une faible proportion de soutien administratif et un pourcentage élevé de leur force de travail qualifiée de techniciens et d’associés professionnels. 
 
-On retrouve avec la Roumanie, le Luxembourg, le Danemark, la Lituanie et la  Pologne une ensemble de pays qui compte parmi ses rangs une proportion élevé de professionnel et  une faible proportion de manager. 
+On retrouve avec la Roumanie, le Luxembourg, le Danemark, la Lituanie et la  Pologne une ensemble de pays qui compte parmi ses rangs une proportion élevé de professionnel et une faible proportion de manager. 
 
+De leurs côtés, l’Allemagne, la France, La Belgique, l’Espagne, l’Autriche, se ressemblent dans leur proportion de soutien administratif et de managers.
 
-L’Allemagne, la France, La Belgique, l’Espagne l’Autriche, se ressemble leurs côtés dans leur proportion de soutien administratif et de managers.
+Quel âge ont ces masses de travailleurs et de travailleuses  ? Combiens de femmes et de travaielleurs et travailleuses non belges  ? sont-t-ils vraiement de plus en plus précaires les Banquiers et les assureurs ?
 
-Quel âge ont ces masses de travailleurs ? Quelles sexes ? De plus en précaire le Banquier et l’assureur ?
+Je me suis penché alors sur les statistiques portant sur la proportion de travailleurs à temps partiel et à temps complet. En effet, comme nous le verrons, si on en suit les commentateurs des métamorphoses de la composition du capital, nous assisterions aujourd’hui à une précarisation croissante de la force de travail, marquée notamment par un accéllération de la substitution des temps pleins par des contrats à temps partiels. Rotation du capital oblige.
 
-Je me suis penché alors sur les statistiques portant sur la proportion de travailleurs à temps partiel et à temps complet. Si on en suit les commentateurs des métamorphoses de la composition du capital, on assiste aujourd’hui à une précarisation poussée de la force de travail et par conséquent à une substitution des temps plein par des contrats à temps partiels. Rotation du capital oblige.
+De quoi relèvent ces changements substantiels dans la composition de la force de travail de ce secteur qui transforme, *in fine*,  de l’argent en argent ? 
 
-De quoi relève ces changements substantiels dans la composition de la force de travail de ce secteur   qui transforme de l’argent en argent ? 
+Il semble que le soutien administratif ne soit plus indispensable. Et parallèlement les techniciens et des professionnels détachés font leur apparition en masse. Comme si le secteur financier allait chercher de l’aide ailleurs que dans les « Warms bodies » du soutien administratif. Remarquons encore que cette substitution des rôles ne se fait pas poste pour poste. Le soutien administratif n’obtiendrait donc le statut de Professionnel du jour au lendemain. 
 
-Il semble que le soutien administratif ne soit plus indispensable. Et parallèlement les techniciens et des professionnels détachés font leur apparition en masse. Comme si le secteur financier allait chercher de l’aide ailleurs que dans les « Warms bodies » du soutien administratif. Remarquons encore que cette substitution des rôles ne se fait pas poste pour poste. Le soutien administratif n’obtient pas le statut de Professionnel du jour au lendemain. (il fait se former hurle derrière moi le zélé des finances) . 
+> Il faut se former hurle derrière moi le zélé des finances
+
 
 Tout ceci confirme la drole d’impression qui parcourent les passants lorsque nous sortons tous et toutes de la merveilleuse Gare Centrale, à Bruxelles. Là aussi on sent que quelque chose se passe. On détruit le vieux bâtiment ING que personne ne regrettera sur le mont des arts alors qu'on apprend qu'on licencie à l’hôtel des monnaies les derniers graphistes. Albert et Astrid n’en démordent pas, les statues restent boulonnées et Godefroid de Bouillon continuent de veiller derrière eux. 
 
