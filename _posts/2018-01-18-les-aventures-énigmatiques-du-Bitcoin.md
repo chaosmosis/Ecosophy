@@ -12,13 +12,17 @@ meta: "monnaie"
 
 
 
+
+
+<div style="text-align: center"><img src="{{ site.baseurl }}/assets/btc.png" alt="btc"></div>
+
+
+
+
+
 # Le secret de la valeur du Bitcoin
 
 
-
-<div style="text-align: center"><img src="{{ site.baseurl }}/assets/btc.png" alt="barplot"></div>
-
-
 Le bitcoin paraît au premier coup d’œil quelque chose de trivial aux yeux des économistes et qui se comprend de soi-même. Notre analyse tentera de démontrer au contraire qu’à l’instar de toute marchandise, c’est une chose très complexe, pleine de subtilité métaphysique et d’argutie théologiques. Pour parler comme le petit père Marx : le bitcoin a son esthétique.
 
 Nous nous distinguerons du maître par notre approche de la valeur d’usage du Bitcoin, puisqu’en l’espèce, l’utilité de cette chose n’est en rien évidente.  Tout simplement car il n’est en rien évident pour les créatures de la rue que le Bitcoin satisfasse un quelconque besoin « de l’homme par ses propriétés ».  Comme le dit Marx, « La forme du bois, par exemple est changée, si l’on en fait une table. Néanmoins la table reste bois, une chose ordinaire et qui tombe sous les sens. ». Dans le monde du bitcoin, la question se pose réellement de savoir si la table reste une table quand elle use de cet « objet numérique étrange » pour réaliser son existence de marchandise. 
