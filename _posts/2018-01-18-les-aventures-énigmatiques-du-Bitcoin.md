@@ -7,14 +7,17 @@ meta: "monnaie"
 ---
 
 
-> « L'or, l'eau, l'équateur ou le crime peuvent indifféremment être énoncés comme le principe des choses. » Georges Bataille, L’Anus Solaire, 1929
-
 
 > « Dans le bureau, un homme était assis, qui travaillait entre des piles de registres. »Frank Harris, Pertes et Profits, 1910 (2017)
 
 
 
-## Le secret de la valeur du Bitcoin 
+# Le secret de la valeur du Bitcoin
+
+
+
+<div style="text-align: center"><img src="{{ site.baseurl }}/assets/btc.png" alt="barplot"></div>
+
 
 Le bitcoin paraît au premier coup d’œil quelque chose de trivial aux yeux des économistes et qui se comprend de soi-même. Notre analyse tentera de démontrer au contraire qu’à l’instar de toute marchandise, c’est une chose très complexe, pleine de subtilité métaphysique et d’argutie théologiques. Pour parler comme le petit père Marx : le bitcoin a son esthétique.
 
@@ -30,7 +33,7 @@ Ici le bitcoin agira en tant que marchandise idéal, « à la fois saisissable e
 Devant tant de prouesses et de dangers, je vous propose aujourd’hui de deux propositions. (1) Le bitcoin, monnaie acéphale pour certaines, est, au sein de la société marchande, une marchandise comme une autre dont la valeur dépend du temps de travail socialement nécessaire pour la produire. D’un autre côté, (2) le bitcoin, à l’heure du numérique, n’est pas une marchandise comme les autres. Elle est aussi une monnaie, ou plutôt, comme toute marchandise, elle a en elle le germe de la forme argent, c’est à dire le rapport social fondamental de la société marchande, le caractère d’équivalent général. 
 
 
-### Le bitcoin est une marchandise
+## Le bitcoin est une marchandise
 
 
 Donner aux Bitcoin le costume d’une marchandise peut sembler facile à première vue. D’autant plus facile que plus le temps passe, plus le filage de son costume se précise et plus les décorations de son uniforme se font nombreuses.  Cependant, l’air de rien, le bitcoin, comme les discours de ses afficionados le démontrent aisément, n’est pas une marchandise comme les autres. 
@@ -133,7 +136,11 @@ Inversement, plus est petite la force productive du travail qui s’affirme dans
 
 > *"Mes valeurs d’usages, toile, habit, etc, c’est à dire les corps des marchandises, sont des combinaisons de deux éléments, matière et travail. Si l’on soustrait la somme totale des divers travaux utiles qu’il recèlent, il reste toujours un résidu matériel, un quelque chose fourni par la nature et qui ne doit rien à l’homme.  L’homme ne peut procéder autrement que la nature elle-même, c’est à dire qu’il ne fait que changer la forme des matières. Bien plus, dans cette œuvre de simple transformation il est encore constamment soutenu par des forces naturelles. Le travail n’est pas l’unique source des valeurs d’usages qu’il produit, de la richesse matérielle. Il en est le père, et la terre la mère comme dit William petit."*
 
-### Le Bitcoin et ses formes
+## Le Bitcoin et ses formes
+
+
+> « L'or, l'eau, l'équateur ou le crime peuvent indifféremment être énoncés comme le principe des choses. » Georges Bataille, L’Anus Solaire, 1929
+
 
 *"La substance de la valeur et la grandeur de la valeur sont maintenant déterminée. Reste à analyser la forme de la valeur"* du bitcoin. 
 
@@ -172,6 +179,7 @@ Après avoir reconnu que la forme d’équivalent particulière développée par
 
 #### La forme valeur générale
 
+
 « Le bitcoineur, comme Alice, est passé de l’autre côté du miroir. Dans le monde des sens physique, celui qu’Alice appelle the old room, c’est à dire ce qui est pour nous le monde des Etats territoire, l’Euro est bien réel. » 
 
 Dans sous cette forme que l’on comprend aisément le caractère énigmatique du Bitcoin. Avec lui, comme pour toute les marchandises, il y a la possibilité d’exprimer le monde ou pire, de le construire. Marx nomme ce mode d’existence de la marchandise la troisième forme de la valeur ou la forme valeur générale.
@@ -194,8 +202,7 @@ Les deux premières formes « expriment la valeur d’une marchandise quelconqu
 
 Si le bitcoin est « devient l’équivalent commun »,  il est, nous dit marx « maintenant la forme officielle des valeurs. C’est ainsi que les marchandises se montrent les unes aux autres non seulement leur égalité qualitative, mais encore leurs différences quantitatives de valeur. Les quantités de valeur projetées comme sur un même miroir », le bitcoin, « se reflètent réciproquement. »  (1 fausse ID vaut 1 gramme de Weed) 
 
-
-### Le bitcoin n’est pas une marchandise comme les autres.
+## Le bitcoin n’est pas une marchandise comme les autres.
 
 « La forme générale de la valeur relative embrassant le monde de marchandise imprime à la marchandise équivalent qui en est exclue le caractère d’équivalent général » 
 
@@ -225,7 +232,7 @@ Si l’on cherche à aller un peu plus loin, il faut, nous dit Marx, pour exprim
 
 Travaux Inuntile et utopique qui vise à faire de tous les catholiques de Papes, reviendriat à dire que l’on pourrait attribuer selon ces utopistes à n’importe quelle marchandise le role d’équivalent générale. Marx note en pas de page, quasi ironiquement, présentant la violence des possible changements engendrés suite une modification des moyens de circulation du capital (cfr son texte sur l’utopie monétaire)  que  « la forme d’ échangeable immédiate et univerelle n’indique pas le moins du monde au premier coup d’œil qu’elle est une forme polarisées, renfermant en elle des oppositions , et tout aussi inséparable de la forme contraire sous laquelle l’échange immédiat n’est pas possible que le rôle positif d’un des pôles d’un élément l’est du rôle négatif de l’autre pôle. »
 
-#### La forme monnaie ou argent
+### La forme monnaie ou argent
 
 Marx termine sa section sur la forme de valeur générale et évoque alors la « transition de la forme valeur générale à la forme argent » 
 
@@ -243,7 +250,7 @@ La forme prix intervient chez Marx ici au moment il s’agit d’exprimer la val
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/croix.png" alt="barplot"></div>
 
 
-## Le Bitcoin ne parle pas, il a besoin des échangistes pour se rendre au marché.
+### Le Bitcoin ne parle pas, il a besoin des échangistes pour se rendre au marché.
 
 
 Grâce à la théorie de la marchandise développée par Marx on comprend bien que ce qui fait le caractère spécial du bitcoin, c’est justement le costume de la marchandise qu’il endosse dans le monde Marchand avec des expressions du type, un bitcoin vaut une pizza. Un bitcoin vaut une maison. 
@@ -280,7 +287,7 @@ Marx fait ici référence la critique de l’économie politique publié quelque
 
 <div style="text-align: center"><img src="{{ site.baseurl }}/assets/cris.png" alt="barplot"></div>
 
-### Le Bitcoin comme monnaie ou la circulation simple
+## Le Bitcoin comme monnaie ou la circulation simple
 
 #### Mesure des valeurs
 
