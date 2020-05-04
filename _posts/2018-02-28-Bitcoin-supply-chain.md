@@ -116,7 +116,7 @@ De quoi relève ces changements substantiels dans la composition de la force de 
 
 Il semble que le soutien administratif ne soit plus indispensable. Et parallèlement les techniciens et des professionnels détachés font leur apparition en masse. Comme si le secteur financier allait chercher de l’aide ailleurs que dans les « Warms bodies » du soutien administratif. Remarquons encore que cette substitution des rôles ne se fait pas poste pour poste. Le soutien administratif n’obtient pas le statut de Professionnel du jour au lendemain. (il fait se former hurle derrière moi le zélé des finances) . 
 
-On a une drole d’impression lorsque l’on sort de la gare centrale, à Bruxelles. On sent que quelque chose se passe. On détruit le vieux bâtiment ING que personne ne regrettera sur le mont des arts et on licencie à l’hôtel des monnaies les derniers graphistes. Albert et Astrid n’en démordent pas, les statues restent boulonné et Godefroid de Bouillon continue de veiller derrière eux. 
+Tout ceci confirme la drole d’impression qui parcourent les passants lorsque nous sortons tous et toutes de la merveilleuse Gare Centrale, à Bruxelles. Là aussi on sent que quelque chose se passe. On détruit le vieux bâtiment ING que personne ne regrettera sur le mont des arts alors qu'on apprend qu'on licencie à l’hôtel des monnaies les derniers graphistes. Albert et Astrid n’en démordent pas, les statues restent boulonnées et Godefroid de Bouillon continuent de veiller derrière eux. 
 
 
 
