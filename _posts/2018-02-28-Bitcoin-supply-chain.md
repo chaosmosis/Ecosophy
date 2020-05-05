@@ -10,7 +10,6 @@ meta: "sante"
 
 ## Contexte de la recherche
 
-
 ```{r}
 
 
@@ -28,11 +27,12 @@ pour ne pas me faire pas chier lorsque j’en ai marre de ma condition de vie...
 pour arriver a m’organiser avec les autres bob sur un lieu de travail qui n’existe pas...
 pour donner une ou plusieurs formes à mon existence...
 pour arriver à réclamer et avoir des nouveaux droits que les nouvelles formes de travail exigent ...
-et après tout ça, essayer simplement de vivre, de désirer et de rêver...<sup id="a1">[1](#f1)</sup>
+et après tout ça, essayer simplement de vivre, de désirer et de rêver...
 
 
 ```
-
+<sup id="a1">[1](#f1)</sup>
+ 
 L’objectif de cet article est d’esquisser les grands points d’une enquête en cours dans le cadre d’un programme de doctorat entre Paris et Bruxelles au sujet du bitcoin et de sa politique d’approvisionnement.  
 
 En effet, le bitcoin tombe dans le genre de projet qui vise à s’étendre, ce genre de projet qui nous oblige à adopter d’autres lunettes, d’autres perspectives entres différents niveaux, au niveau mesoéconpmique, microéconomique mais aussi macroéconomique. 
@@ -151,6 +151,6 @@ Tout ceci confirme la drole d’impression qui parcourent les passants lorsque n
 
 
 <b id="f1">1</b>
-voy. le Messge de "Bob le Précaire",  http://intersiderale.collectifs.net/spip.php?article598 , visité le 5 mai 2020. 
+voy. le Messge de Bob le Précaire du 5 mai 2006,  http://intersiderale.collectifs.net/spip.php?article598 , visité le 5 mai 2020. 
 [↩](#a1)
 
