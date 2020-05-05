@@ -6,9 +6,32 @@ author: "John Nève"
 meta: "sante"
 ---
 
-# Essai sur la chaîne d’approvisionnement du Bitcoin. […]
+
 
 ## Contexte de la recherche
+
+
+'''{r}
+
+
+
+bonjour bonjour,
+
+je suis bob le précaire
+je n’ai pas de sexe ni de nationalité, je suis tous et toutes, vous mis ensemble et chacun de vous tout seul...
+j’étais un humain précaire et maintenant je suis un mutant précaire ....
+je reviens de l’espace intersidéral où je suis aller voir mes amis pour essayer d’avoir des super pouvoirs pour arriver à m’en sortir dans mon quotidien précaire...
+
+pour arriver à la fin du mois,
+pour faire 2 ou 3 boulot en même temps,
+pour ne pas me faire pas chier lorsque j’en ai marre de ma condition de vie...
+pour arriver a m’organiser avec les autres bob sur un lieu de travail qui n’existe pas...
+pour donner une ou plusieurs formes à mon existence...
+pour arriver à réclamer et avoir des nouveaux droits que les nouvelles formes de travail exigent ...
+et après tout ça, essayer simplement de vivre, de désirer et de rêver...<sup id="a1">[1](#f1)</sup>
+
+
+'''
 
 L’objectif de cet article est d’esquisser les grands points d’une enquête en cours dans le cadre d’un programme de doctorat entre Paris et Bruxelles au sujet du bitcoin et de sa politique d’approvisionnement.  
 
@@ -16,29 +39,29 @@ En effet, le bitcoin tombe dans le genre de projet qui vise à s’étendre, ce 
 
 Le bitcoin n’est pas seulement un assemblage regroupant différentes composantes de manière aléatoire, c’est une machine qui nous force à penser le monde depuis les états nations et en dehors d’eux. Depuis le monde numérique et en dehors de lui. Sur et sous terre.  Le bitcoin est un espace et temps qui lui propre. Il a ses rythmes et son économie. Il fait petit à petit ses preuves, aiguise les attentions, et mourra un jour. 
 
-Le Bitcoin est un projet qui nous force à imaginer une échelle différente. C’est un monde au conditionnel. 
+Le Bitcoin est un projet qui nous force à imaginer une échelle différente. C’est un monde au conditionnel. Si le Bitcoin ne parle pas, il a sa manière à lui de s'exprimer. L'enjeu de cette série est de tracer quelqu'une des ses expression concrètes. Nous reviendrons sur sur les différentes formes qui se sont exprimées depuis lui. 
 
-Le bitcoin pense mais ne parle pas.
+CarBitcoin, en tant que corps social, comme tout corps social, se projette, se délimite traces ses frontières et déterminent ses priorités. Force à été de de constater à force d'observer Bitcoin, que l'aspect pénal à jouer un rôle indéniable dans l'évolution de Bitcoin. Sujet de droit, on abusé de lui comme d'autres se fait abuser par lui. 
 
-En tant que corps social, il se projette, délimite ses frontières et ses priorités.
+Dans cette section nous avons décidé d’appréhender la chaine d’approvisionnement de Bitcoin, cette assemblage machine qui semble être du registre de ce que Arbolede appelle les "déterritorialisations monstrueuses" en nous penchant tout particulièrement avec l'industrie financière.
 
-Dans cet article nous avons décidé d’enquêter sur la chaine d’approvisionnement du bitcoin, cette assemblage machine qui semble être du registre de ce que Arbolede appelle les déterritorialisations monstrueuses.
-
-Nous empruntons ici la définition usuel de chaine d’approvisionnement  entendue comme chaines de marchandises basées sur le « subcontracting », « outsourcing » et les « allied arrangement » grâces auxquels l’autonomie des entreprises qui la compose est établie légalement même si les entreprises sont disciplinées par la chaine prise comme un tout. »
+Nous empruntons ici la définition usuel de chaine d’approvisionnement  entendue comme chaines de marchandises basées sur le "subcontracting", "outsourcing" et les "allied arrangement" grâces auxquels l’autonomie des entreprises qui les compose est établie légalement même si les entreprises sont disciplinées par la chaine prise comme un tout."
 
 En d’autres termes le bitcoin est entendu ici à l’instar d’un assemblage dont les parties sont irréductibles les unes des autres mais agissent de concert via des arrangements entre alliée, des externalisations contractées et de la sous–traitances. 
 
-Comme le souligne l’un des artisanes de ce concept, Anna Tsing, « de telles chaines d’approvisionnement lient de manière ostensible des entrepreneurs indépendants, rendant possible la diffusion mondiale de procédées marchands. Le travail, la nature et le capital sont mobilisé dans des niches économiques fragmentés mais liées les unes aux autres ». 
+Comme le souligne l’un des artisanes de ce concept, Ana Tsing, « de telles chaines d’approvisionnement lient de manière ostensible des entrepreneurs indépendants, rendant possible la diffusion mondiale de procédées marchands. Le travail, la nature et le capital sont mobilisé dans des niches économiques fragmentés mais liées les unes aux autres" . 
 
-Ainsi dans le cas du Bitcoin on pense évidemment tout de suite aux millions d’ordinateurs qui tournent jours et nuits afin de faire fonctionner ces systèmes. Aux batteries qu’il faut remplacer. On pense à celles et ceux qui doivent les récupérer. On pense à toute l’électricité nécessaire pour faire tourner ce système dit du « minage ». On se rappelle des lois sur les mines, de rapports infamant sur les houillères des bassins miniers belges et anglais dont Marx relate l’épopée dans le premier livre du capital. On pense aussi aux milliers de pages écrites au sujet des meilleurs moyens à adopter afin de s’échanger des marchandises. On pense  encore aux marchands et acheteurs qui s’outillent ci et là de ces outil électroniques que d’aucuns n’hésite pas comparer la dite révolution d’internet. 
+(Ainsi dans le cas du Bitcoin on pense évidemment tout de suite aux millions d’ordinateurs qui tournent jours et nuits afin de faire fonctionner ces systèmes. Aux batteries qu’il faut remplacer. On pense à celles et ceux qui doivent les récupérer. On pense à toute l’électricité nécessaire pour faire tourner ce système dit du « minage ». On se rappelle des lois sur les mines, de rapports infamant sur les houillères des bassins miniers belges et anglais dont Marx relate l’épopée dans le premier livre du capital. On pense aussi aux milliers de pages écrites au sujet des meilleurs moyens à adopter afin de s’échanger des marchandises. On pense  encore aux marchands et acheteurs qui s’outillent ci et là de ces outil électroniques que d’aucuns n’hésite pas comparer la dite révolution d’internet. )
 
-Pour notre part, nous proposons ici d’étudier en trois point le bitcoin en suivant ce dernier à l’aide de la notion de d’approvisionnement. Nous nous pencherons premièrement sur sa relation avec l’industrie de la finance, ensuite sur l’une des des composantes essentielles de "la chaine de valeur digital" qui donne aux microprocesseurs des dits "mineurs de Bitcoin" toute leur puissance :  l’or, et enfin, avant de conclure sur les aspect monstrueux que déploye le Bitcoin et son monde, je me  pencheroai sur l’un des se premier fait d’armes, l'arrestation de Ross Ulbricht.
+Pour notre part, nous proposons ici d’étudier en trois points Bitcoin en suivant ce dernier à l’aide de la notion de d’approvisionnement. 
 
-Considérer le bitcoin comme une chaine d’approvisionnement concentre notre attention sur les questions de diversité à l’intérieur des structures du pouvoir économique, social et idéologique.  Les questions soulevées par les chaines d’approvisionnements sont clefs dans la mesure où l'on chercher à caractérise le problème de la crise de la mesure de la valeur, considéré par André Gorz, comme la Crise du Capitalisme tout court.
+Nous nous pencherons premièrement sur sa relation avec l’industrie de la finance, ensuite sur l’une des des composantes essentielles de "la chaine de valeur digital", l'une des composantes qui donne aux microprocesseurs des dits "mineurs de Bitcoin" leurs puissances :  l’or.  Enfin, avant de conclure sur les aspect monstrueux que déploye le Bitcoin et son monde, je me pencheroai sur l’un des se premier fait d’armes, l'arrestation de Ross Ulbricht pour l'administratin de d'un site web.
+
+Considérer le bitcoin comme une chaine d’approvisionnement concentre notre attention sur les questions de diversité à l’intérieur des structures du pouvoir économique, social et idéologique.  Les questions soulevées par les chaines d’approvisionnements sont clefs dans la mesure où l'on cherche à caractérise le problème de la crise de la mesure de la valeur, considérée par André Gorz et d'autres, comme le caractère typique du Capitalisme Cognitif.
 
 ## L'industrie de la finance et des services
 
-Secteur relativement protéger par le mouvement de fragmentation de la production à l’échelle mondiale qui donnèrent à Seraing et Detroit un bloom du précaire désormais historique, le secteur de l’industrie et des services financiers européen connaît depuis le début du millénaire chrétien une restructuration sans précédent. Il ne se passe pas un mois depuis la fameuse « crise financière » de 2008 sans qu’on puisse lire dans la presse économique des nouvelles de ce que les capitaines d’industrie opérant sur le sol belge appellent des « plan d’investissement » pour l’avenir. 
+Secteur relativement protéger par le mouvement de fragmentation de la production à l’échelle mondiale qui donnèrent à Seraing et Detroit un bloom du précaire désormais historique , le secteur de l’industrie et des services financiers européen connaît depuis le début du millénaire chrétien une restructuration sans précédent. Il ne se passe pas un mois depuis la fameuse « crise financière » de 2008 sans qu’on puisse lire dans la presse économique des nouvelles de ce que les capitaines d’industrie opérant sur le sol belge appellent des « plan d’investissement » pour l’avenir. 
 
 Et le scénario semble se répéter pour chacune des grosses banques en Belgique. Dans la presse on retrouve depuis 2008 BNB Paribas, Belfius, Axa Banque, Triodos, et c’est à chaque fois le même discours : c’est la faute  à la numérisation si on licencie. Les entreprises ne feraient ainsi que répondre à l’inéducable progrès technologique en matière de gestion de l’information.
 
@@ -127,7 +150,7 @@ Tout ceci confirme la drole d’impression qui parcourent les passants lorsque n
 
 
 
-<b id="f12">12</b>
-voy. article de la Province, 
-[↩](#a12)
+<b id="f1">1</b>
+voy. le Messge de "Bob le Précaire",  http://intersiderale.collectifs.net/spip.php?article598 , visité le 5 mai 2020. 
+[↩](#a1)
 
