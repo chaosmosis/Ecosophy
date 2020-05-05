@@ -11,7 +11,7 @@ meta: "sante"
 ## Contexte de la recherche
 
 
-'''{r}
+```{r}
 
 
 
@@ -31,7 +31,7 @@ pour arriver à réclamer et avoir des nouveaux droits que les nouvelles formes 
 et après tout ça, essayer simplement de vivre, de désirer et de rêver...<sup id="a1">[1](#f1)</sup>
 
 
-'''
+```
 
 L’objectif de cet article est d’esquisser les grands points d’une enquête en cours dans le cadre d’un programme de doctorat entre Paris et Bruxelles au sujet du bitcoin et de sa politique d’approvisionnement.  
 
